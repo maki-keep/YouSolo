@@ -18,10 +18,10 @@ function IdolButton({
   image_url: string,
   handleOpenView: React.MouseEventHandler<HTMLButtonElement>
 }) {
-  const id = `idol-button-${index}`;
+  const idAttribute = `idol-button-${index}`;
   return (
     <button
-      id={id}
+      id={idAttribute}
       className="idol-button"
       aria-label={`open ${idol_name} view`}
       onClick={handleOpenView}
@@ -35,7 +35,11 @@ function IdolButton({
           background-color: ${image_color};
         `}
       />
-      <h2>{idol_name}<br />{idol_name_jp}</h2>
+      <h2>
+        {idol_name}
+        <br />
+        {idol_name_jp}
+      </h2>
     </button>
   );
 }

@@ -73,7 +73,11 @@ function App() {
         </div>
       </main>
       <footer>
-        <span className="copyright">©2013 PROJECT Lovelive!\n©2017 PROJECT Lovelive! Sunshine!!</span>
+        <span className="copyright">
+          ©2013 PROJECT Lovelive!
+          <br />
+          ©2017 PROJECT Lovelive! Sunshine!!
+        </span>
       </footer>
     </div>
   );

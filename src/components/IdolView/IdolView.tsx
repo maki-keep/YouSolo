@@ -24,11 +24,11 @@ function IdolView({
   songs: SongI[],
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
-  const id = `idol-view-${index}`;
+  const idAttribute = `idol-view-${index}`;
   return (
     <div
-      id={id}
-      className={`idol-view${activeIdolView === id ? " active" : ""}`}
+      id={idAttribute}
+      className={`idol-view${activeIdolView === idAttribute ? " active" : ""}`}
     >
       <div
         className="idol-details"
@@ -42,7 +42,11 @@ function IdolView({
             background-color: ${image_color};
           `}
         />
-        <h2>{idol_name}<br />{idol_name_jp}</h2>
+        <h2>
+          {idol_name}
+          <br />
+          {idol_name_jp}
+        </h2>
       </div>
       <ol className="songs">
       {songs.map(song => (
