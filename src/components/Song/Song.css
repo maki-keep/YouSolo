@@ -1,0 +1,10 @@
+.song-button {
+  max-width: 360px;
+}
+.song-title {
+  font-size: 1.25rem;
+}
+.release-date {
+  font-size: 0.9rem;
+  margin-top: 0.45rem;
+}

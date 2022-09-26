@@ -1,0 +1,3 @@
+.idol-button img {
+  border-radius: calc(var(--button-image-size) / 2);
+}

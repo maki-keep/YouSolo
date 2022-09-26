@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+:root {
+  --button-image-size: 72px;
+  --gutter-size: 32px;
+
+  /* derivative variables */
+  --button-width: var(--button-image-size) + 16px;
+}
+html, body {
+  font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Century Gothic", "YuGothic", "Meiryo", "Helvetica Neue", "Arial", sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }

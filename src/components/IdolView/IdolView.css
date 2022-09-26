@@ -1,0 +1,26 @@
+.idol-view {
+  background-color: #FFFFFF;
+  display: none;
+  left: 0;
+  padding: var(--gutter-size);
+  position: absolute;
+  top: 0;
+}
+.idol-view.active {
+  display: block;
+}
+.idol-details {
+  margin-bottom: var(--gutter-size);
+}
+.idol-details img {
+  border-radius: calc(var(--button-image-size) / 2);
+}
+.idol-details h2 {
+  display: inline-block;
+  margin-left: 1rem;
+}
+.songs {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--gutter-size) / 2);
+}

@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "group": "µ's",
+      "background_image": {
+        "background_color": "#FFCBDE",
+        "url": "μ-s-background.png"
+      }
+    },
+    {
+      "group": "Aqours",
+      "background_image": {
+        "background_color": "#B5F3FE",
+        "url": "Aqours-background.png"
+      }
+    }
+  ]
+}

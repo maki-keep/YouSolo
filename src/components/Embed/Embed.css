@@ -1,0 +1,7 @@
+.embed-container {
+  padding: var(--gutter-size) var(--gutter-size) 0;
+}
+.embed-placeholder {
+  height: 124px;
+  width: 296px;
+}

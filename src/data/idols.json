@@ -1,0 +1,491 @@
+{
+  "items": [
+    {
+      "name": "Toujou Nozomi",
+      "name_jp": "東條 希",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#925DA3",
+        "url": "Toujou_Nozomi_Solo_CD_2__Violet_Moon_.jpg"
+      }
+    },
+    {
+      "name": "Yazawa Nico",
+      "name_jp": "矢澤 にこ",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#EC6F9B",
+        "url": "Yazawa_Nico_Solo_CD_2__Momoiro♡Egao_.jpg"
+      }
+    },
+    {
+      "name": "Ayase Eli",
+      "name_jp": "絢瀬 絵里",
+      "group": "µ's",
+      "songs": [
+        {
+          "id": "QuPVikSVyx8",
+          "release_date": "2012-02-19",
+          "title": "µ's - Bokura no LIVE Kimi to no LIFE (Eli Ayase Mix)"
+        },
+        {
+          "id": "03hPXUUW6N8",
+          "release_date": "2012-02-19",
+          "title": "µ's - Yuujou No Change (Eli Ayase Mix)"
+        },
+        {
+          "id": "OkzCtB7QyTk",
+          "release_date": "2012-02-19",
+          "title": "µ's - Snow halation (Eli Ayase Mix)"
+        },
+        {
+          "id": "ghJ9ScUk6l8",
+          "release_date": "2012-02-19",
+          "title": "µ's - baby maybe Koi no Button (Eli Ayase Mix)"
+        },
+        {
+          "id": "TjpmX6Oj6wQ",
+          "release_date": "2012-02-19",
+          "title": "µ's - Diamond Princess no Yuuutsu (Eli Ayase Mix)"
+        },
+        {
+          "id": "nTsNFeuw4zw",
+          "release_date": "2012-02-19",
+          "title": "µ's - Love Novels (Eli Ayase Mix)"
+        },
+        {
+          "id": "0ssmR5B5ANU",
+          "release_date": "2012-02-19",
+          "title": "µ's - Natsu iro Egao de 1,2,Jump! (Eli Ayase Mix)"
+        },
+        {
+          "id": "Kob3HlMP-H0",
+          "release_date": "2012-02-19",
+          "title": "µ's - Mermaid festa vol 1 (Eli Ayase Mix)"
+        },
+        {
+          "id": "NncyZQuAnvM",
+          "release_date": "2012-07-25",
+          "title": "ありふれた悲しみの果て"
+        },
+				{
+          "id": "gdfq5bnm8UU",
+          "release_date": "2013-04-24",
+          "title": "斯くも憂美な日となりて"
+        },
+        {
+          "id": "JB1ChiTweag",
+          "release_date": "2014-04-02",
+          "title": "もぎゅっとloveで接近中! (ELI Mix)"
+        },
+        {
+          "id": "2OjEg_UyEJ0",
+          "release_date": "2014-04-02",
+          "title": "愛してるばんざーい! (ELI Mix)"
+        },
+        {
+          "id": "Q0g11dHJBg0",
+          "release_date": "2014-04-02",
+          "title": "soldier game (ELI Mix)"
+        },
+        {
+          "id": "sYUyuE6h3d0",
+          "release_date": "2014-04-02",
+          "title": "Wonderful Rush (ELI Mix)"
+        },
+        {
+          "id": "YhKbOhDnXm8",
+          "release_date": "2014-04-02",
+          "title": "Oh,Love & Peace! (ELI Mix)"
+        },
+        {
+          "id": "w2UbUa9xF-M",
+          "release_date": "2014-04-02",
+          "title": "僕らは今のなかで (ELI Mix)"
+        },
+        {
+          "id": "EkCM-QTJKsc",
+          "release_date": "2014-04-02",
+          "title": "WILD STARS (ELI Mix)"
+        },
+        {
+          "id": "BBUtQjkOAbU",
+          "release_date": "2014-04-02",
+          "title": "きっと青春が聞こえる (ELI Mix)"
+        },
+        {
+          "id": "dDWpgIsUVV0",
+          "release_date": "2014-04-02",
+          "title": "輝夜の城で踊りたい (ELI Mix)"
+        },
+        {
+          "id": "-hQqICOuFR0",
+          "release_date": "2014-04-02",
+          "title": "Wonder zone (ELI Mix)"
+        },
+        {
+          "id": "k_MjiCF2kEw",
+          "release_date": "2014-04-02",
+          "title": "No brand girls (ELI Mix)"
+        },
+        {
+          "id": "7givBdehLcY",
+          "release_date": "2014-04-02",
+          "title": "START:DASH!! (ELI Mix)"
+        },
+        {
+          "id": "apzaA443sKc",
+          "release_date": "2018-03-28",
+          "title": "Music S.T.A.R.T!! (ELI Mix)"
+        },
+        {
+          "id": "DzVDv-trt1o",
+          "release_date": "2018-03-28",
+          "title": "LOVELESS WORLD (ELI Mix)"
+        },
+        {
+          "id": "GXHa1p3mCqA",
+          "release_date": "2018-03-28",
+          "title": "タカラモノズ (ELI Mix)"
+        },
+        {
+          "id": "AijAy8Awhcs",
+          "release_date": "2018-03-28",
+          "title": "Paradise Live (ELI Mix)"
+        },
+        {
+          "id": "U4d3p3trfTI",
+          "release_date": "2018-03-28",
+          "title": "それは僕たちの奇跡 (ELI Mix)"
+        },
+        {
+          "id": "O7C5fFN4_6k",
+          "release_date": "2018-03-28",
+          "title": "だってだって噫無情 (ELI Mix)"
+        },
+        {
+          "id": "n1-FKYkVDio",
+          "release_date": "2018-03-28",
+          "title": "どんなときもずっと (ELI Mix)"
+        },
+        {
+          "id": "ae3EZrkcfV8",
+          "release_date": "2018-03-28",
+          "title": "COLORFUL VOICE (ELI Mix)"
+        },
+        {
+          "id": "TP34xk47KsE",
+          "release_date": "2018-03-28",
+          "title": "ユメノトビラ (ELI Mix)"
+        },
+        {
+          "id": "CdnNQ-rfL70",
+          "release_date": "2018-03-28",
+          "title": "SENTIMENTAL StepS (ELI Mix)"
+        },
+        {
+          "id": "abNmQmJAZmQ",
+          "release_date": "2018-03-28",
+          "title": "Love wing bell (ELI Mix)"
+        },
+        {
+          "id": "n8_A68wXmdo",
+          "release_date": "2018-03-28",
+          "title": "Dancing stars on me! (ELI Mix)"
+        },
+        {
+          "id": "BEWqRJ8Gn0A",
+          "release_date": "2018-03-28",
+          "title": "KiRa-KiRa Sensation! (ELI Mix)"
+        },
+        {
+          "id": "qLnwqfEE3SE",
+          "release_date": "2018-03-28",
+          "title": "Happy maker! (ELI Mix)"
+        },
+        {
+          "id": "QMz-OkSHmAU",
+          "release_date": "2018-03-28",
+          "title": "Shangri-La Shower (ELI Mix)"
+        },
+        {
+          "id": "L1MNV1Gl_ZE",
+          "release_date": "2018-03-28",
+          "title": "るてしキスキしてる (ELI Mix)"
+        },
+        {
+          "id": "-_dzIRHm2ro",
+          "release_date": "2018-03-28",
+          "title": "ミはμ'sicのミ (ELI Mix)"
+        },
+        {
+          "id": "RKwXkt1VkLM",
+          "release_date": "2018-03-28",
+          "title": "Super LOVE=Super LIVE! (ELI Mix)"
+        },
+        {
+          "id": "M1Qws1-UxYk",
+          "release_date": "2018-03-28",
+          "title": "Angelic Angel (ELI Mix)"
+        },
+        {
+          "id": "q8Ig1nSUYBE",
+          "release_date": "2018-03-28",
+          "title": "SUNNY DAY SONG (ELI Mix)"
+        },
+        {
+          "id": "gcrgRLzczmA",
+          "release_date": "2018-03-28",
+          "title": "僕たちはひとつの光 (ELI Mix)"
+        },
+        {
+          "id": "kttRV8Fm8co",
+          "release_date": "2018-03-28",
+          "title": "?←HEARTBEAT (ELI Mix)"
+        },
+        {
+          "id": "oygg18SmflY",
+          "release_date": "2018-03-28",
+          "title": "Cutie Panther (ELI Mix)"
+        },
+        {
+          "id": "XrhQ7SIidHQ",
+          "release_date": "2018-03-28",
+          "title": "夏、終わらないで。 (ELI Mix)"
+        },
+        {
+          "id": "tTZR5Xb2snU",
+          "release_date": "2018-03-28",
+          "title": "冬がくれた予感 (ELI Mix)"
+        },
+        {
+          "id": "gVkzUViIcuM",
+          "release_date": "2018-03-28",
+          "title": "Trouble Busters (ELI Mix)"
+        },
+        {
+          "id": "twhqKBHHJAw",
+          "release_date": "2018-03-28",
+          "title": "錯覚CROSSROADS (ELI Mix)"
+        },
+        {
+          "id": "ha0Pc_SnvaA",
+          "release_date": "2018-03-28",
+          "title": "PSYCHIC FIRE (ELI Mix)"
+        },
+        {
+          "id": "utB1ggh4pwM",
+          "release_date": "2018-03-28",
+          "title": "HEART to HEART! (ELI Mix)"
+        },
+        {
+          "id": "ia7M-uKsbe4",
+          "release_date": "2018-03-28",
+          "title": "嵐のなかの恋だから (ELI Mix)"
+        },
+        {
+          "id": "XjZDskybfis",
+          "release_date": "2018-03-28",
+          "title": "MOMENT RING (ELI Mix)"
+        },
+        {
+          "id": "o_pkExnXCVQ",
+          "release_date": "2018-03-28",
+          "title": "さようならへさよなら! (ELI Mix)"
+        },
+        {
+          "id": "7U2cvnsB17U",
+          "release_date": "2020-09-09",
+          "title": "硝子の花園 (ELI Mix)"
+        },
+        {
+          "id": "CfgkU7D9t8I",
+          "release_date": "2020-09-09",
+          "title": "LONELIEST BABY (ELI Mix)"
+        },
+        {
+          "id": "dXpsj3US3U0",
+          "release_date": "2020-09-09",
+          "title": "Storm in Lover (ELI Mix)"
+        },
+        {
+          "id": "qm2_V2aOpSo",
+          "release_date": "2020-09-09",
+          "title": "そして最後のページには (ELI Mix)"
+        },
+        {
+          "id": "0HIoSI8xzpg",
+          "release_date": "2020-09-09",
+          "title": "Silent tonight (ELI Mix)"
+        },
+        {
+          "id": "RL7ZMyh_F6o",
+          "release_date": "2020-09-09",
+          "title": "これから (ELI Mix)"
+        }
+      ],
+      "button_image": {
+        "background_color": "#1EB8EC",
+        "url": "Ayase_Eli_Solo_CD_2__Ice_Blue_no_Shunkan_.jpg"
+      }
+    },
+    {
+      "name": "Kousaka Honoka",
+      "name_jp": "高坂 穂乃果",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#F39801",
+        "url": "Kousaka_Honoka_Solo_CD_2__orange_cheers_.jpg"
+      }
+    },
+    {
+      "name": "Minami Kotori",
+      "name_jp": "南 ことり",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#ABADAC",
+        "url": "Minami_Kotori_Solo_CD_2__Junpaku_Romance_.jpg"
+      }
+    },
+    {
+      "name": "Sonoda Umi",
+      "name_jp": "園田 海未",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#2C72B7",
+        "url": "Sonoda_Umi_Solo_CD_2__Aoi_no_Shinwa_.jpg"
+      }
+    },
+    {
+      "name": "Nishikino Maki",
+      "name_jp": "西木野 真姫",
+      "group": "µ's",
+      "songs": [
+        {
+          "id": "ziwbYO4nNTc",
+          "release_date": "2012-02-19",
+          "title": "µ's - Diamond Princess no Yuuutsu (Maki Nishikino Mix)"
+        }
+      ],
+      "button_image": {
+        "background_color": "#E93421",
+        "url": "Nishikino_Maki_Solo_CD_2__SCARLET_PRINCESS_.jpg"
+      }
+    },
+    {
+      "name": "Hoshizora Rin",
+      "name_jp": "星空 凛",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#FEF102",
+        "url": "Hoshizora_Rin_Solo_CD_2__Ring_a_yellow_bell_.jpg"
+      }
+    },
+    {
+      "name": "Koizumi Hanayo",
+      "name_jp": "小泉 花陽",
+      "group": "µ's",
+      "songs": [],
+      "button_image": {
+        "background_color": "#23AC3A",
+        "url": "Koizumi_Hanayo_Solo_CD_2__Wakakusa_no_Season_.jpg"
+      }
+    },
+    {
+      "name": "Ohara Mari",
+      "name_jp": "小原 鞠莉",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#6458A4",
+        "url": "Mari_Solo_Album.jpg"
+      }
+    },
+    {
+      "name": "Kurosawa Dia",
+      "name_jp": "黒澤 ダイヤ",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#E70014",
+        "url": "DiaSoloAlbum.jpg"
+      }
+    },
+    {
+      "name": "Matsuura Kanan",
+      "name_jp": "松浦 果南",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#63C0AD",
+        "url": "KananSoloAlbum.jpg"
+      }
+    },
+    {
+      "name": "Watanabe You",
+      "name_jp": "渡辺 曜",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#67AADF",
+        "url": "YouSoloAlbum.jpg"
+      }
+    },
+    {
+      "name": "Takami Chika",
+      "name_jp": "高海 千歌",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#F28100",
+        "url": "Chikasoloalbum.jpg"
+      }
+    },
+    {
+      "name": "Sakurauchi Riko",
+      "name_jp": "桜内 梨子",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#F39C95",
+        "url": "RikoSoloAlbum.jpg"
+      }
+    },
+    {
+      "name": "Tsushima Yoshiko",
+      "name_jp": "津島 善子",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#9F9F9F",
+        "url": "Yoshiko_Solo_Album.jpg"
+      }
+    },
+    {
+      "name": "Kurosawa Ruby",
+      "name_jp": "黒澤 ルビィ",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#EE6DA6",
+        "url": "RubySoloAlbum.jpg"
+      }
+    },
+    {
+      "name": "Kunikida Hanamaru",
+      "name_jp": "国木田 花丸",
+      "group": "Aqours",
+      "songs": [],
+      "button_image": {
+        "background_color": "#FEE202",
+        "url": "HanamaruFirstSoloAlbum.jpg"
+      }
+    }
+  ]
+}

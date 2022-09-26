@@ -1,56 +1,80 @@
-import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
-import './App.css';
+import React from "react";
+import { useEffect, useState } from "react";
+import { Song as SongI } from "./types/types";
+import "./App.css";
+import logo from "./media/yousolo-logo.png";
+import idols from "./data/idols.json";
+import Navbar from "./components/Navbar/Navbar";
+import Embed from "./components/Embed/Embed";
+import IdolButton from "./components/IdolButton/IdolButton";
+import IdolView from "./components/IdolView/IdolView";
 
 function App() {
+  const [activeIdolView, setActiveIdolView] = useState("");
+  const [currentSongId, setCurrentSongId] = useState("");
+  // useEffect(() => {}, [activeIdolView]);
+  const handleOpenView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
+    const index = e.currentTarget.id.substring(12);
+    setActiveIdolView(`idol-view-${index}`);
+  };
+  const handleSelectSong: React.MouseEventHandler<HTMLButtonElement> = (e) => {
+    const { name } = e.currentTarget;
+    setCurrentSongId(name);
+  };
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <Counter />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <span>
-          <span>Learn </span>
-          <a
-            className="App-link"
-            href="https://reactjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React
-          </a>
-          <span>, </span>
-          <a
-            className="App-link"
-            href="https://redux.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Redux
-          </a>
-          <span>, </span>
-          <a
-            className="App-link"
-            href="https://redux-toolkit.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Redux Toolkit
-          </a>
-          ,<span> and </span>
-          <a
-            className="App-link"
-            href="https://react-redux.js.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Redux
-          </a>
-        </span>
+      <header>
+        <Navbar />
       </header>
+      <main>
+        <h1>
+          <img
+            src={logo}
+            className="YouSolo-logo"
+            alt="YouSolo School idol solos"
+            width="204"
+            height="59"
+          />
+        </h1>
+        <div className="wrapper">
+          <Embed
+            currentSongId={currentSongId}
+          />
+          <div className="idol-buttons-container">
+            <div className="idol-buttons">
+            {idols.items.map((item, index) => (
+              <IdolButton
+                key={item.name}
+                index={index}
+                idol_name={item.name}
+                idol_name_jp={item.name_jp}
+                image_color={item.button_image.background_color}
+                image_url={item.button_image.url}
+                handleOpenView={handleOpenView}
+              />
+            ))}
+            </div>
+          </div>
+          <div className="idol-views">
+          {idols.items.map((item, index) => (
+            <IdolView
+              key={item.name}
+              index={index}
+              activeIdolView={activeIdolView}
+              idol_name={item.name}
+              idol_name_jp={item.name_jp}
+              image_color={item.button_image.background_color}
+              image_url={item.button_image.url}
+              songs={item.songs}
+              handleSelectSong={handleSelectSong}
+            />
+          ))}
+          </div>
+        </div>
+      </main>
+      <footer>
+        <span className="copyright">©2013 PROJECT Lovelive!\n©2017 PROJECT Lovelive! Sunshine!!</span>
+      </footer>
     </div>
   );
 }

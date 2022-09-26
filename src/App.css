@@ -1,39 +1,47 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header, footer {
+  background-color: #E4007F;
+  color: #FFFFFF;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-float infinite 3s ease-in-out;
-  }
+header {
+  height: var(--gutter-size);
+  padding: 0 calc(var(--gutter-size) / 4);
 }
-
-.App-header {
-  min-height: 100vh;
+main {
+  background-color: #FFCBDE;
+  padding-top: var(--gutter-size);
+}
+h1 {
+  margin: var(--gutter-size) auto;
+}
+button {
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  background-color: #FFFFFF;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  max-width: fit-content;
+  position: relative;
 }
-
-.App-link {
-  color: rgb(112, 76, 182);
+.idol-buttons-container {
+  padding: var(--gutter-size);
 }
-
-@keyframes App-logo-float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
+.idol-buttons {
+  display: grid;
+  gap: calc(var(--gutter-size) / 2);
+  grid-auto-flow: row;
+  grid-auto-rows: calc(var(--button-image-size) + 48px);
+  grid-template-columns: repeat(3, calc(var(--button-width)));
+}
+footer {
+  padding: 1.8rem 0;
+}
+footer .copyright {
+  font-size: 0.9rem;
 }
