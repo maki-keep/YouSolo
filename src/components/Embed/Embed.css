@@ -1,7 +1,15 @@
 .embed-container {
-  padding: var(--gutter-size) var(--gutter-size) 0;
+  margin: inherit;
+  max-width: 360px;
+  min-height: var(--embed-container-height);
+  overflow: auto;
+  padding: var(--gutter-size);
+  position: relative;
 }
-.embed-placeholder {
-  height: 124px;
-  width: 296px;
+.embed-container iframe {
+  position: absolute;
+  /* absolute */
+  left: var(--gutter-size);
+  top: var(--gutter-size);
+  /* end of absolute */
 }

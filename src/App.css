@@ -1,43 +1,106 @@
 .App {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
   text-align: center;
-}
-header, footer {
-  background-color: #E4007F;
-  color: #FFFFFF;
+  width: 100vw;
 }
 header {
-  height: var(--gutter-size);
+  height: var(--tap-size);
   padding: 0 calc(var(--gutter-size) / 4);
+  position: absolute;
+  /* absolute */
+  left: 0;
+  top: 0;
+  /* end of absolute */
+  width: 100%;
+  z-index: 10;
 }
 main {
   background-color: #FFCBDE;
-  padding-top: var(--gutter-size);
+  padding-top: var(--tap-size);
+  position: absolute;
+  /* absolute */
+  left: 0;
+  top: 0;
+  /* end of absolute */
+  width: inherit;
 }
 h1 {
-  margin: var(--gutter-size) auto;
+  line-height: 0;
+}
+h2 {
+  font-size: 1.25rem;
+}
+li {
+  display: contents;
 }
 button {
   border: 0;
   cursor: pointer;
+  font-family: inherit;
   margin: 0;
   padding: 0;
 }
-.wrapper {
-  background-color: #FFFFFF;
-  display: flex;
-  flex-direction: column;
+.logo-container {
+  margin: inherit;
   max-width: fit-content;
+}
+.wrapper {
+  height: calc(100vh - var(--tap-size));
+  margin: 0 auto;
   position: relative;
 }
+.idol-buttons-box {
+  height: var(--idol-buttons-box-height);
+  margin: inherit;
+  max-width: 360px;
+  padding: calc(var(--gutter-size) / 2);
+}
 .idol-buttons-container {
-  padding: var(--gutter-size);
+  height: 100%;
+  overflow-y: scroll;
 }
 .idol-buttons {
   display: grid;
+  /* grid */
+  align-items: start;
   gap: calc(var(--gutter-size) / 2);
   grid-auto-flow: row;
-  grid-auto-rows: calc(var(--button-image-size) + 48px);
+  grid-auto-rows: calc(var(--button-image-size) + 68px);
   grid-template-columns: repeat(3, calc(var(--button-width)));
+  justify-items: stretch;
+  /* end of grid */
+}
+.lovelive-button {
+  background-color: #FFFFFF40;
+  border: 2px solid #FFFFFF;
+  border-radius: 2px;
+  line-height: 1.25;
+  transition: background-color .2s ease-in-out;
+}
+.lovelive-text {
+  text-shadow: 0 0 4px #FFFFFF;
+}
+.overlay {
+  background-color: #00000080;
+  height: 100vh;
+  padding-top: var(--tap-size);
+  position: absolute;
+  /* absolute */
+  left: 0;
+  top: 0;
+  /* end of absolute */
+  width: 100vw;
+  z-index: 9;
+}
+.idol-views {
+  background-color: #FFFFFFCC;
+  height: calc(100vh - var(--tap-size));
+  margin: 0 auto;
+  max-width: 360px;
+  min-width: min(100vw, 360px);
+  padding: calc(var(--gutter-size) / 2);
 }
 footer {
   padding: 1.8rem 0;

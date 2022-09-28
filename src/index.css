@@ -1,14 +1,27 @@
 :root {
   --button-image-size: 72px;
+  --tap-size: 48px;
   --gutter-size: 32px;
+  --video-height: 222px;
+  --video-width: 296px;
+  --yousolo-logo-height: 59px;
+  --yousolo-logo-width: 204px;
 
   /* derivative variables */
-  --button-width: var(--button-image-size) + 16px;
+  --button-width: calc(var(--button-image-size) + 16px);
+  --embed-container-height: calc(var(--video-height) + var(--gutter-size) * 2);
+  --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--embed-container-height));
+  --songs-container-height: calc(100% - var(--gutter-size) * 2 - var(--button-image-size));
+}
+*, *::before, *::after {
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
 }
 html, body {
   font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Century Gothic", "YuGothic", "Meiryo", "Helvetica Neue", "Arial", sans-serif;
   font-size: 12px;
   line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }

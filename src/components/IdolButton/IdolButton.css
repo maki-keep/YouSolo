@@ -1,3 +1,12 @@
+.idol-button {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* end of flex */
+  width: var(--button-width);
+}
 .idol-button img {
   border-radius: calc(var(--button-image-size) / 2);
 }

@@ -5,7 +5,10 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav>
-      <button id="more">
+      <button
+        id="more"
+        aria-label="open more options"
+      >
         <Icon icon="ci:more-horizontal" color="white" width="24" height="24" />
       </button>
     </nav>

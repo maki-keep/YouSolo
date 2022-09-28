@@ -13,6 +13,7 @@ function IdolView({
   image_color,
   image_url,
   songs,
+  handleCloseView,
   handleSelectSong
 }: {
   index: number,
@@ -22,13 +23,17 @@ function IdolView({
   image_color: string,
   image_url: string,
   songs: SongI[],
+  handleCloseView: React.MouseEventHandler<HTMLButtonElement>
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
   const idAttribute = `idol-view-${index}`;
   return (
     <div
       id={idAttribute}
-      className={`idol-view${activeIdolView === idAttribute ? " active" : ""}`}
+      className="idol-view"
+      style={{
+        display: activeIdolView === idAttribute ? "block" : "none"
+      }}
     >
       <div
         className="idol-details"
@@ -48,15 +53,24 @@ function IdolView({
           {idol_name_jp}
         </h2>
       </div>
-      <ol className="songs">
-      {songs.map(song => (
-        <Song
-          key={song.id}
-          song={song}
-          handleSelectSong={handleSelectSong}
-        />
-      ))}
-      </ol>
+      <button
+        className="close-view"
+        onClick={handleCloseView}
+      >
+        Close view
+      </button>
+      <div className="songs-container">
+        <ol className="songs">
+        {songs.map(song => (
+          <Song
+            key={song.id}
+            song={song}
+            image_color={image_color}
+            handleSelectSong={handleSelectSong}
+          />
+        ))}
+        </ol>
+      </div>
     </div>
   );
 }

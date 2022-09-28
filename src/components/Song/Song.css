@@ -5,6 +5,7 @@
   font-size: 1.25rem;
 }
 .release-date {
+  float: left;
   font-size: 0.9rem;
   margin-top: 0.45rem;
 }

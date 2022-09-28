@@ -1,15 +1,15 @@
 .idol-view {
-  background-color: #FFFFFF;
-  display: none;
-  left: 0;
-  padding: var(--gutter-size);
-  position: absolute;
-  top: 0;
-}
-.idol-view.active {
-  display: block;
+  height: inherit;
+  position: relative;
 }
 .idol-details {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* end of flex */
+  height: var(--button-image-size);
   margin-bottom: var(--gutter-size);
 }
 .idol-details img {
@@ -19,8 +19,23 @@
   display: inline-block;
   margin-left: 1rem;
 }
+.close-view {
+  height: var(--tap-size);
+  position: absolute;
+  /* absolute */
+  right: 0;
+  top: 0;
+  /* end of absolute */
+  width: var(--tap-size);
+}
+.songs-container {
+  height: var(--songs-container-height);
+  overflow-y: scroll;
+}
 .songs {
   display: flex;
+  /* flex */
   flex-direction: column;
   gap: calc(var(--gutter-size) / 2);
+  /* end of flex */
 }

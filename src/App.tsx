@@ -11,15 +11,27 @@ import IdolView from "./components/IdolView/IdolView";
 
 function App() {
   const [activeIdolView, setActiveIdolView] = useState("");
+  const [overlay, setOverlay] = useState(false);
   const [currentSongId, setCurrentSongId] = useState("");
-  // useEffect(() => {}, [activeIdolView]);
+  /* overlay effect */
+  useEffect(() => {
+    if (activeIdolView !== "") {
+      setOverlay(true);
+    } else {
+      setOverlay(false);
+    }
+  }, [activeIdolView]);
   const handleOpenView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
     const index = e.currentTarget.id.substring(12);
     setActiveIdolView(`idol-view-${index}`);
   };
+  const handleCloseView: React.MouseEventHandler<HTMLButtonElement> = () => {
+    setActiveIdolView("");
+  };
   const handleSelectSong: React.MouseEventHandler<HTMLButtonElement> = (e) => {
     const { name } = e.currentTarget;
     setCurrentSongId(name);
+    setActiveIdolView("");
   };
   return (
     <div className="App">
@@ -27,35 +39,51 @@ function App() {
         <Navbar />
       </header>
       <main>
-        <h1>
-          <img
-            src={logo}
-            className="YouSolo-logo"
-            alt="YouSolo School idol solos"
-            width="204"
-            height="59"
-          />
-        </h1>
         <div className="wrapper">
+          <div className="logo-container">
+            <h1>
+              <img
+                src={logo}
+                className="YouSolo-logo"
+                alt="YouSolo School idol solos"
+                width="204"
+                height="59"
+              />
+            </h1>
+          </div>
           <Embed
             currentSongId={currentSongId}
           />
-          <div className="idol-buttons-container">
-            <div className="idol-buttons">
-            {idols.items.map((item, index) => (
-              <IdolButton
-                key={item.name}
-                index={index}
-                idol_name={item.name}
-                idol_name_jp={item.name_jp}
-                image_color={item.button_image.background_color}
-                image_url={item.button_image.url}
-                handleOpenView={handleOpenView}
-              />
-            ))}
+          <div className="idol-buttons-box">
+            <div className="idol-buttons-container">
+              <ol className="idol-buttons">
+              {idols.items.map((item, index) => (
+                <IdolButton
+                  key={item.name}
+                  index={index}
+                  idol_name={item.name}
+                  idol_name_jp={item.name_jp}
+                  image_color={item.button_image.background_color}
+                  image_url={item.button_image.url}
+                  handleOpenView={handleOpenView}
+                />
+              ))}
+              </ol>
             </div>
           </div>
-          <div className="idol-views">
+        </div>
+        <div
+          className="overlay"
+          style={{
+            display: overlay ? "block" : "none"
+          }}
+        >
+          <div
+            className="idol-views"
+            style={{
+              display: activeIdolView !== "" ? "block" : "none"
+            }}
+          >
           {idols.items.map((item, index) => (
             <IdolView
               key={item.name}
@@ -66,19 +94,13 @@ function App() {
               image_color={item.button_image.background_color}
               image_url={item.button_image.url}
               songs={item.songs}
+              handleCloseView={handleCloseView}
               handleSelectSong={handleSelectSong}
             />
           ))}
           </div>
         </div>
       </main>
-      <footer>
-        <span className="copyright">
-          ©2013 PROJECT Lovelive!
-          <br />
-          ©2017 PROJECT Lovelive! Sunshine!!
-        </span>
-      </footer>
     </div>
   );
 }

@@ -20,27 +20,34 @@ function IdolButton({
 }) {
   const idAttribute = `idol-button-${index}`;
   return (
-    <button
-      id={idAttribute}
-      className="idol-button"
-      aria-label={`open ${idol_name} view`}
-      onClick={handleOpenView}
-    >
-      <img
-        src={image_url ? require(`../../media/${image_url}`) : ""}
-        alt={idol_name}
-        width="72"
-        height="72"
+    <li>
+      <button
+        id={idAttribute}
+        className="lovelive-button lovelive-text idol-button"
+        aria-label={`open ${idol_name} view`}
+        onClick={handleOpenView}
         css={css`
-          background-color: ${image_color};
+          &:hover {
+            background-color: ${image_color}40;
+          }
         `}
-      />
-      <h2>
-        {idol_name}
-        <br />
-        {idol_name_jp}
-      </h2>
-    </button>
+      >
+        <img
+          src={image_url ? require(`../../media/${image_url}`) : ""}
+          alt={idol_name}
+          width="72"
+          height="72"
+          css={css`
+            background-color: ${image_color};
+          `}
+        />
+        <h2>
+          {idol_name}
+          <br />
+          {idol_name_jp}
+        </h2>
+      </button>
+    </li>
   );
 }
 
