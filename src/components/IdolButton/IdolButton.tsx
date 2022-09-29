@@ -1,21 +1,16 @@
 import React from "react";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
+import { Idol as IdolI } from "../../types/types";
 import "./IdolButton.css";
 
 function IdolButton({
   index,
-  idol_name,
-  idol_name_jp,
-  image_color,
-  image_url,
+  idol,
   handleOpenView
 }: {
   index: number,
-  idol_name: string,
-  idol_name_jp: string,
-  image_color: string,
-  image_url: string,
+  idol: IdolI,
   handleOpenView: React.MouseEventHandler<HTMLButtonElement>
 }) {
   const idAttribute = `idol-button-${index}`;
@@ -24,27 +19,27 @@ function IdolButton({
       <button
         id={idAttribute}
         className="lovelive-button lovelive-text idol-button"
-        aria-label={`open ${idol_name} view`}
+        aria-label={`open ${idol.name} view`}
         onClick={handleOpenView}
         css={css`
           &:hover {
-            background-color: ${image_color}40;
+            background-color: ${idol.button_image.background_color}40;
           }
         `}
       >
         <img
-          src={image_url ? require(`../../media/${image_url}`) : ""}
-          alt={idol_name}
+          src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
+          alt={idol.name}
           width="72"
           height="72"
           css={css`
-            background-color: ${image_color};
+            background-color: ${idol.button_image.background_color};
           `}
         />
         <h2>
-          {idol_name}
+          {idol.name}
           <br />
-          {idol_name_jp}
+          {idol.name_jp}
         </h2>
       </button>
     </li>

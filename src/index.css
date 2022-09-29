@@ -1,4 +1,5 @@
 :root {
+  --album-image-size: 128px;
   --button-image-size: 72px;
   --tap-size: 48px;
   --gutter-size: 32px;
@@ -8,6 +9,7 @@
   --yousolo-logo-width: 204px;
 
   /* derivative variables */
+  --album-width: calc(var(--album-image-size) + 16px);
   --button-width: calc(var(--button-image-size) + 16px);
   --embed-container-height: calc(var(--video-height) + var(--gutter-size) * 2);
   --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--embed-container-height));

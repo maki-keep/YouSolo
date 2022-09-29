@@ -1,28 +1,20 @@
 import React from "react";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
-import { Song as SongI } from "../../types/types";
+import { Idol as IdolI } from "../../types/types";
 import "./IdolView.css";
-import Song from "../Song/Song";
+import Album from "../Album/Album";
 
 function IdolView({
   index,
   activeIdolView,
-  idol_name,
-  idol_name_jp,
-  image_color,
-  image_url,
-  songs,
+  idol,
   handleCloseView,
   handleSelectSong
 }: {
   index: number,
   activeIdolView: HTMLDivElement["id"],
-  idol_name: string,
-  idol_name_jp: string,
-  image_color: string,
-  image_url: string,
-  songs: SongI[],
+  idol: IdolI,
   handleCloseView: React.MouseEventHandler<HTMLButtonElement>
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
@@ -39,18 +31,18 @@ function IdolView({
         className="idol-details"
       >
         <img
-          src={image_url ? require(`../../media/${image_url}`) : ""}
-          alt={idol_name}
+          src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
+          alt={idol.name}
           width="72"
           height="72"
           css={css`
-            background-color: ${image_color};
+            background-color: ${idol.button_image.background_color};
           `}
         />
         <h2>
-          {idol_name}
+          {idol.name}
           <br />
-          {idol_name_jp}
+          {idol.name_jp}
         </h2>
       </div>
       <button
@@ -59,13 +51,13 @@ function IdolView({
       >
         Close view
       </button>
-      <div className="songs-container">
-        <ol className="songs">
-        {songs.map(song => (
-          <Song
-            key={song.id}
-            song={song}
-            image_color={image_color}
+      <div className="albums-container">
+        <ol className="albums">
+        {idol.albums.map((album, index) => (
+          <Album
+            key={index}
+            album={album}
+            image_color={idol.button_image.background_color}
             handleSelectSong={handleSelectSong}
           />
         ))}

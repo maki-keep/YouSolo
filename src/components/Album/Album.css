@@ -1,0 +1,26 @@
+.album-button {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* end of flex */
+  max-width: 360px;
+  min-width: var(--album-width);
+}
+.album-title, .release-date {
+  margin-top: 0.45rem;
+}
+.album-title {
+  font-size: 1.25rem;
+}
+.release-date {
+  font-size: 0.9rem;
+}
+.songs {
+  display: flex;
+  /* flex */
+  flex-direction: column;
+  gap: calc(var(--gutter-size) / 2);
+  /* end of flex */
+}

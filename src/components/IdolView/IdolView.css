@@ -28,14 +28,14 @@
   /* end of absolute */
   width: var(--tap-size);
 }
-.songs-container {
+.albums-container {
   height: var(--songs-container-height);
   overflow-y: scroll;
 }
-.songs {
+.albums {
   display: flex;
   /* flex */
   flex-direction: column;
-  gap: calc(var(--gutter-size) / 2);
+  gap: calc(var(--gutter-size));
   /* end of flex */
 }

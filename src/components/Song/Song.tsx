@@ -27,8 +27,6 @@ function Song({
         `}
       >
         <span className="song-title">{song.title}</span>
-        <br />
-        <span className="release-date">{song.release_date}</span>
       </button>
     </li>
   );

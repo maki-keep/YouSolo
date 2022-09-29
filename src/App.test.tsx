@@ -15,6 +15,19 @@ describe("App", () => {
         <App />
       </React.StrictMode>
     );
+    /* uncomment to DEBUG idols.json */
+    /* let withoutErrors = true;
+    idols.items.forEach(item => {
+      item.albums.forEach(album => {
+        album.songs.forEach(song => {
+          if (!song.hasOwnProperty("id")) {
+            console.log(`${song.title} does not have an \"id\"`);
+            withoutErrors = false;
+          }
+        });
+      });
+    });
+    console.log(withoutErrors ? "data without errors" : "errors in data"); */
   });
   test("when app starts, renders idol buttons with their names", () => {
     idols.items.forEach(item => {

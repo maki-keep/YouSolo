@@ -1,6 +1,5 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import { Song as SongI } from "./types/types";
 import "./App.css";
 import logo from "./media/yousolo-logo.png";
 import idols from "./data/idols.json";
@@ -61,10 +60,7 @@ function App() {
                 <IdolButton
                   key={item.name}
                   index={index}
-                  idol_name={item.name}
-                  idol_name_jp={item.name_jp}
-                  image_color={item.button_image.background_color}
-                  image_url={item.button_image.url}
+                  idol={item}
                   handleOpenView={handleOpenView}
                 />
               ))}
@@ -86,14 +82,10 @@ function App() {
           >
           {idols.items.map((item, index) => (
             <IdolView
-              key={item.name}
+              key={index}
               index={index}
               activeIdolView={activeIdolView}
-              idol_name={item.name}
-              idol_name_jp={item.name_jp}
-              image_color={item.button_image.background_color}
-              image_url={item.button_image.url}
-              songs={item.songs}
+              idol={item}
               handleCloseView={handleCloseView}
               handleSelectSong={handleSelectSong}
             />

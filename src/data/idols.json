@@ -4,487 +4,4180 @@
       "name": "Toujou Nozomi",
       "name_jp": "東條 希",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2012-02-19",
+          "title": "Nozomi♪Kanaete",
+          "songs": [
+            {
+              "id": "8lrup1fhQkE",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE (Nozomi Tojo Mix)"
+            },
+            {
+              "id": "XLnAZqalvxw",
+              "title": "µ's - Yuujou No Change (Nozomi Tojo Mix)"
+            },
+            {
+              "id": "2o94yqJTrx8",
+              "title": "µ's - Snow halation (Nozomi Tojo Mix)"
+            },
+            {
+              "id": "UQpnMpKFTm8",
+              "title": "µ's - Baby Maybe Koi no Button Nozomi (Tojo Solo)"
+            },
+            {
+              "id": "klxLlv46QRU",
+              "title": "µ's - Shiranai Love＊Oshiete Love (Nozomi Tojo Mix)"
+            },
+            {
+              "id": "aXvr1xbGzOs",
+              "title": "µ's - A NO NE GA N BA RE! (Nozomi Tojo Solo)"
+            },
+            {
+              "id": "G2Q83VYd6h8",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! Nozomi Tojo Solo"
+            },
+            {
+              "id": "JHz6k-1pHTM",
+              "title": "µ's - Mermaid festa vol 1 (Nozomi Tojo Mix)"
+            }
+          ],
+          "image_url": "Solo_Nozomi.jpg"
+        },
+        {
+          "release_date": "2012-05-23",
+          "title": "Otome Shiki Ren'ai Juku",
+          "songs": [
+            {
+              "id": "1rCV_Wivh_E",
+              "title": "純愛レンズ"
+            }
+          ],
+          "image_url": "Otome_Shiki_Ren'ai_Juku.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "wZ1Dmiyww6o",
+              "title": "I'll smile for yours"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Violet Moon",
+          "songs": [
+            {
+              "id": "ux74CyIf7eo",
+              "title": "もぎゅっとloveで接近中! (NOZOMI Mix)"
+            },
+            {
+              "id": "bTZHC1rx9mI",
+              "title": "愛してるばんざーい! (NOZOMI Mix)"
+            },
+            {
+              "id": "lMAWJWzZfjE",
+              "title": "乙女式れんあい塾 (NOZOMI Mix)"
+            },
+            {
+              "id": "ZdJV5kK2jh4",
+              "title": "Wonderful Rush (NOZOMI Mix)"
+            },
+            {
+              "id": "sCjSVxtacI8",
+              "title": "Oh,Love & Peace! (NOZOMI Mix)"
+            },
+            {
+              "id": "WlAGiMOlZx4",
+              "title": "僕らは今のなかで (NOZOMI Mix)"
+            },
+            {
+              "id": "qbHEcmUadjM",
+              "title": "WILD STARS (NOZOMI Mix)"
+            },
+            {
+              "id": "x2KLn0yAgSU",
+              "title": "きっと青春が聞こえる (NOZOMI Mix)"
+            },
+            {
+              "id": "qiArA396zeg",
+              "title": "輝夜の城で踊りたい (NOZOMI Mix)"
+            },
+            {
+              "id": "O-KQLCK8z80",
+              "title": "Wonder zone (NOZOMI Mix)"
+            },
+            {
+              "id": "UwCx5fvcVSE",
+              "title": "No brand girls (NOZOMI Mix)"
+            },
+            {
+              "id": "Np6iX2OBdWM",
+              "title": "START:DASH!! (NOZOMI Mix)"
+            }
+          ],
+          "image_url": "Nozomi_Solo_2.jpg"
+        },
+        {
+          "release_date": "2014-10-29",
+          "title": "Moshimo Kara Kitto",
+          "songs": [
+            {
+              "id": "0y-hLHHYnB8",
+              "title": "Nozomi Tojo - Moshimo Kara Kitto"
+            }
+          ],
+          "image_url": "Blu-ray_5_Cover_(Front).jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Nozomi",
+          "songs": [
+            {
+              "id": "vWkgniYu94g",
+              "title": "Music S.T.A.R.T!! (NOZOMI Mix)"
+            },
+            {
+              "id": "RHnZQSdyvWU",
+              "title": "LOVELESS WORLD (NOZOMI Mix)"
+            },
+            {
+              "id": "K_6INyZ475I",
+              "title": "タカラモノズ (NOZOMI Mix)"
+            },
+            {
+              "id": "9Vf2pyVkV1g",
+              "title": "Paradise Live (NOZOMI Mix)"
+            },
+            {
+              "id": "hsPISBKqOIg",
+              "title": "それは僕たちの奇跡 (NOZOMI Mix)"
+            },
+            {
+              "id": "6mGsxhYCqd4",
+              "title": "だってだって噫無情 (NOZOMI Mix)"
+            },
+            {
+              "id": "kL1VIktI4c4",
+              "title": "どんなときもずっと (NOZOMI Mix)"
+            },
+            {
+              "id": "kNrkoXMiBnU",
+              "title": "COLORFUL VOICE (NOZOMI Mix)"
+            },
+            {
+              "id": "j_DSoc36c2E",
+              "title": "ユメノトビラ (NOZOMI Mix)"
+            },
+            {
+              "id": "57sLlEu-J8I",
+              "title": "SENTIMENTAL StepS (NOZOMI Mix)"
+            },
+            {
+              "id": "NHVvLQj1GVA",
+              "title": "Love wing bell (NOZOMI Mix)"
+            },
+            {
+              "id": "VKj8BD0G4nU",
+              "title": "Dancing stars on me! (NOZOMI Mix)"
+            },
+            {
+              "id": "GnxxAdOCS88",
+              "title": "KiRa-KiRa Sensation! (NOZOMI Mix)"
+            },
+            {
+              "id": "b6cxvm-hcPI",
+              "title": "Happy maker! (NOZOMI Mix)"
+            },
+            {
+              "id": "wQxfvvAACtw",
+              "title": "Shangri-La Shower (NOZOMI Mix)"
+            },
+            {
+              "id": "hJAIB5W_9o4",
+              "title": "るてしキスキしてる (NOZOMI Mix)"
+            },
+            {
+              "id": "mYPt6XR02gY",
+              "title": "ミはμ'sicのミ (NOZOMI Mix)"
+            },
+            {
+              "id": "16YhQMGd0Ds",
+              "title": "Super LOVE=Super LIVE! (NOZOMI Mix)"
+            },
+            {
+              "id": "-r3BOkNuznE",
+              "title": "Angelic Angel (NOZOMI Mix)"
+            },
+            {
+              "id": "f-2z1ZL5Uw4",
+              "title": "SUNNY DAY SONG (NOZOMI Mix)"
+            },
+            {
+              "id": "6MbMi_YF_3k",
+              "title": "僕たちはひとつの光 (NOZOMI Mix)"
+            },
+            {
+              "id": "PcbtnPEk3uA",
+              "title": "?←HEARTBEAT (NOZOMI Mix)"
+            },
+            {
+              "id": "UTEfXU1n5Q8",
+              "title": "微熱からMystery (NOZOMI Mix)"
+            },
+            {
+              "id": "h-h9ANoWr50",
+              "title": "キミのくせに! (NOZOMI Mix)"
+            },
+            {
+              "id": "1fRYbV8PTQA",
+              "title": "秋のあなたの空遠く (NOZOMI Mix)"
+            },
+            {
+              "id": "nXz57MbYDAc",
+              "title": "ふたりハピネス (NOZOMI Mix)"
+            },
+            {
+              "id": "LgwmdNOg8Zk",
+              "title": "思い出以上になりたくて (NOZOMI Mix)"
+            },
+            {
+              "id": "pAEyRKnopIw",
+              "title": "春情ロマンティック (NOZOMI Mix)"
+            },
+            {
+              "id": "zb4XZDtR2fQ",
+              "title": "HEART to HEART! (NOZOMI Mix)"
+            },
+            {
+              "id": "yCth4BOj4FM",
+              "title": "嵐のなかの恋だから (NOZOMI Mix)"
+            },
+            {
+              "id": "_g0aqp0YYOo",
+              "title": "MOMENT RING (NOZOMI Mix)"
+            },
+            {
+              "id": "EZtSd1t1a-U",
+              "title": "さようならへさよなら! (NOZOMI Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Nozomi.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 東條 希 Extra",
+          "songs": [
+            {
+              "id": "GyrD9gYQhQE",
+              "title": "硝子の花園 (NOZOMI Mix)"
+            },
+            {
+              "id": "abdyahwEao8",
+              "title": "LONELIEST BABY (NOZOMI Mix)"
+            },
+            {
+              "id": "b1_ODLyiUvs",
+              "title": "そして最後のページには (NOZOMI Mix)"
+            },
+            {
+              "id": "VSJ5fYi4g8s",
+              "title": "同じ星が見たい (NOZOMI Mix)"
+            },
+            {
+              "id": "YwHvRi1VAgE",
+              "title": "これから (NOZOMI Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_nozomi.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#925DA3",
-        "url": "Toujou_Nozomi_Solo_CD_2__Violet_Moon_.jpg"
+        "url": "Nozomi_Solo_Button.jpg"
       }
     },
     {
       "name": "Yazawa Nico",
       "name_jp": "矢澤 にこ",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2012-02-19",
+          "title": "Smile for you ♥",
+          "songs": [
+            {
+              "id": "nibsOxxVobo",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE (Nico Yazawa Mix)"
+            },
+            {
+              "id": "x6SDprIyIkI",
+              "title": "µ's - Yuujou No Change (Nico Yazawa Mix)"
+            },
+            {
+              "id": "FE9n1n-d-3g",
+              "title": "µ's - Snow halation (Nico Yazawa Mix)"
+            },
+            {
+              "id": "_RZfF2Ie2mI",
+              "title": "µ's - baby maybe Koi no Button (Nico Yazawa Mix)"
+            },
+            {
+              "id": "t-HWTm49jYw",
+              "title": "µ's - Diamond Princess no Yuuutsu (Nico Yazawa Mix)"
+            },
+            {
+              "id": "F7Mo3D7FkkI",
+              "title": "µ's - Love Novels (Nico Yazawa Mix)"
+            },
+            {
+              "id": "FtxKyyOiKvM",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! (Nico Yazawa Mix)"
+            },
+            {
+              "id": "kBdvp_MZ5_Q",
+              "title": "µ's - Mermaid festa vol 1 (Nico Yazawa Mix)"
+            }
+          ],
+          "image_url": "Solo_Niko.jpg"
+        },
+        {
+          "release_date": "2012-05-23",
+          "title": "Otome Shiki Ren'ai Juku",
+          "songs": [
+            {
+              "id": "O2OKMwLnNvQ",
+              "title": "まほうつかいはじめました!"
+            }
+          ],
+          "image_url": "Otome_Shiki_Ren'ai_Juku.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "MRXwQOug3m8",
+              "title": "羽は知ってしまったの?"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2013-07-26",
+          "title": "Niko puri♥Joshi dou",
+          "songs": [
+            {
+              "id": "jvfNPLe1yZ0",
+              "title": "Nico Yazawa - Nico Puri ♥ Joshi dou"
+            }
+          ],
+          "image_url": "Original_song_5.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Momoiro♡Egao",
+          "songs": [
+            {
+              "id": "7rQWEB2K438",
+              "title": "もぎゅっとloveで接近中! (NICO Mix)"
+            },
+            {
+              "id": "wFG7dvsyg5k",
+              "title": "愛してるばんざーい! (NICO Mix)"
+            },
+            {
+              "id": "hvOgQ0krUP4",
+              "title": "乙女式れんあい塾 (NICO Mix)"
+            },
+            {
+              "id": "DGDYAClNLsc",
+              "title": "Wonderful Rush (NICO Mix)"
+            },
+            {
+              "id": "YCoAwu6AYpc",
+              "title": "Oh,Love & Peace! (NICO Mix)"
+            },
+            {
+              "id": "wxgJvTVXsTE",
+              "title": "Listen to my heart!! (NICO Mix)"
+            },
+            {
+              "id": "HEz3z7fm0J8",
+              "title": "after school NAVIGATORS (NICO Mix)"
+            },
+            {
+              "id": "mCLqsyssQRw",
+              "title": "僕らは今のなかで (NICO Mix)"
+            },
+            {
+              "id": "kwNzo_DlYjg",
+              "title": "WILD STARS (NICO Mix)"
+            },
+            {
+              "id": "OSvyFKQtjGY",
+              "title": "きっと青春が聞こえる (NICO Mix)"
+            },
+            {
+              "id": "8Nr8VJGjMBY",
+              "title": "輝夜の城で踊りたい (NICO Mix)"
+            },
+            {
+              "id": "f_2bdnhw3xU",
+              "title": "これからのSomeday (NICO Mix)"
+            },
+            {
+              "id": "WFPYUq14sto",
+              "title": "Wonder zone (NICO Mix)"
+            },
+            {
+              "id": "JjgJUW1n14g",
+              "title": "No brand girls (NICO Mix)"
+            },
+            {
+              "id": "5J4AlsVhqo0",
+              "title": "START:DASH!! (NICO Mix)"
+            }
+          ],
+          "image_url": "Nico_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Nico",
+          "songs": [
+            {
+              "id": "H3jq8InLEQA",
+              "title": "Music S.T.A.R.T!! (NICO Mix)"
+            },
+            {
+              "id": "B0U6Afh3ZBc",
+              "title": "LOVELESS WORLD (NICO Mix)"
+            },
+            {
+              "id": "ZvONfUBZcxg",
+              "title": "タカラモノズ (NICO Mix)"
+            },
+            {
+              "id": "qpEjClzQAvc",
+              "title": "Paradise Live (NICO Mix)"
+            },
+            {
+              "id": "Hz6D8pDWcgQ",
+              "title": "それは僕たちの奇跡 (NICO Mix)"
+            },
+            {
+              "id": "d0BRKB4YND0",
+              "title": "だってだって噫無情 (NICO Mix)"
+            },
+            {
+              "id": "UqzWHtd2AzA",
+              "title": "どんなときもずっと (NICO Mix)"
+            },
+            {
+              "id": "H7Ku8bgCyWg",
+              "title": "COLORFUL VOICE (NICO Mix)"
+            },
+            {
+              "id": "qp3EBBV8J-Y",
+              "title": "ユメノトビラ (NICO Mix)"
+            },
+            {
+              "id": "j1IEFGflcuQ",
+              "title": "SENTIMENTAL StepS (NICO Mix)"
+            },
+            {
+              "id": "1VJMDzwpJmQ",
+              "title": "Love wing bell (NICO Mix)"
+            },
+            {
+              "id": "wvatizn75qM",
+              "title": "Dancing stars on me! (NICO Mix)"
+            },
+            {
+              "id": "LLVuezhvlwc",
+              "title": "KiRa-KiRa Sensation! (NICO Mix)"
+            },
+            {
+              "id": "cflydVnb_Vk",
+              "title": "Happy maker! (NICO Mix)"
+            },
+            {
+              "id": "GKRgowDX9E4",
+              "title": "Shangri-La Shower (NICO Mix)"
+            },
+            {
+              "id": "4nhqXekyIGE",
+              "title": "るてしキスキしてる (NICO Mix)"
+            },
+            {
+              "id": "1gdLUq4qQPQ",
+              "title": "ミはμ'sicのミ (NICO Mix)"
+            },
+            {
+              "id": "zOHnLYVayXQ",
+              "title": "Super LOVE=Super LIVE! (NICO Mix)"
+            },
+            {
+              "id": "0M0Wtijhs6s",
+              "title": "Angelic Angel (NICO Mix)"
+            },
+            {
+              "id": "9Owu4X-oEYQ",
+              "title": "SUNNY DAY SONG (NICO Mix)"
+            },
+            {
+              "id": "sb5GTmdtyLo",
+              "title": "僕たちはひとつの光 (NICO Mix)"
+            },
+            {
+              "id": "LX96-TXHiCQ",
+              "title": "?←HEARTBEAT (NICO Mix)"
+            },
+            {
+              "id": "rmH4k7XHxi8",
+              "title": "Cutie Panther (NICO Mix)"
+            },
+            {
+              "id": "8CQ_verul9Q",
+              "title": "夏、終わらないで。 (NICO Mix)"
+            },
+            {
+              "id": "_eJIM8wwmQI",
+              "title": "冬がくれた予感 (NICO Mix)"
+            },
+            {
+              "id": "MJL_CrnX_3M",
+              "title": "Trouble Busters (NICO Mix)"
+            },
+            {
+              "id": "r-d72a_e7Eo",
+              "title": "錯覚CROSSROADS (NICO Mix)"
+            },
+            {
+              "id": "EgjqCGn8RPA",
+              "title": "PSYCHIC FIRE (NICO Mix)"
+            },
+            {
+              "id": "az3ODkhvU_Q",
+              "title": "HEART to HEART! (NICO Mix)"
+            },
+            {
+              "id": "j_e1qOCIncM",
+              "title": "嵐のなかの恋だから (NICO Mix)"
+            },
+            {
+              "id": "73IYesa7oeU",
+              "title": "MOMENT RING (NICO Mix)"
+            },
+            {
+              "id": "ogKgXhPhMh0",
+              "title": "さようならへさよなら! (NICO Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Nico.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 矢澤にこ Extra",
+          "songs": [
+            {
+              "id": "KikaXyY4eqQ",
+              "title": "LONELIEST BABY (NICO Mix)"
+            },
+            {
+              "id": "xfoxMe0UlR0",
+              "title": "ずるいよMagnetic today (NICO Mix)"
+            },
+            {
+              "id": "TIhKB_ogi8A",
+              "title": "そして最後のページには (NICO Mix)"
+            },
+            {
+              "id": "cTz0BkA10pk",
+              "title": "Silent tonight (NICO Mix)"
+            },
+            {
+              "id": "O-GV8plwGsQ",
+              "title": "これから (NICO Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_nico.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#EC6F9B",
-        "url": "Yazawa_Nico_Solo_CD_2__Momoiro♡Egao_.jpg"
+        "url": "Nico_Solo_Button.jpg"
       }
     },
     {
       "name": "Ayase Eli",
       "name_jp": "絢瀬 絵里",
       "group": "µ's",
-      "songs": [
+      "albums": [
         {
-          "id": "QuPVikSVyx8",
           "release_date": "2012-02-19",
-          "title": "µ's - Bokura no LIVE Kimi to no LIFE (Eli Ayase Mix)"
+          "title": "Beloved Ellie",
+          "songs": [
+            {
+              "id": "QuPVikSVyx8",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE (Eli Ayase Mix)"
+            },
+            {
+              "id": "03hPXUUW6N8",
+              "title": "µ's - Yuujou No Change (Eli Ayase Mix)"
+            },
+            {
+              "id": "OkzCtB7QyTk",
+              "title": "µ's - Snow halation (Eli Ayase Mix)"
+            },
+            {
+              "id": "ghJ9ScUk6l8",
+              "title": "µ's - baby maybe Koi no Button (Eli Ayase Mix)"
+            },
+            {
+              "id": "TjpmX6Oj6wQ",
+              "title": "µ's - Diamond Princess no Yuuutsu (Eli Ayase Mix)"
+            },
+            {
+              "id": "nTsNFeuw4zw",
+              "title": "µ's - Love Novels (Eli Ayase Mix)"
+            },
+            {
+              "id": "0ssmR5B5ANU",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! (Eli Ayase Mix)"
+            },
+            {
+              "id": "Kob3HlMP-H0",
+              "title": "µ's - Mermaid festa vol 1 (Eli Ayase Mix)"
+            }
+          ],
+          "image_url": "Solo_Eri.jpg"
         },
         {
-          "id": "03hPXUUW6N8",
-          "release_date": "2012-02-19",
-          "title": "µ's - Yuujou No Change (Eli Ayase Mix)"
-        },
-        {
-          "id": "OkzCtB7QyTk",
-          "release_date": "2012-02-19",
-          "title": "µ's - Snow halation (Eli Ayase Mix)"
-        },
-        {
-          "id": "ghJ9ScUk6l8",
-          "release_date": "2012-02-19",
-          "title": "µ's - baby maybe Koi no Button (Eli Ayase Mix)"
-        },
-        {
-          "id": "TjpmX6Oj6wQ",
-          "release_date": "2012-02-19",
-          "title": "µ's - Diamond Princess no Yuuutsu (Eli Ayase Mix)"
-        },
-        {
-          "id": "nTsNFeuw4zw",
-          "release_date": "2012-02-19",
-          "title": "µ's - Love Novels (Eli Ayase Mix)"
-        },
-        {
-          "id": "0ssmR5B5ANU",
-          "release_date": "2012-02-19",
-          "title": "µ's - Natsu iro Egao de 1,2,Jump! (Eli Ayase Mix)"
-        },
-        {
-          "id": "Kob3HlMP-H0",
-          "release_date": "2012-02-19",
-          "title": "µ's - Mermaid festa vol 1 (Eli Ayase Mix)"
-        },
-        {
-          "id": "NncyZQuAnvM",
           "release_date": "2012-07-25",
-          "title": "ありふれた悲しみの果て"
+          "title": "soldier game",
+          "songs": [
+            {
+              "id": "NncyZQuAnvM",
+              "title": "ありふれた悲しみの果て"
+            }
+          ],
+          "image_url": "soldier_game.jpg"
         },
-				{
-          "id": "gdfq5bnm8UU",
+        {
           "release_date": "2013-04-24",
-          "title": "斯くも憂美な日となりて"
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "gdfq5bnm8UU",
+              "title": "斯くも憂美な日となりて"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
         },
         {
-          "id": "JB1ChiTweag",
           "release_date": "2014-04-02",
-          "title": "もぎゅっとloveで接近中! (ELI Mix)"
+          "title": "Ice Blue no Shunkan",
+          "songs": [
+            {
+              "id": "JB1ChiTweag",
+              "title": "もぎゅっとloveで接近中! (ELI Mix)"
+            },
+            {
+              "id": "2OjEg_UyEJ0",
+              "title": "愛してるばんざーい! (ELI Mix)"
+            },
+            {
+              "id": "Q0g11dHJBg0",
+              "title": "soldier game (ELI Mix)"
+            },
+            {
+              "id": "sYUyuE6h3d0",
+              "title": "Wonderful Rush (ELI Mix)"
+            },
+            {
+              "id": "YhKbOhDnXm8",
+              "title": "Oh,Love & Peace! (ELI Mix)"
+            },
+            {
+              "id": "w2UbUa9xF-M",
+              "title": "僕らは今のなかで (ELI Mix)"
+            },
+            {
+              "id": "EkCM-QTJKsc",
+              "title": "WILD STARS (ELI Mix)"
+            },
+            {
+              "id": "BBUtQjkOAbU",
+              "title": "きっと青春が聞こえる (ELI Mix)"
+            },
+            {
+              "id": "dDWpgIsUVV0",
+              "title": "輝夜の城で踊りたい (ELI Mix)"
+            },
+            {
+              "id": "-hQqICOuFR0",
+              "title": "Wonder zone (ELI Mix)"
+            },
+            {
+              "id": "k_MjiCF2kEw",
+              "title": "No brand girls (ELI Mix)"
+            },
+            {
+              "id": "7givBdehLcY",
+              "title": "START:DASH!! (ELI Mix)"
+            }
+          ],
+          "image_url": "Eli_Solo_2.jpg"
         },
         {
-          "id": "2OjEg_UyEJ0",
-          "release_date": "2014-04-02",
-          "title": "愛してるばんざーい! (ELI Mix)"
-        },
-        {
-          "id": "Q0g11dHJBg0",
-          "release_date": "2014-04-02",
-          "title": "soldier game (ELI Mix)"
-        },
-        {
-          "id": "sYUyuE6h3d0",
-          "release_date": "2014-04-02",
-          "title": "Wonderful Rush (ELI Mix)"
-        },
-        {
-          "id": "YhKbOhDnXm8",
-          "release_date": "2014-04-02",
-          "title": "Oh,Love & Peace! (ELI Mix)"
-        },
-        {
-          "id": "w2UbUa9xF-M",
-          "release_date": "2014-04-02",
-          "title": "僕らは今のなかで (ELI Mix)"
-        },
-        {
-          "id": "EkCM-QTJKsc",
-          "release_date": "2014-04-02",
-          "title": "WILD STARS (ELI Mix)"
-        },
-        {
-          "id": "BBUtQjkOAbU",
-          "release_date": "2014-04-02",
-          "title": "きっと青春が聞こえる (ELI Mix)"
-        },
-        {
-          "id": "dDWpgIsUVV0",
-          "release_date": "2014-04-02",
-          "title": "輝夜の城で踊りたい (ELI Mix)"
-        },
-        {
-          "id": "-hQqICOuFR0",
-          "release_date": "2014-04-02",
-          "title": "Wonder zone (ELI Mix)"
-        },
-        {
-          "id": "k_MjiCF2kEw",
-          "release_date": "2014-04-02",
-          "title": "No brand girls (ELI Mix)"
-        },
-        {
-          "id": "7givBdehLcY",
-          "release_date": "2014-04-02",
-          "title": "START:DASH!! (ELI Mix)"
-        },
-        {
-          "id": "apzaA443sKc",
           "release_date": "2018-03-28",
-          "title": "Music S.T.A.R.T!! (ELI Mix)"
+          "title": "Memories with Eli",
+          "songs": [
+            {
+              "id": "apzaA443sKc",
+              "title": "Music S.T.A.R.T!! (ELI Mix)"
+            },
+            {
+              "id": "DzVDv-trt1o",
+              "title": "LOVELESS WORLD (ELI Mix)"
+            },
+            {
+              "id": "GXHa1p3mCqA",
+              "title": "タカラモノズ (ELI Mix)"
+            },
+            {
+              "id": "AijAy8Awhcs",
+              "title": "Paradise Live (ELI Mix)"
+            },
+            {
+              "id": "U4d3p3trfTI",
+              "title": "それは僕たちの奇跡 (ELI Mix)"
+            },
+            {
+              "id": "O7C5fFN4_6k",
+              "title": "だってだって噫無情 (ELI Mix)"
+            },
+            {
+              "id": "n1-FKYkVDio",
+              "title": "どんなときもずっと (ELI Mix)"
+            },
+            {
+              "id": "ae3EZrkcfV8",
+              "title": "COLORFUL VOICE (ELI Mix)"
+            },
+            {
+              "id": "TP34xk47KsE",
+              "title": "ユメノトビラ (ELI Mix)"
+            },
+            {
+              "id": "CdnNQ-rfL70",
+              "title": "SENTIMENTAL StepS (ELI Mix)"
+            },
+            {
+              "id": "abNmQmJAZmQ",
+              "title": "Love wing bell (ELI Mix)"
+            },
+            {
+              "id": "n8_A68wXmdo",
+              "title": "Dancing stars on me! (ELI Mix)"
+            },
+            {
+              "id": "BEWqRJ8Gn0A",
+              "title": "KiRa-KiRa Sensation! (ELI Mix)"
+            },
+            {
+              "id": "qLnwqfEE3SE",
+              "title": "Happy maker! (ELI Mix)"
+            },
+            {
+              "id": "QMz-OkSHmAU",
+              "title": "Shangri-La Shower (ELI Mix)"
+            },
+            {
+              "id": "L1MNV1Gl_ZE",
+              "title": "るてしキスキしてる (ELI Mix)"
+            },
+            {
+              "id": "-_dzIRHm2ro",
+              "title": "ミはμ'sicのミ (ELI Mix)"
+            },
+            {
+              "id": "RKwXkt1VkLM",
+              "title": "Super LOVE=Super LIVE! (ELI Mix)"
+            },
+            {
+              "id": "M1Qws1-UxYk",
+              "title": "Angelic Angel (ELI Mix)"
+            },
+            {
+              "id": "q8Ig1nSUYBE",
+              "title": "SUNNY DAY SONG (ELI Mix)"
+            },
+            {
+              "id": "gcrgRLzczmA",
+              "title": "僕たちはひとつの光 (ELI Mix)"
+            },
+            {
+              "id": "kttRV8Fm8co",
+              "title": "?←HEARTBEAT (ELI Mix)"
+            },
+            {
+              "id": "oygg18SmflY",
+              "title": "Cutie Panther (ELI Mix)"
+            },
+            {
+              "id": "XrhQ7SIidHQ",
+              "title": "夏、終わらないで。 (ELI Mix)"
+            },
+            {
+              "id": "tTZR5Xb2snU",
+              "title": "冬がくれた予感 (ELI Mix)"
+            },
+            {
+              "id": "gVkzUViIcuM",
+              "title": "Trouble Busters (ELI Mix)"
+            },
+            {
+              "id": "twhqKBHHJAw",
+              "title": "錯覚CROSSROADS (ELI Mix)"
+            },
+            {
+              "id": "ha0Pc_SnvaA",
+              "title": "PSYCHIC FIRE (ELI Mix)"
+            },
+            {
+              "id": "utB1ggh4pwM",
+              "title": "HEART to HEART! (ELI Mix)"
+            },
+            {
+              "id": "ia7M-uKsbe4",
+              "title": "嵐のなかの恋だから (ELI Mix)"
+            },
+            {
+              "id": "XjZDskybfis",
+              "title": "MOMENT RING (ELI Mix)"
+            },
+            {
+              "id": "o_pkExnXCVQ",
+              "title": "さようならへさよなら! (ELI Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Eli.jpg"
         },
         {
-          "id": "DzVDv-trt1o",
-          "release_date": "2018-03-28",
-          "title": "LOVELESS WORLD (ELI Mix)"
-        },
-        {
-          "id": "GXHa1p3mCqA",
-          "release_date": "2018-03-28",
-          "title": "タカラモノズ (ELI Mix)"
-        },
-        {
-          "id": "AijAy8Awhcs",
-          "release_date": "2018-03-28",
-          "title": "Paradise Live (ELI Mix)"
-        },
-        {
-          "id": "U4d3p3trfTI",
-          "release_date": "2018-03-28",
-          "title": "それは僕たちの奇跡 (ELI Mix)"
-        },
-        {
-          "id": "O7C5fFN4_6k",
-          "release_date": "2018-03-28",
-          "title": "だってだって噫無情 (ELI Mix)"
-        },
-        {
-          "id": "n1-FKYkVDio",
-          "release_date": "2018-03-28",
-          "title": "どんなときもずっと (ELI Mix)"
-        },
-        {
-          "id": "ae3EZrkcfV8",
-          "release_date": "2018-03-28",
-          "title": "COLORFUL VOICE (ELI Mix)"
-        },
-        {
-          "id": "TP34xk47KsE",
-          "release_date": "2018-03-28",
-          "title": "ユメノトビラ (ELI Mix)"
-        },
-        {
-          "id": "CdnNQ-rfL70",
-          "release_date": "2018-03-28",
-          "title": "SENTIMENTAL StepS (ELI Mix)"
-        },
-        {
-          "id": "abNmQmJAZmQ",
-          "release_date": "2018-03-28",
-          "title": "Love wing bell (ELI Mix)"
-        },
-        {
-          "id": "n8_A68wXmdo",
-          "release_date": "2018-03-28",
-          "title": "Dancing stars on me! (ELI Mix)"
-        },
-        {
-          "id": "BEWqRJ8Gn0A",
-          "release_date": "2018-03-28",
-          "title": "KiRa-KiRa Sensation! (ELI Mix)"
-        },
-        {
-          "id": "qLnwqfEE3SE",
-          "release_date": "2018-03-28",
-          "title": "Happy maker! (ELI Mix)"
-        },
-        {
-          "id": "QMz-OkSHmAU",
-          "release_date": "2018-03-28",
-          "title": "Shangri-La Shower (ELI Mix)"
-        },
-        {
-          "id": "L1MNV1Gl_ZE",
-          "release_date": "2018-03-28",
-          "title": "るてしキスキしてる (ELI Mix)"
-        },
-        {
-          "id": "-_dzIRHm2ro",
-          "release_date": "2018-03-28",
-          "title": "ミはμ'sicのミ (ELI Mix)"
-        },
-        {
-          "id": "RKwXkt1VkLM",
-          "release_date": "2018-03-28",
-          "title": "Super LOVE=Super LIVE! (ELI Mix)"
-        },
-        {
-          "id": "M1Qws1-UxYk",
-          "release_date": "2018-03-28",
-          "title": "Angelic Angel (ELI Mix)"
-        },
-        {
-          "id": "q8Ig1nSUYBE",
-          "release_date": "2018-03-28",
-          "title": "SUNNY DAY SONG (ELI Mix)"
-        },
-        {
-          "id": "gcrgRLzczmA",
-          "release_date": "2018-03-28",
-          "title": "僕たちはひとつの光 (ELI Mix)"
-        },
-        {
-          "id": "kttRV8Fm8co",
-          "release_date": "2018-03-28",
-          "title": "?←HEARTBEAT (ELI Mix)"
-        },
-        {
-          "id": "oygg18SmflY",
-          "release_date": "2018-03-28",
-          "title": "Cutie Panther (ELI Mix)"
-        },
-        {
-          "id": "XrhQ7SIidHQ",
-          "release_date": "2018-03-28",
-          "title": "夏、終わらないで。 (ELI Mix)"
-        },
-        {
-          "id": "tTZR5Xb2snU",
-          "release_date": "2018-03-28",
-          "title": "冬がくれた予感 (ELI Mix)"
-        },
-        {
-          "id": "gVkzUViIcuM",
-          "release_date": "2018-03-28",
-          "title": "Trouble Busters (ELI Mix)"
-        },
-        {
-          "id": "twhqKBHHJAw",
-          "release_date": "2018-03-28",
-          "title": "錯覚CROSSROADS (ELI Mix)"
-        },
-        {
-          "id": "ha0Pc_SnvaA",
-          "release_date": "2018-03-28",
-          "title": "PSYCHIC FIRE (ELI Mix)"
-        },
-        {
-          "id": "utB1ggh4pwM",
-          "release_date": "2018-03-28",
-          "title": "HEART to HEART! (ELI Mix)"
-        },
-        {
-          "id": "ia7M-uKsbe4",
-          "release_date": "2018-03-28",
-          "title": "嵐のなかの恋だから (ELI Mix)"
-        },
-        {
-          "id": "XjZDskybfis",
-          "release_date": "2018-03-28",
-          "title": "MOMENT RING (ELI Mix)"
-        },
-        {
-          "id": "o_pkExnXCVQ",
-          "release_date": "2018-03-28",
-          "title": "さようならへさよなら! (ELI Mix)"
-        },
-        {
-          "id": "7U2cvnsB17U",
           "release_date": "2020-09-09",
-          "title": "硝子の花園 (ELI Mix)"
-        },
-        {
-          "id": "CfgkU7D9t8I",
-          "release_date": "2020-09-09",
-          "title": "LONELIEST BABY (ELI Mix)"
-        },
-        {
-          "id": "dXpsj3US3U0",
-          "release_date": "2020-09-09",
-          "title": "Storm in Lover (ELI Mix)"
-        },
-        {
-          "id": "qm2_V2aOpSo",
-          "release_date": "2020-09-09",
-          "title": "そして最後のページには (ELI Mix)"
-        },
-        {
-          "id": "0HIoSI8xzpg",
-          "release_date": "2020-09-09",
-          "title": "Silent tonight (ELI Mix)"
-        },
-        {
-          "id": "RL7ZMyh_F6o",
-          "release_date": "2020-09-09",
-          "title": "これから (ELI Mix)"
+          "title": "ラブライブ!Solo Live! from μ's 絢瀬絵里 Extra",
+          "songs": [
+            {
+              "id": "7U2cvnsB17U",
+              "title": "硝子の花園 (ELI Mix)"
+            },
+            {
+              "id": "CfgkU7D9t8I",
+              "title": "LONELIEST BABY (ELI Mix)"
+            },
+            {
+              "id": "dXpsj3US3U0",
+              "title": "Storm in Lover (ELI Mix)"
+            },
+            {
+              "id": "qm2_V2aOpSo",
+              "title": "そして最後のページには (ELI Mix)"
+            },
+            {
+              "id": "0HIoSI8xzpg",
+              "title": "Silent tonight (ELI Mix)"
+            },
+            {
+              "id": "RL7ZMyh_F6o",
+              "title": "これから (ELI Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_eli.jpg"
         }
       ],
       "button_image": {
         "background_color": "#1EB8EC",
-        "url": "Ayase_Eli_Solo_CD_2__Ice_Blue_no_Shunkan_.jpg"
+        "url": "Eli_Solo_Button.jpg"
       }
     },
     {
       "name": "Kousaka Honoka",
       "name_jp": "高坂 穂乃果",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2012-01-25",
+          "title": "Honnori Honoka-iro!",
+          "songs": [
+            {
+              "id": "K6N2oSClFus",
+              "title": "愛は太陽じゃない?"
+            },
+            {
+              "id": "iMGkGzAN31c",
+              "title": "もうひとりじゃないよ"
+            },
+            {
+              "id": "9kjwriPQfNU",
+              "title": "僕らのLIVE 君とのLIFE (HONOKA Mix)"
+            },
+            {
+              "id": "NaERTJps4pA",
+              "title": "友情ノーチェンジ (HONOKA Mix)"
+            },
+            {
+              "id": "vhY2NPewvQc",
+              "title": "Snow halation (HONOKA Mix)"
+            },
+            {
+              "id": "X1jxOoC-_vA",
+              "title": "baby maybe 恋のボタン (HONOKA Mix)"
+            },
+            {
+              "id": "xGIM3u4lWJc",
+              "title": "Love marginal (HONOKA Mix)"
+            },
+            {
+              "id": "kWQEmqCHzU0",
+              "title": "sweet & sweet holiday (HONOKA Mix)"
+            },
+            {
+              "id": "9Jmr0jBB1oQ",
+              "title": "夏色えがおで1,2,Jump! (HONOKA Mix)"
+            },
+            {
+              "id": "gdA6jpQhsHY",
+              "title": "Mermaid festa vol.1 (HONOKA Mix)"
+            }
+          ],
+          "image_url": "Solo_Honoka.jpg"
+        },
+        {
+          "release_date": "2012-04-25",
+          "title": "Mermaid festa vol.2 ~Passionate~",
+          "songs": [
+            {
+              "id": "R6FQ3Dwkez0",
+              "title": "Someday of my life"
+            }
+          ],
+          "image_url": "Mermaid_festa_vol_2_Passionate.jpg"
+        },
+        {
+          "release_date": "2013-03-22",
+          "title": "Yume Naki Yume wa Yume ja nai",
+          "songs": [
+            {
+              "id": "FbwCY_-itYY",
+              "title": "µ's - Yume Naki Yume wa Yume ja nai"
+            }
+          ],
+          "image_url": "Original_song_1.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "ifp9hyUVJ4I",
+              "title": "閃光Resolution"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-06-20",
+          "title": "Shiawase Iki no SMILING!",
+          "songs": [
+            {
+              "id": "vDk2UfZBSPg",
+              "title": "Honoka Kōsaka - Shiawase Iki no SMILING!"
+            }
+          ],
+          "image_url": "Blu-ray_1.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "orange cheers!",
+          "songs": [
+            {
+              "id": "M7lIXmFcw1s",
+              "title": "もぎゅっとloveで接近中! (HONOKA Mix)"
+            },
+            {
+              "id": "JdX3nvGeOzY",
+              "title": "愛してるばんざーい! (HONOKA Mix)"
+            },
+            {
+              "id": "wjphuzOjSkM",
+              "title": "Mermaid festa vol.2 ～Passionate～ (HONOKA Mix)"
+            },
+            {
+              "id": "WEvMW48qsGY",
+              "title": "Wonderful Rush (HONOKA Mix)"
+            },
+            {
+              "id": "jH-YCLsRc8I",
+              "title": "Oh,Love & Peace! (HONOKA Mix)"
+            },
+            {
+              "id": "bCmcBOfLU1Q",
+              "title": "僕らは今のなかで (HONOKA Mix)"
+            },
+            {
+              "id": "ErF2rpDcn88",
+              "title": "WILD STARS (HONOKA Mix)"
+            },
+            {
+              "id": "MpM99ibdOoQ",
+              "title": "きっと青春が聞こえる (HONOKA Mix)"
+            },
+            {
+              "id": "qUXJzwFxwGk",
+              "title": "輝夜の城で踊りたい (HONOKA Mix)"
+            },
+            {
+              "id": "X4eupXPz0Do",
+              "title": "ススメ→トゥモロウ (HONOKA Mix)"
+            },
+            {
+              "id": "H6Fi6_eJ0_o",
+              "title": "これからのSomeday (HONOKA Mix)"
+            },
+            {
+              "id": "UZ-IIL9eniU",
+              "title": "Wonder zone (HONOKA Mix)"
+            },
+            {
+              "id": "Vyt8EpZOhGQ",
+              "title": "No brand girls (HONOKA Mix)"
+            },
+            {
+              "id": "Eyj0LMnmzMc",
+              "title": "START:DASH!! (HONOKA Mix)"
+            }
+          ],
+          "image_url": "Honoka_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Honoka",
+          "songs": [
+            {
+              "id": "cz6z6JIfU8I",
+              "title": "Music S.T.A.R.T!! (HONOKA Mix)"
+            },
+            {
+              "id": "-JjiLsv0BX8",
+              "title": "LOVELESS WORLD (HONOKA Mix)"
+            },
+            {
+              "id": "kosYOQ_mqlA",
+              "title": "タカラモノズ (HONOKA Mix)"
+            },
+            {
+              "id": "QcaRUCiPs_c",
+              "title": "Paradise Live (HONOKA Mix)"
+            },
+            {
+              "id": "syOoTG14kKY",
+              "title": "それは僕たちの奇跡 (HONOKA Mix)"
+            },
+            {
+              "id": "QMGbOvFtmbQ",
+              "title": "だってだって噫無情 (HONOKA Mix)"
+            },
+            {
+              "id": "90bAbl8R_Y4",
+              "title": "どんなときもずっと (HONOKA Mix)"
+            },
+            {
+              "id": "RL--2xbPKx0",
+              "title": "COLORFUL VOICE (HONOKA Mix)"
+            },
+            {
+              "id": "POwnrGz2JfM",
+              "title": "ユメノトビラ (HONOKA Mix)"
+            },
+            {
+              "id": "NQuiciTg8fo",
+              "title": "SENTIMENTAL StepS (HONOKA Mix)"
+            },
+            {
+              "id": "uWWIC3hVlrs",
+              "title": "Dancing stars on me! (HONOKA Mix)"
+            },
+            {
+              "id": "SoQWZtYHpaE",
+              "title": "KiRa-KiRa Sensation! (HONOKA Mix)"
+            },
+            {
+              "id": "xytAxmIeWrw",
+              "title": "Happy maker! (HONOKA Mix)"
+            },
+            {
+              "id": "-zndE-7uFfM",
+              "title": "Shangri-La Shower (HONOKA Mix)"
+            },
+            {
+              "id": "PliKX4KDgUM",
+              "title": "るてしキスキしてる (HONOKA Mix)"
+            },
+            {
+              "id": "Qa04M32NZIk",
+              "title": "ミはμ'sicのミ (HONOKA Mix)"
+            },
+            {
+              "id": "7Z4U7rIErqY",
+              "title": "Super LOVE=Super LIVE! (HONOKA Mix)"
+            },
+            {
+              "id": "qmybjd0ukDM",
+              "title": "Angelic Angel (HONOKA Mix)"
+            },
+            {
+              "id": "SVCmvXv0KyM",
+              "title": "SUNNY DAY SONG (HONOKA Mix)"
+            },
+            {
+              "id": "bDHUabfdlgU",
+              "title": "僕たちはひとつの光 (HONOKA Mix)"
+            },
+            {
+              "id": "DvDuNkY7-10",
+              "title": "Future style (HONOKA Mix)"
+            },
+            {
+              "id": "svBrFJKww30",
+              "title": "Pure girls project (HONOKA Mix)"
+            },
+            {
+              "id": "A4JQ1AItrYA",
+              "title": "UNBALANCED LOVE (HONOKA Mix)"
+            },
+            {
+              "id": "rNSuNEvCgpw",
+              "title": "永遠フレンズ (HONOKA Mix)"
+            },
+            {
+              "id": "-aFXTsks2Ms",
+              "title": "小夜啼鳥恋詩 (HONOKA Mix)"
+            },
+            {
+              "id": "88Tgm9Ov1Gg",
+              "title": "WAO-WAO Powerful day! (HONOKA Mix)"
+            },
+            {
+              "id": "TjjW_Y2nhA8",
+              "title": "NO EXIT ORION (HONOKA Mix)"
+            },
+            {
+              "id": "i8DIUUazmQI",
+              "title": "HEART to HEART! (HONOKA Mix)"
+            },
+            {
+              "id": "1Xr0gjROgeM",
+              "title": "嵐のなかの恋だから (HONOKA Mix)"
+            },
+            {
+              "id": "L_QnWJiBsAw",
+              "title": "MOMENT RING (HONOKA Mix)"
+            },
+            {
+              "id": "HTMJrbjFmHA",
+              "title": "さようならへさよなら! (HONOKA Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Honoka.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 高坂穂乃果 Extra",
+          "songs": [
+            {
+              "id": "cmzdoGhLSKI",
+              "title": "LONELIEST BABY (HONOKA Mix)"
+            },
+            {
+              "id": "e7VGmuyzkc4",
+              "title": "ぷわぷわーお! (HONOKA Mix)"
+            },
+            {
+              "id": "4Ll_k-Q7bqM",
+              "title": "そして最後のページには (HONOKA Mix)"
+            },
+            {
+              "id": "Br74BwHeMrc",
+              "title": "CheerDay CheerGirl! (HONOKA Mix)"
+            },
+            {
+              "id": "IoQ_HDxVho4",
+              "title": "これから (HONOKA Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_honoka.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#F39801",
-        "url": "Kousaka_Honoka_Solo_CD_2__orange_cheers_.jpg"
+        "url": "Honoka_Solo_Button.jpg"
       }
     },
     {
       "name": "Minami Kotori",
       "name_jp": "南 ことり",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2011-12-14",
+          "title": "Kotori Lovin' you",
+          "songs": [
+            {
+              "id": "dyNG275vqfs",
+              "title": "スピカテリブル"
+            },
+            {
+              "id": "xLoK4QDc17o",
+              "title": "僕らのLIVE 君とのLIFE (KOTORI Mix)"
+            },
+            {
+              "id": "FvLXZxp_P8k",
+              "title": "友情ノーチェンジ (KOTORI Mix)"
+            },
+            {
+              "id": "ujYMzA7RJCs",
+              "title": "Snow halation (KOTORI Mix)"
+            },
+            {
+              "id": "JkF-W6kYhhc",
+              "title": "baby maybe 恋のボタン (KOTORI Mix)"
+            },
+            {
+              "id": "tnOrneDCrGo",
+              "title": "Love marginal (KOTORI Mix)"
+            },
+            {
+              "id": "UrbJqNSHsog",
+              "title": "sweet & sweet holiday (KOTORI Mix)"
+            },
+            {
+              "id": "0SJCc2y5MrE",
+              "title": "夏色えがおで1,2,Jump! (KOTORI Mix)"
+            },
+            {
+              "id": "QTrgnQ4Ri0g",
+              "title": "Mermaid festa vol.1 (KOTORI Mix)"
+            }
+          ],
+          "image_url": "Solo_Kotori.jpg"
+        },
+        {
+          "release_date": "2012-06-27",
+          "title": "Kokuhaku Biyori, desu!",
+          "songs": [
+            {
+              "id": "L8JfI5aJoVg",
+              "title": "ぶる～べりぃ♡とれいん"
+            }
+          ],
+          "image_url": "Kokuhaku_Biyori_desu.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "9tgKHbugLKc",
+              "title": "夢☆ONCE AGAIN"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Junpaku Romance",
+          "songs": [
+            {
+              "id": "gGlWO5F8H7I",
+              "title": "もぎゅっとloveで接近中! (KOTORI Mix)"
+            },
+            {
+              "id": "sa9IOBikQiM",
+              "title": "愛してるばんざーい! (KOTORI Mix)"
+            },
+            {
+              "id": "Yl0DC5MzJho",
+              "title": "告白日和、です! (KOTORI Mix)"
+            },
+            {
+              "id": "XVKkeNgUQQc",
+              "title": "Wonderful Rush (KOTORI Mix)"
+            },
+            {
+              "id": "ibOg6bNzg6c",
+              "title": "Oh,Love & Peace! (KOTORI Mix)"
+            },
+            {
+              "id": "s5Z6g3f3BI0",
+              "title": "僕らは今のなかで (KOTORI Mix)"
+            },
+            {
+              "id": "7SUgVxd0P6c",
+              "title": "WILD STARS (KOTORI Mix)"
+            },
+            {
+              "id": "YWEGziXpPcM",
+              "title": "きっと青春が聞こえる (KOTORI Mix)"
+            },
+            {
+              "id": "Hf7G0IIxATQ",
+              "title": "輝夜の城で踊りたい (KOTORI Mix)"
+            },
+            {
+              "id": "iwhlDsZXaW8",
+              "title": "ススメ→トゥモロウ (KOTORI Mix)"
+            },
+            {
+              "id": "zrRkoJqvSrE",
+              "title": "これからのSomeday (KOTORI Mix)"
+            },
+            {
+              "id": "qFjiSPx-QvY",
+              "title": "Wonder zone (KOTORI Mix)"
+            },
+            {
+              "id": "rC_4ZH1e4kw",
+              "title": "No brand girls (KOTORI Mix)"
+            },
+            {
+              "id": "sMNbd3rclYE",
+              "title": "START:DASH!! (KOTORI Mix)"
+            }
+          ],
+          "image_url": "Kotori_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Kotori",
+          "songs": [
+            {
+              "id": "Qjqn37HKYaE",
+              "title": "Music S.T.A.R.T!! (KOTORI Mix)"
+            },
+            {
+              "id": "R274TWCprO4",
+              "title": "LOVELESS WORLD (KOTORI Mix)"
+            },
+            {
+              "id": "NfpVvLsu8fg",
+              "title": "タカラモノズ (KOTORI Mix)"
+            },
+            {
+              "id": "t1NHbOOnvy4",
+              "title": "Paradise Live (KOTORI Mix)"
+            },
+            {
+              "id": "D-UZ422sFZY",
+              "title": "それは僕たちの奇跡 (KOTORI Mix)"
+            },
+            {
+              "id": "mm6mQwdOQdo",
+              "title": "だってだって噫無情 (KOTORI Mix)"
+            },
+            {
+              "id": "SqUm3Q0vIeU",
+              "title": "どんなときもずっと (KOTORI Mix)"
+            },
+            {
+              "id": "etVGkppyEYg",
+              "title": "COLORFUL VOICE (KOTORI Mix)"
+            },
+            {
+              "id": "BMjP8Xl4Hy0",
+              "title": "ユメノトビラ (KOTORI Mix)"
+            },
+            {
+              "id": "G3CeL-BvpEg",
+              "title": "SENTIMENTAL StepS (KOTORI Mix)"
+            },
+            {
+              "id": "95NH2AqGKFw",
+              "title": "Dancing stars on me! (KOTORI Mix)"
+            },
+            {
+              "id": "s4XxvYJDNio",
+              "title": "KiRa-KiRa Sensation! (KOTORI Mix)"
+            },
+            {
+              "id": "1MUA1VQJ5QA",
+              "title": "Happy maker! (KOTORI Mix)"
+            },
+            {
+              "id": "QYjjvRoCCg4",
+              "title": "Shangri-La Shower (KOTORI Mix)"
+            },
+            {
+              "id": "WFY3hg6jI_o",
+              "title": "るてしキスキしてる (KOTORI Mix)"
+            },
+            {
+              "id": "RjYpj9bZ5RI",
+              "title": "ミはμ'sicのミ (KOTORI Mix)"
+            },
+            {
+              "id": "TTuofp0SNB8",
+              "title": "Super LOVE=Super LIVE! (KOTORI Mix)"
+            },
+            {
+              "id": "OOm02udsY_4",
+              "title": "Angelic Angel (KOTORI Mix)"
+            },
+            {
+              "id": "0HpqBvuSYJE",
+              "title": "SUNNY DAY SONG (KOTORI Mix)"
+            },
+            {
+              "id": "AL4HzhQX6lg",
+              "title": "僕たちはひとつの光 (KOTORI Mix)"
+            },
+            {
+              "id": "jX2K86qRIpU",
+              "title": "Future style (KOTORI Mix)"
+            },
+            {
+              "id": "utIGDHtISxA",
+              "title": "Pure girls project (KOTORI Mix)"
+            },
+            {
+              "id": "PVx4UQbaNZI",
+              "title": "UNBALANCED LOVE (KOTORI Mix)"
+            },
+            {
+              "id": "u18UoFGYtk8",
+              "title": "永遠フレンズ (KOTORI Mix)"
+            },
+            {
+              "id": "bUj5CWRZB8w",
+              "title": "小夜啼鳥恋詩 (KOTORI Mix)"
+            },
+            {
+              "id": "9HIUVKzkPwU",
+              "title": "WAO-WAO Powerful day! (KOTORI Mix)"
+            },
+            {
+              "id": "VN1YR7yqaJw",
+              "title": "NO EXIT ORION (KOTORI Mix)"
+            },
+            {
+              "id": "l8oGzruFMmE",
+              "title": "HEART to HEART! (KOTORI Mix)"
+            },
+            {
+              "id": "1pp2I3YU_Vg",
+              "title": "嵐のなかの恋だから (KOTORI Mix)"
+            },
+            {
+              "id": "NCWLiKk8Lyk",
+              "title": "MOMENT RING (KOTORI Mix)"
+            },
+            {
+              "id": "SEG15zUd5N0",
+              "title": "さようならへさよなら! (KOTORI Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Kotori.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 高坂穂乃果 Extra",
+          "songs": [
+            {
+              "id": "lEJM7rhvTaM",
+              "title": "Anemone heart (KOTORI Mix)"
+            },
+            {
+              "id": "ZIbxLO1JrDE",
+              "title": "LONELIEST BABY (KOTORI Mix)"
+            },
+            {
+              "id": "ya2QR6RrKwY",
+              "title": "ぷわぷわーお! (KOTORI Mix)"
+            },
+            {
+              "id": "do33h6TJvt0",
+              "title": "好きですが好きですか? (KOTORI Mix)"
+            },
+            {
+              "id": "AgVYB9scPhk",
+              "title": "そして最後のページには (KOTORI Mix)"
+            },
+            {
+              "id": "dpm4RRvSyAE",
+              "title": "CheerDay CheerGirl! (KOTORI Mix)"
+            },
+            {
+              "id": "UhMYQx0eLRY",
+              "title": "これから (KOTORI Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_kotori.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#ABADAC",
-        "url": "Minami_Kotori_Solo_CD_2__Junpaku_Romance_.jpg"
+        "url": "Kotori_Solo_Button.jpg"
       }
     },
     {
       "name": "Sonoda Umi",
-      "name_jp": "園田 海未",
+      "name_jp": "園田海未",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2011-11-23",
+          "title": "Umiiro Shoujo ni Miserarete",
+          "songs": [
+            {
+              "id": "C14xftSCLCA",
+              "title": "私たちは未来の花"
+            },
+            {
+              "id": "dAsibXweunM",
+              "title": "僕らのLIVE 君とのLIFE (UMI Mix)"
+            },
+            {
+              "id": "7A7M04E9ttc",
+              "title": "友情ノーチェンジ (UMI Mix)"
+            },
+            {
+              "id": "G5YZ24BLILk",
+              "title": "Snow halation (UMI Mix)"
+            },
+            {
+              "id": "BtMQarkke9w",
+              "title": "baby maybe 恋のボタン (UMI Mix)"
+            },
+            {
+              "id": "cY3hKwEmMcU",
+              "title": "知らないLove*教えてLove (UMI Mix)"
+            },
+            {
+              "id": "nFPtSey1wcg",
+              "title": "あ・の・ね・が・ん・ば・れ! (UMI Mix)"
+            },
+            {
+              "id": "QU1cy219bJY",
+              "title": "夏色えがおで1,2,Jump! (UMI Mix)"
+            },
+            {
+              "id": "XRhnHHApE1I",
+              "title": "Mermaid festa vol.1 (UMI Mix)"
+            }
+          ],
+          "image_url": "Solo_Umi.jpg"
+        },
+        {
+          "release_date": "2012-07-25",
+          "title": "soldier game",
+          "songs": [
+            {
+              "id": "PGuTNtOdN_E",
+              "title": "勇気のReason"
+            }
+          ],
+          "image_url": "soldier_game.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "e1Wg_2PgZiw",
+              "title": "NEURON,NEURON!!"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Ao no Shinwa",
+          "songs": [
+            {
+              "id": "GGFX-eY6AEQ",
+              "title": "もぎゅっとloveで接近中! (UMI Mix)"
+            },
+            {
+              "id": "-wIa6k0k4Qk",
+              "title": "愛してるばんざーい! (UMI Mix)"
+            },
+            {
+              "id": "obf4ZeGGwiY",
+              "title": "soldier game (UMI Mix)"
+            },
+            {
+              "id": "zsLnYD-hGlI",
+              "title": "Wonderful Rush (UMI Mix)"
+            },
+            {
+              "id": "MNzOwgEElfE",
+              "title": "Oh,Love & Peace! (UMI Mix)"
+            },
+            {
+              "id": "vDMJjOzlOcQ",
+              "title": "僕らは今のなかで (UMI Mix)"
+            },
+            {
+              "id": "v5rabk5rq48",
+              "title": "WILD STARS (UMI Mix)"
+            },
+            {
+              "id": "4Y1ItHht3nU",
+              "title": "きっと青春が聞こえる (UMI Mix)"
+            },
+            {
+              "id": "JZwWK7hmG4A",
+              "title": "輝夜の城で踊りたい (UMI Mix)"
+            },
+            {
+              "id": "K8vg-Hsz8pk",
+              "title": "ススメ→トゥモロウ (UMI Mix)"
+            },
+            {
+              "id": "t0upqu1PQ6g",
+              "title": "これからのSomeday (UMI Mix)"
+            },
+            {
+              "id": "af_yawV210U",
+              "title": "µ's - Wonder zone (Umi Sonoda Mix)"
+            },
+            {
+              "id": "ok5Dptda_Xw",
+              "title": "No brand girls (UMI Mix)"
+            },
+            {
+              "id": "MXTKGU0eWNM",
+              "title": "START:DASH!! (UMI Mix)"
+            }
+          ],
+          "image_url": "Umi_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Umi",
+          "songs": [
+            {
+              "id": "Esi2yKLS0TM",
+              "title": "Music S.T.A.R.T!! (UMI Mix)"
+            },
+            {
+              "id": "L9ENOVKbVpk",
+              "title": "LOVELESS WORLD (UMI Mix)"
+            },
+            {
+              "id": "ZpVUFYBFhpg",
+              "title": "タカラモノズ (UMI Mix)"
+            },
+            {
+              "id": "BuKVn7Blvms",
+              "title": "Paradise Live (UMI Mix)"
+            },
+            {
+              "id": "OUXnRt68kbY",
+              "title": "それは僕たちの奇跡 (UMI Mix)"
+            },
+            {
+              "id": "W_RingfSfj4",
+              "title": "だってだって噫無情 (UMI Mix)"
+            },
+            {
+              "id": "IN24VqJDUDQ",
+              "title": "どんなときもずっと (UMI Mix)"
+            },
+            {
+              "id": "0LO0xnQ6Ro8",
+              "title": "COLORFUL VOICE (UMI Mix)"
+            },
+            {
+              "id": "5nrgasmTzCA",
+              "title": "ユメノトビラ (UMI Mix)"
+            },
+            {
+              "id": "xRIy8-04cGg",
+              "title": "SENTIMENTAL StepS (UMI Mix)"
+            },
+            {
+              "id": "9pfF5-3Fssw",
+              "title": "Dancing stars on me! (UMI Mix)"
+            },
+            {
+              "id": "bsF1M95yWV0",
+              "title": "KiRa-KiRa Sensation! (UMI Mix)"
+            },
+            {
+              "id": "ICtuC8lw1ao",
+              "title": "Happy maker! (UMI Mix)"
+            },
+            {
+              "id": "5zCErPxgG-o",
+              "title": "Shangri-La Shower (UMI Mix)"
+            },
+            {
+              "id": "HPPfZ5f-Fkg",
+              "title": "るてしキスキしてる (UMI Mix)"
+            },
+            {
+              "id": "kMpuxMmzQQg",
+              "title": "ミはμ'sicのミ (UMI Mix)"
+            },
+            {
+              "id": "RyhPoQza1Fc",
+              "title": "Super LOVE=Super LIVE! (UMI Mix)"
+            },
+            {
+              "id": "rAF62i8rFPU",
+              "title": "Angelic Angel (UMI Mix)"
+            },
+            {
+              "id": "xv_DiiL1MDo",
+              "title": "SUNNY DAY SONG (UMI Mix)"
+            },
+            {
+              "id": "rNtoXe2nOu0",
+              "title": "僕たちはひとつの光 (UMI Mix)"
+            },
+            {
+              "id": "9VhM4qIqT0g",
+              "title": "Future style (UMI Mix)"
+            },
+            {
+              "id": "0B5nycwBwcg",
+              "title": "微熱からMystery (UMI Mix)"
+            },
+            {
+              "id": "5_Abd_mhhns",
+              "title": "キミのくせに! (UMI Mix)"
+            },
+            {
+              "id": "Ls2WMHAdgkE",
+              "title": "秋のあなたの空遠く (UMI Mix)"
+            },
+            {
+              "id": "d-gy8g04-4w",
+              "title": "ふたりハピネス (UMI Mix)"
+            },
+            {
+              "id": "2HKoAyDnKY8",
+              "title": "思い出以上になりたくて (UMI Mix)"
+            },
+            {
+              "id": "R_K8bmgoGa8",
+              "title": "春情ロマンティック (UMI Mix)"
+            },
+            {
+              "id": "JCasdKuomJ0",
+              "title": "HEART to HEART! (UMI Mix)"
+            },
+            {
+              "id": "9II9cYMdazI",
+              "title": "嵐のなかの恋だから (UMI Mix)"
+            },
+            {
+              "id": "EIC-FXZxl54",
+              "title": "MOMENT RING (UMI Mix)"
+            },
+            {
+              "id": "NMen23UQ-EU",
+              "title": "さようならへさよなら! (UMI Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Umi.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 園田海未 Extra",
+          "songs": [
+            {
+              "id": "Ym10QTwYhlA",
+              "title": "Anemone heart (UMI Mix)"
+            },
+            {
+              "id": "plCrKAJ8oNU",
+              "title": "LONELIEST BABY (UMI Mix)"
+            },
+            {
+              "id": "fkqlcLHSqaY",
+              "title": "Storm in Lover (UMI Mix)"
+            },
+            {
+              "id": "u3LDJEX1jD4",
+              "title": "そして最後のページには (UMI Mix)"
+            },
+            {
+              "id": "8umMkdcqb-U",
+              "title": "同じ星が見たい (UMI Mix)"
+            },
+            {
+              "id": "rYYGYMUjf6U",
+              "title": "これから (UMI Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_umi.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#2C72B7",
-        "url": "Sonoda_Umi_Solo_CD_2__Aoi_no_Shinwa_.jpg"
+        "url": "Umi_Solo_Button.jpg"
       }
     },
     {
       "name": "Nishikino Maki",
       "name_jp": "西木野 真姫",
       "group": "µ's",
-      "songs": [
+      "albums": [
         {
-          "id": "ziwbYO4nNTc",
           "release_date": "2012-02-19",
-          "title": "µ's - Diamond Princess no Yuuutsu (Maki Nishikino Mix)"
+          "title": "TRUE DIVA",
+          "songs": [
+            {
+              "id": "qhpiXTPa-pw",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE Maki Nishikino Mix"
+            },
+            {
+              "id": "4vd7lzAGyu0",
+              "title": "µ's - Yuujou No Change (Maki Nishikino Mix)"
+            },
+            {
+              "id": "5yYPW7cmlgE",
+              "title": "µ's - Snow halation (Maki Nishikino Mix)"
+            },
+            {
+              "id": "NQYuHsRt23g",
+              "title": "µ's - baby maybe Koi no Button (Maki Nishikino Mix)"
+            },
+            {
+              "id": "ziwbYO4nNTc",
+              "title": "µ's - Diamond Princess no Yuuutsu (Maki Nishikino Mix)"
+            },
+            {
+              "id": "JdGvLl0Pt5k",
+              "title": "µ's - Love Novels (Maki Nishikino Mix)"
+            },
+            {
+              "id": "TCXxRFAa8Sg",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! (Maki Nishikino Mix)"
+            },
+            {
+              "id": "8A6tcsv43Ao",
+              "title": "µ's - Mermaid festa vol 1 (MAKI Mix)"
+            }
+          ],
+          "image_url": "Solo_Maki.jpg"
+        },
+        {
+          "release_date": "2012-07-25",
+          "title": "soldier game",
+          "songs": [
+            {
+              "id": "L2wfRqjHW3Y",
+              "title": "Daring!!"
+            }
+          ],
+          "image_url": "soldier_game.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "BUFcK1JBf-Q",
+              "title": "秘密と花園"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "SCARLET PRINCESS",
+          "songs": [
+            {
+              "id": "Yd7LumRLJfk",
+              "title": "もぎゅっとloveで接近中! (MAKI Mix)"
+            },
+            {
+              "id": "A77psSLGPVw",
+              "title": "愛してるばんざーい! (MAKI Mix)"
+            },
+            {
+              "id": "BUJZ6gJtNLk",
+              "title": "soldier game (MAKI Mix)"
+            },
+            {
+              "id": "NI9vsrmjlGg",
+              "title": "Wonderful Rush (MAKI Mix)"
+            },
+            {
+              "id": "kK2Vd3iY_UU",
+              "title": "Oh,Love & Peace! (MAKI Mix)"
+            },
+            {
+              "id": "_klWKTJuje0",
+              "title": "僕らは今のなかで (MAKI Mix)"
+            },
+            {
+              "id": "VzGVD0dVPAg",
+              "title": "WILD STARS (MAKI Mix)"
+            },
+            {
+              "id": "LKvzvyyCoy8",
+              "title": "きっと青春が聞こえる (MAKI Mix)"
+            },
+            {
+              "id": "3fdJ5J6CIhs",
+              "title": "輝夜の城で踊りたい (MAKI Mix)"
+            },
+            {
+              "id": "egPg8EV_nRo",
+              "title": "これからのSomeday (MAKI Mix)"
+            },
+            {
+              "id": "d-xLgFTcs2E",
+              "title": "Wonder zone (MAKI Mix)"
+            },
+            {
+              "id": "s12fAe3eiaA",
+              "title": "No brand girls (MAKI Mix)"
+            },
+            {
+              "id": "Qyx3UBwFbtk",
+              "title": "START:DASH!! (MAKI Mix)"
+            }
+          ],
+          "image_url": "Maki_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Maki",
+          "songs": [
+            {
+              "id": "MrTK5NZNy34",
+              "title": "Music S.T.A.R.T!! (MAKI Mix)"
+            },
+            {
+              "id": "5EkFIyEshcs",
+              "title": "LOVELESS WORLD (MAKI Mix)"
+            },
+            {
+              "id": "7AvQ1G0UVII",
+              "title": "タカラモノズ (MAKI Mix)"
+            },
+            {
+              "id": "qQNbuA5wlJE",
+              "title": "Paradise Live (MAKI Mix)"
+            },
+            {
+              "id": "6wGwMFeG7-U",
+              "title": "それは僕たちの奇跡 (MAKI Mix)"
+            },
+            {
+              "id": "GSZESDIBzJs",
+              "title": "µ's - Datte Datte Aa Mujou (Maki Nishikino Mix)"
+            },
+            {
+              "id": "cfLIdOf-Awg",
+              "title": "どんなときもずっと (MAKI Mix)"
+            },
+            {
+              "id": "lM0NJFYygAs",
+              "title": "COLORFUL VOICE (MAKI Mix)"
+            },
+            {
+              "id": "d6WE49SndGA",
+              "title": "ユメノトビラ (MAKI Mix)"
+            },
+            {
+              "id": "700BONvmFGQ",
+              "title": "SENTIMENTAL StepS (MAKI Mix)"
+            },
+            {
+              "id": "h85PT-ZsCAA",
+              "title": "Love wing bell (MAKI Mix)"
+            },
+            {
+              "id": "3xFn_WK8OvQ",
+              "title": "Dancing stars on me! (MAKI Mix)"
+            },
+            {
+              "id": "yuTP7NVnK5o",
+              "title": "KiRa-KiRa Sensation! (MAKI Mix)"
+            },
+            {
+              "id": "ehhITcuF9t4",
+              "title": "Happy maker! (MAKI Mix)"
+            },
+            {
+              "id": "3DwI8RBG93Y",
+              "title": "Shangri-La Shower (MAKI Mix)"
+            },
+            {
+              "id": "p0_2SWRRn0A",
+              "title": "るてしキスキしてる (MAKI Mix)"
+            },
+            {
+              "id": "5mxKPMnFsUw",
+              "title": "ミはμ'sicのミ (MAKI Mix)"
+            },
+            {
+              "id": "bfVhN4_qmXA",
+              "title": "Super LOVE=Super LIVE! (MAKI Mix)"
+            },
+            {
+              "id": "UMdUsDiVQQo",
+              "title": "Angelic Angel (MAKI Mix)"
+            },
+            {
+              "id": "JElaqzhR6KA",
+              "title": "SUNNY DAY SONG (MAKI Mix)"
+            },
+            {
+              "id": "XDCXS29nKo0",
+              "title": "僕たちはひとつの光 (MAKI Mix)"
+            },
+            {
+              "id": "bnX5Mb2u4rg",
+              "title": "Hello,星を数えて (MAKI Mix)"
+            },
+            {
+              "id": "vIwVFS1xJJ8",
+              "title": "Cutie Panther (MAKI Mix)"
+            },
+            {
+              "id": "e22Ed6H42MI",
+              "title": "夏、終わらないで。 (MAKI Mix)"
+            },
+            {
+              "id": "a24q3mkXiRY",
+              "title": "冬がくれた予感 (MAKI Mix)"
+            },
+            {
+              "id": "Xhz_JbcYG5k",
+              "title": "Trouble Busters (MAKI Mix)"
+            },
+            {
+              "id": "1HGIAf0-SRc",
+              "title": "錯覚CROSSROADS (MAKI Mix)"
+            },
+            {
+              "id": "s0OvNLprWc8",
+              "title": "PSYCHIC FIRE (MAKI Mix)"
+            },
+            {
+              "id": "3fzDFugqwdE",
+              "title": "HEART to HEART! (MAKI Mix)"
+            },
+            {
+              "id": "ZLYEbOOTV64",
+              "title": "嵐のなかの恋だから (MAKI Mix)"
+            },
+            {
+              "id": "JhpQF62gM8M",
+              "title": "MOMENT RING (MAKI Mix)"
+            },
+            {
+              "id": "IfLaysZpptI",
+              "title": "さようならへさよなら! (MAKI Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Maki.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 西木野真姫 Extra",
+          "songs": [
+            {
+              "id": "D9X6Pn5knXY",
+              "title": "Beat in Angel (MAKI Mix)"
+            },
+            {
+              "id": "5zgNd8Zg3kI",
+              "title": "LONELIEST BABY (MAKI Mix)"
+            },
+            {
+              "id": "4Xiepuovf5E",
+              "title": "ずるいよMagnetic today (MAKI Mix)"
+            },
+            {
+              "id": "FU8XN6L6D_M",
+              "title": "そして最後のページには (MAKI Mix)"
+            },
+            {
+              "id": "iM2onS5Now4",
+              "title": "Silent tonight (MAKI Mix)"
+            },
+            {
+              "id": "9F82SwakJh8",
+              "title": "これから (MAKI Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_maki.jpg"
         }
       ],
       "button_image": {
         "background_color": "#E93421",
-        "url": "Nishikino_Maki_Solo_CD_2__SCARLET_PRINCESS_.jpg"
+        "url": "Maki_Solo_Button.jpg"
       }
     },
     {
       "name": "Hoshizora Rin",
       "name_jp": "星空 凛",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2012-02-19",
+          "title": "THE BRILLIANT STAR☆",
+          "songs": [
+            {
+              "id": "b68bZdS32Dc",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "WRVN8jUoh-4",
+              "release_date": "2012-02-19",
+              "title": "µ's - Yuujou No Change (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "NinBPEhC8S0",
+              "release_date": "2012-02-19",
+              "title": "µ's - Snow halation (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "2qjiuZSFXt0",
+              "release_date": "2012-02-19",
+              "title": "µ's - baby maybe Koi no Button (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "eFFvsMjC1lk",
+              "release_date": "2012-02-19",
+              "title": "µ's - Shiranai Love＊Oshiete Love (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "bLO0VV9EAfQ",
+              "release_date": "2012-02-19",
+              "title": "µ's - A NO NE GA N BA RE! (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "NEKV9Avbcq8",
+              "release_date": "2012-02-19",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "d105vxp5BWw",
+              "release_date": "2012-02-19",
+              "title": "µ's - Mermaid festa vol 1 (Rin Hoshizora Mix)"
+            }
+          ],
+          "image_url": "Solo_Rin.jpg"
+        },
+        {
+          "release_date": "2012-04-25",
+          "title": "Mermaid festa vol.2 ~Passionate~",
+          "songs": [
+            {
+              "id": "Pn_Tr9H915A",
+              "title": "恋のシグナルRin rin rin!"
+            }
+          ],
+          "image_url": "Mermaid_festa_vol_2_Passionate.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "9VU39BWqV3M",
+              "title": "ここで待ってるよ"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Ring a yellow bell",
+          "songs": [
+            {
+              "id": "SzyX3FKSMw0",
+              "title": "もぎゅっとloveで接近中! (RIN Mix)"
+            },
+            {
+              "id": "_e0soBw3UZo",
+              "title": "愛してるばんざーい! (RIN Mix)"
+            },
+            {
+              "id": "TZdCfCf1WiE",
+              "title": "Mermaid festa vol.2 ～Passionate～ (RIN Mix)"
+            },
+            {
+              "id": "_X_Spx1fL5A",
+              "title": "Wonderful Rush (RIN Mix)"
+            },
+            {
+              "id": "xpeOQm0EzwA",
+              "title": "Oh,Love & Peace! (RIN Mix)"
+            },
+            {
+              "id": "PQVnZR-RKso",
+              "title": "Listen to my heart!! (RIN Mix)"
+            },
+            {
+              "id": "wnOTh4UCK78",
+              "title": "after school NAVIGATORS (RIN Mix)"
+            },
+            {
+              "id": "7_9MfomnY8Y",
+              "title": "µ's - Bokura wa Ima no Naka de (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "XcR9F3JC1Zw",
+              "title": "WILD STARS (RIN Mix)"
+            },
+            {
+              "id": "YhJK0Zrvy1c",
+              "title": "きっと青春が聞こえる (RIN Mix)"
+            },
+            {
+              "id": "9gMxcRMoNvM",
+              "title": "輝夜の城で踊りたい (RIN Mix)"
+            },
+            {
+              "id": "X8u7hql7v3A",
+              "title": "これからのSomeday (RIN Mix)"
+            },
+            {
+              "id": "HtroG8j81nM",
+              "title": "Wonder zone (RIN Mix)"
+            },
+            {
+              "id": "SE2UdgLoZbE",
+              "title": "No brand girls (RIN Mix)"
+            },
+            {
+              "id": "zEfiRxfCZ_o",
+              "title": "START:DASH!! (RIN Mix)"
+            }
+          ],
+          "image_url": "Rin_Solo_2.jpg"
+        },
+        {
+          "release_date": "2014-08-27",
+          "title": "Kururin MIRACLE",
+          "songs": [
+            {
+              "id": "jCcYbtfDU6I",
+              "title": "Rin Hoshizora - Kururin MIRACLE"
+            }
+          ],
+          "image_url": "Blu-ray_3.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Rin",
+          "songs": [
+            {
+              "id": "3vLdpHhj4xA",
+              "title": "Music S.T.A.R.T!! (RIN Mix)"
+            },
+            {
+              "id": "vGnGeQvXHXU",
+              "title": "LOVELESS WORLD (RIN Mix)"
+            },
+            {
+              "id": "6WZmHg7aabw",
+              "title": "タカラモノズ (RIN Mix)"
+            },
+            {
+              "id": "FS5UsQESweg",
+              "title": "Paradise Live (RIN Mix)"
+            },
+            {
+              "id": "vBFnM1Wg2-I",
+              "title": "それは僕たちの奇跡 (RIN Mix)"
+            },
+            {
+              "id": "UE4orH6jOqQ",
+              "title": "µ's - Datte Datte Aa Mujou (Rin Hoshizora Mix)"
+            },
+            {
+              "id": "9okGZ3Wh38o",
+              "title": "どんなときもずっと (RIN Mix)"
+            },
+            {
+              "id": "c28-SSt9z8o",
+              "title": "COLORFUL VOICE (RIN Mix)"
+            },
+            {
+              "id": "jeErrrn084s",
+              "title": "ユメノトビラ (RIN Mix)"
+            },
+            {
+              "id": "UeQKSz9lkjE",
+              "title": "SENTIMENTAL StepS (RIN Mix)"
+            },
+            {
+              "id": "iPr2lNQgFAI",
+              "title": "Love wing bell (RIN Mix)"
+            },
+            {
+              "id": "Rrr17afPcXI",
+              "title": "Dancing stars on me! (RIN Mix)"
+            },
+            {
+              "id": "atkCVqR4fsI",
+              "title": "KiRa-KiRa Sensation! (RIN Mix)"
+            },
+            {
+              "id": "M2EpgS7E0-c",
+              "title": "Happy maker! (RIN Mix)"
+            },
+            {
+              "id": "WSMABsZiAls",
+              "title": "Shangri-La Shower (RIN Mix)"
+            },
+            {
+              "id": "jC3t8XIdBOE",
+              "title": "るてしキスキしてる (RIN Mix)"
+            },
+            {
+              "id": "s8zCf3PuiQU",
+              "title": "ミはμ'sicのミ (RIN Mix)"
+            },
+            {
+              "id": "V-3GMYqMaQw",
+              "title": "Super LOVE=Super LIVE! (RIN Mix)"
+            },
+            {
+              "id": "8NIi307QRbg",
+              "title": "Angelic Angel (RIN Mix)"
+            },
+            {
+              "id": "wxHNE1wdyUc",
+              "title": "SUNNY DAY SONG (RIN Mix)"
+            },
+            {
+              "id": "gSZTarQ4jGU",
+              "title": "僕たちはひとつの光 (RIN Mix)"
+            },
+            {
+              "id": "DGRY-iRVRx4",
+              "title": "Hello,星を数えて (RIN Mix)"
+            },
+            {
+              "id": "MQ3x_THccOs",
+              "title": "微熱からMystery (RIN Mix)"
+            },
+            {
+              "id": "b8q5KQ4GyoE",
+              "title": "キミのくせに! (RIN Mix)"
+            },
+            {
+              "id": "i57JGMbhkNI",
+              "title": "秋のあなたの空遠く (RIN Mix)"
+            },
+            {
+              "id": "AYecMis9P14",
+              "title": "ふたりハピネス (RIN Mix)"
+            },
+            {
+              "id": "73YI53MqZ4E",
+              "title": "思い出以上になりたくて (RIN Mix)"
+            },
+            {
+              "id": "gQBhUBslQ4w",
+              "title": "春情ロマンティック (RIN Mix)"
+            },
+            {
+              "id": "r7orACdEvt8",
+              "title": "HEART to HEART! (RIN Mix)"
+            },
+            {
+              "id": "FM9Z8nLc1ZM",
+              "title": "嵐のなかの恋だから (RIN Mix)"
+            },
+            {
+              "id": "BGhQxQqgmVc",
+              "title": "MOMENT RING (RIN Mix)"
+            },
+            {
+              "id": "GAEt_WF0ZEo",
+              "title": "さようならへさよなら! (RIN Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Rin.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 星空 凛 Extra",
+          "songs": [
+            {
+              "id": "hnP1TVX2jDE",
+              "title": "Beat in Angel (RIN Mix)"
+            },
+            {
+              "id": "kksf9HZornk",
+              "title": "LONELIEST BABY (RIN Mix)"
+            },
+            {
+              "id": "UmjadO3Krwg",
+              "title": "そして最後のページには (RIN Mix)"
+            },
+            {
+              "id": "EXVVKOG8D4I",
+              "title": "同じ星が見たい (RIN Mix)"
+            },
+            {
+              "id": "6U2rFi5XVgs",
+              "title": "これから (RIN Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_rin.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#FEF102",
-        "url": "Hoshizora_Rin_Solo_CD_2__Ring_a_yellow_bell_.jpg"
+        "url": "Rin_Solo_Button.jpg"
       }
     },
     {
       "name": "Koizumi Hanayo",
       "name_jp": "小泉 花陽",
       "group": "µ's",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2012-02-19",
+          "title": "Anata dake no taiyou ni naritai",
+          "songs": [
+            {
+              "id": "g0R-4Uuw5Gw",
+              "title": "µ's - Bokura no LIVE Kimi to no LIFE (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "UD0zNI36X7Q",
+              "title": "µ's - Yuujou No Change (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "3SQghMK8GQk",
+              "title": "µ's - Snow halation (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "SomleqT-H7o",
+              "title": "µ's - baby maybe Koi no Button (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "HD1mdf7xr0E",
+              "title": "µ's - Love marginal (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "1Kq5xq6P6WM",
+              "title": "µ's - sweet sweet holiday (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "y53dLZf3y8k",
+              "title": "µ's - Natsu iro Egao de 1,2,Jump! (Hanayo Koizumi Mix)"
+            },
+            {
+              "id": "Er88LctXKJU",
+              "title": "µ's - Mermaid festa vol 1 (Hanayo Koizumi Mix)"
+            }
+          ],
+          "image_url": "Solo_Hanayo.jpg"
+        },
+        {
+          "release_date": "2012-06-27",
+          "title": "Kokuhaku Biyori, desu!",
+          "songs": [
+            {
+              "id": "xUPcrYKe-JE",
+              "title": "孤独なHeaven"
+            }
+          ],
+          "image_url": "Kokuhaku_Biyori_desu.jpg"
+        },
+        {
+          "release_date": "2013-04-24",
+          "title": "神様と運命革命のパラドクス キャラソンアルバム feat. μ's ラブライブ",
+          "songs": [
+            {
+              "id": "QFbwLBpus5s",
+              "title": "コドクの回廊"
+            }
+          ],
+          "image_url": "Kamisama_To_Unmei_Kakumei_No_Paradox_Character_Song_Album_Feat_μ's_-_Love_Live.jpg"
+        },
+        {
+          "release_date": "2014-04-02",
+          "title": "Wakakusa no Season",
+          "songs": [
+            {
+              "id": "9ly5dY02Nh8",
+              "title": "もぎゅっとloveで接近中! (HANAYO Mix)"
+            },
+            {
+              "id": "1bDR7adVc_k",
+              "title": "愛してるばんざーい! (HANAYO Mix)"
+            },
+            {
+              "id": "TLdawkW1UfA",
+              "title": "告白日和、です! (HANAYO Mix)"
+            },
+            {
+              "id": "mNzrZv8-quY",
+              "title": "Wonderful Rush (HANAYO Mix)"
+            },
+            {
+              "id": "kPHkCM3dyZk",
+              "title": "Oh,Love & Peace! (HANAYO Mix)"
+            },
+            {
+              "id": "jg-qHfzACcI",
+              "title": "Listen to my heart!! (HANAYO Mix)"
+            },
+            {
+              "id": "tOOkEqtdUwE",
+              "title": "after school NAVIGATORS (HANAYO Mix)"
+            },
+            {
+              "id": "4zLCe-xcpeI",
+              "title": "僕らは今のなかで (HANAYO Mix)"
+            },
+            {
+              "id": "6NqXu8aUu1Q",
+              "title": "WILD STARS (HANAYO Mix)"
+            },
+            {
+              "id": "otyqbIFrQo4",
+              "title": "きっと青春が聞こえる (HANAYO Mix)"
+            },
+            {
+              "id": "maisLN6tQ3I",
+              "title": "輝夜の城で踊りたい (HANAYO Mix)"
+            },
+            {
+              "id": "b-EJAb8LMHc",
+              "title": "これからのSomeday (HANAYO Mix)"
+            },
+            {
+              "id": "n_hdgzany_w",
+              "title": "Wonder zone (HANAYO Mix)"
+            },
+            {
+              "id": "R9NWiZcmjRY",
+              "title": "No brand girls (HANAYO Mix)"
+            },
+            {
+              "id": "rxIHIOz0lx8",
+              "title": "START:DASH!! (HANAYO Mix)"
+            }
+          ],
+          "image_url": "Hanayo_Solo_2.jpg"
+        },
+        {
+          "release_date": "2018-03-28",
+          "title": "Memories with Hanayo",
+          "songs": [
+            {
+              "id": "aXT5VX5XJNc",
+              "title": "Music S.T.A.R.T!! (HANAYO Mix)"
+            },
+            {
+              "id": "l4fBuYWwy6A",
+              "title": "LOVELESS WORLD (HANAYO Mix)"
+            },
+            {
+              "id": "rRrd7rE2YGE",
+              "title": "タカラモノズ (HANAYO Mix)"
+            },
+            {
+              "id": "FdV-hHB-_Zk",
+              "title": "Paradise Live (HANAYO Mix)"
+            },
+            {
+              "id": "qCG2TVIN5VY",
+              "title": "それは僕たちの奇跡 (HANAYO Mix)"
+            },
+            {
+              "id": "sLBF_UkD70g",
+              "title": "だってだって噫無情 (HANAYO Mix)"
+            },
+            {
+              "id": "kr1WxNCF-ug",
+              "title": "どんなときもずっと (HANAYO Mix)"
+            },
+            {
+              "id": "1JKUlyFBqJ4",
+              "title": "COLORFUL VOICE (HANAYO Mix)"
+            },
+            {
+              "id": "iUEXMSkP3js",
+              "title": "ユメノトビラ (HANAYO Mix)"
+            },
+            {
+              "id": "aupeHyr7V6g",
+              "title": "SENTIMENTAL StepS (HANAYO Mix)"
+            },
+            {
+              "id": "p6xLMMjAIPo",
+              "title": "Love wing bell (HANAYO Mix)"
+            },
+            {
+              "id": "NHDdgkYf8Lc",
+              "title": "Dancing stars on me! (HANAYO Mix)"
+            },
+            {
+              "id": "yw82XbtfQMQ",
+              "title": "KiRa-KiRa Sensation! (HANAYO Mix)"
+            },
+            {
+              "id": "9BATjNMNAws",
+              "title": "Happy maker! (HANAYO Mix)"
+            },
+            {
+              "id": "1aOuuY1qf6k",
+              "title": "Shangri-La Shower (HANAYO Mix)"
+            },
+            {
+              "id": "SvvDxoPghNs",
+              "title": "るてしキスキしてる (HANAYO Mix)"
+            },
+            {
+              "id": "iyhFzL740OM",
+              "title": "ミはμ'sicのミ (HANAYO Mix)"
+            },
+            {
+              "id": "2HVkMitVFyk",
+              "title": "Super LOVE=Super LIVE! (HANAYO Mix)"
+            },
+            {
+              "id": "FACofVdv5A8",
+              "title": "Angelic Angel (HANAYO Mix)"
+            },
+            {
+              "id": "xUaxnMCwnqU",
+              "title": "SUNNY DAY SONG (HANAYO Mix)"
+            },
+            {
+              "id": "yKRQgmq5-Vw",
+              "title": "僕たちはひとつの光 (HANAYO Mix)"
+            },
+            {
+              "id": "1ogkhAikeD8",
+              "title": "Hello,星を数えて (HANAYO Mix)"
+            },
+            {
+              "id": "0kVrdCnBd8M",
+              "title": "Pure girls project (HANAYO Mix)"
+            },
+            {
+              "id": "cQL54ulZYZg",
+              "title": "UNBALANCED LOVE (HANAYO Mix)"
+            },
+            {
+              "id": "Z4dqGXjNp7U",
+              "title": "永遠フレンズ (HANAYO Mix)"
+            },
+            {
+              "id": "TOUJrsHrwMQ",
+              "title": "小夜啼鳥恋詩 (HANAYO Mix)"
+            },
+            {
+              "id": "AirLb1HEtn4",
+              "title": "WAO-WAO Powerful day! (HANAYO Mix)"
+            },
+            {
+              "id": "bbah10Omd58",
+              "title": "NO EXIT ORION (HANAYO Mix)"
+            },
+            {
+              "id": "eKCgplitC5c",
+              "title": "HEART to HEART! (HANAYO Mix)"
+            },
+            {
+              "id": "p6BL3zrHWEQ",
+              "title": "嵐のなかの恋だから (HANAYO Mix)"
+            },
+            {
+              "id": "JM4MnSw8pQU",
+              "title": "MOMENT RING (HANAYO Mix)"
+            },
+            {
+              "id": "U5jzBKmsjOE",
+              "title": "さようならへさよなら! (HANAYO Mix)"
+            }
+          ],
+          "image_url": "Memories_with_Hanayo.jpg"
+        },
+        {
+          "release_date": "2020-09-09",
+          "title": "ラブライブ!Solo Live! from μ's 小泉花陽 Extra",
+          "songs": [
+            {
+              "id": "kuYzn0LYV8I",
+              "title": "LONELIEST BABY (HANAYO Mix)"
+            },
+            {
+              "id": "fSeIi5WQqpM",
+              "title": "ぷわぷわーお! (HANAYO Mix)"
+            },
+            {
+              "id": "96_5lNYz53k",
+              "title": "好きですが好きですか? (HANAYO Mix)"
+            },
+            {
+              "id": "7ZMlTA24H-U",
+              "title": "そして最後のページには (HANAYO Mix)"
+            },
+            {
+              "id": "ZZwTSmUb0YA",
+              "title": "CheerDay CheerGirl! (HANAYO Mix)"
+            },
+            {
+              "id": "-phtAllnGaM",
+              "title": "これから (HANAYO Mix)"
+            }
+          ],
+          "image_url": "solo_live_extra_hanayo.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#23AC3A",
-        "url": "Koizumi_Hanayo_Solo_CD_2__Wakakusa_no_Season_.jpg"
+        "url": "Hanayo_Solo_Button.jpg"
       }
     },
     {
       "name": "Ohara Mari",
       "name_jp": "小原 鞠莉",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-06-13",
+          "title": "Ohara Mari First Solo Concert Album ~New winding road~",
+          "songs": [
+            {
+              "id": "MV_2CLqrc4U",
+              "title": "New winding road"
+            },
+            {
+              "id": "zPezjeWo7sM",
+              "title": "君のこころは輝いてるかい？ (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "odGySHE4avw",
+              "title": "Step! ZERO to ONE (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "E2ydHTF7nP4",
+              "title": "Aqours☆HEROES (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "668YlQSpwZU",
+              "title": "恋になりたいAQUARIUM (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "k0qV0txC8j0",
+              "title": "待ってて愛のうた (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "W1CGilAY7ls",
+              "title": "届かない星だとしても (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "y8e9QGdT9iY",
+              "title": "HAPPY PARTY TRAIN (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "TmXeUSARwSY",
+              "title": "SKY JOURNEY (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "m6DpwZK010U",
+              "title": "少女以上の恋がしたい (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "aZimA7NwzSs",
+              "title": "未体験HORIZON (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "tTwW6mnsdpg",
+              "title": "Deep Resonance (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "8FdtJilkePI",
+              "title": "Dance with Minotaurus (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "XPCAICSV8DM",
+              "title": "KOKORO Magic A to Z (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "3RPgPleYuxM",
+              "title": "Wake up, Challenger!! (小原鞠莉 Solo Ver.)"
+            },
+            {
+              "id": "hmIV6Msh_sU",
+              "title": "Shiny Racers"
+            }
+          ],
+          "image_url": "Mari_Solo.jpg"
+        },
+        {
+          "release_date": "2022-06-13",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Ohara Mari",
+          "songs": [
+            {
+              "id": "jHeYfM3ZW0k",
+              "title": "Aozora Jumping Heart (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "yMJK5ASEi_w",
+              "title": "Humming Friend (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "labt3MN7gZE",
+              "title": "Mijuku DREAMER (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "3VUujRdfIPo",
+              "title": "Omoiyo Hitotsuninare (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "J-yv9Fozo-w",
+              "title": "MIRAI TICKET (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "3KKwDjHC4pU",
+              "title": "Sunshine Pikkapika Ondo (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "AAATxVkn5cY",
+              "title": "Yume Kataruyori Yume Utaou (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "fS69JEGas-k",
+              "title": "Mirai no Bokura wa Shitteru yo (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "xmZUbnYymdc",
+              "title": "Kimi no Hitomi o Meguru Boken (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "VIbPG8JMHec",
+              "title": "MY Mai TONIGHT (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "lsRDsjmf8Bo",
+              "title": "MIRACLE WAVE (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "X9EMv7bgGHs",
+              "title": "WATER BLUE NEW WORLD (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "nsnlZU1aJ2c",
+              "title": "WONDERFUL STORIES (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "foN3aGiJx94",
+              "title": "“MY LIST” to you! (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "SDE6f13vMA0",
+              "title": "Yuki wa Doko ni? Kimi no Mune ni! (Mari Ohara Solo Ver.)"
+            },
+            {
+              "id": "dvIrXT4SyBQ",
+              "title": "Love is all, I sing love is all!"
+            }
+          ],
+          "image_url": "Mari_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#6458A4",
-        "url": "Mari_Solo_Album.jpg"
+        "url": "Mari_Solo_Button.jpg"
       }
     },
     {
       "name": "Kurosawa Dia",
       "name_jp": "黒澤 ダイヤ",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-01-01",
+          "title": "Kurosawa Dia First Solo Concert Album ～WHITE FIRST LOVE～",
+          "songs": [
+            {
+              "id": "uFG5GQnfJyI",
+              "title": "WHITE FIRST LOVE"
+            },
+            {
+              "id": "XXJfBYl8okc",
+              "title": "君のこころは輝いてるかい? (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "6Bwow1ZPKQs",
+              "title": "Step! ZERO to ONE (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "y6fqpJG73O0",
+              "title": "Aqours☆HEROES (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "owPRbockkII",
+              "title": "恋になりたいAQUARIUM (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "wx8ZgjZGbas",
+              "title": "待ってて愛のうた (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "uLLh5MvY2U8",
+              "title": "届かない星だとしても (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "-lP3rAFO8vA",
+              "title": "HAPPY PARTY TRAIN (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "OEfARMAhBs0",
+              "title": "SKY JOURNEY (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "lAIUsHzWvTE",
+              "title": "少女以上の恋がしたい (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "UGfeRQDCZ9w",
+              "title": "未体験HORIZON (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "oOFbGcmEEuY",
+              "title": "Deep Resonance (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "7DzPeIqe98Y",
+              "title": "Dance with Minotaurus (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "RhKtSB1pEbE",
+              "title": "KOKORO Magic “A to Z” (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "BzG4cWjx2l0",
+              "title": "Wake up, Challenger!! (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "yIHJ8xBQ6O0",
+              "title": "Perfect SEKAI"
+            }
+          ],
+          "image_url": "Dia_Solo.jpg"
+        },
+        {
+          "release_date": "2022-01-01",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Dia",
+          "songs": [
+            {
+              "id": "8J9bySFn-5U",
+              "title": "青空Jumping Heart (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "3MpzfM5T1zU",
+              "title": "ハミングフレンド (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "rNUxsdY6srs",
+              "title": "未熟DREAMER (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "6I1zx7zNECw",
+              "title": "想いよひとつになれ (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "kA5X9V9RyKQ",
+              "title": "MIRAI TICKET (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "489Obb8v-xE",
+              "title": "サンシャインぴっかぴか音頭 (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "IyG23XR0sUM",
+              "title": "ユメ語るよりユメ歌おう (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "l8z3u1tm0Os",
+              "title": "未来の僕らは知ってるよ (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "5igvd4fwh6E",
+              "title": "君の瞳を巡る冒険 (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "704lPV6eUCw",
+              "title": "MY舞☆TONIGHT (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "pNZYyOQCNVY",
+              "title": "MIRACLE WAVE (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "FV1KOIBHyeU",
+              "title": "WATER BLUE NEW WORLD (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "eGVX-_-JaGQ",
+              "title": "WONDERFUL STORIES (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "wuIrT1nqzwA",
+              "title": "“MY LIST” to you! (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "4YJJ8fEbSdc",
+              "title": "勇気はどこに？君の胸に！ (黒澤ダイヤ Solo Ver.)"
+            },
+            {
+              "id": "9iBKbegiKyg",
+              "title": "MOTTO-ZUTTO be with you"
+            }
+          ],
+          "image_url": "Dia_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#E70014",
-        "url": "DiaSoloAlbum.jpg"
+        "url": "Dia_Solo_Button.jpg"
       }
     },
     {
       "name": "Matsuura Kanan",
       "name_jp": "松浦 果南",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-02-10",
+          "title": "Matsuura Kanan First Solo Concert Album ～Sakana ka Nanda ka?～",
+          "songs": [
+            {
+              "id": "HE7VFFmc1Rs",
+              "title": "さかなかなんだか?"
+            },
+            {
+              "id": "xgZtz6cF3PY",
+              "title": "君のこころは輝いてるかい? (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "DYoT3DA0vcE",
+              "title": "Step! ZERO to ONE (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "0w54KyPZYK8",
+              "title": "Aqours☆HEROES (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "ouZU1mLSnw4",
+              "title": "恋になりたいAQUARIUM (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "aF9mfFG8ms8",
+              "title": "待ってて愛のうた (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "5u8kZ-5uSeA",
+              "title": "届かない星だとしても (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "w34yVhL2GBg",
+              "title": "HAPPY PARTY TRAIN (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "gxzFqpXRTdw",
+              "title": "SKY JOURNEY (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "2_C_zSm1Lno",
+              "title": "少女以上の恋がしたい (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "I7b9nrrurcE",
+              "title": "未体験HORIZON (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "XcqTbg4LJHU",
+              "title": "Deep Resonance (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "ZP6jpg_l5Zs",
+              "title": "Dance with Minotaurus (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "QYGby9kRhzM",
+              "title": "KOKORO Magic “A to Z” (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "sKgkPpXj6pU",
+              "title": "Wake up, Challenger!! (松浦果南 Solo Ver.)"
+            },
+            {
+              "id": "LnX0Cb5xvS0",
+              "title": "もっとね!"
+            }
+          ],
+          "image_url": "Kanan_Solo.jpg"
+        },
+        {
+          "release_date": "2022-02-10",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Matsuura Kanan",
+          "songs": [
+            {
+              "id": "0zekD0XMUso",
+              "title": "Aozora Jumping Heart (Solo Ver.)"
+            },
+            {
+              "id": "AuGHjWmfb58",
+              "title": "Humming Friend (Solo Ver.)"
+            },
+            {
+              "id": "kOgK-3HJJPg",
+              "title": "Mijuku DREAMER (Solo Ver.)"
+            },
+            {
+              "id": "n6BzUqbIZqE",
+              "title": "Omoiyo Hitotsuninare (Solo Ver.)"
+            },
+            {
+              "id": "-Uw5-8f9xkM",
+              "title": "MIRAI TICKET (Solo Ver.)"
+            },
+            {
+              "id": "uLajRcqCSJ0",
+              "title": "Sunshine Pikkapika Ondo (Solo Ver.)"
+            },
+            {
+              "id": "L_hlIoWZFus",
+              "title": "Yume Kataruyori Yume Utaou (Solo Ver.)"
+            },
+            {
+              "id": "XH_aE2fO2jw",
+              "title": "Mirai no Bokura wa Shitteru yo (Solo Ver.)"
+            },
+            {
+              "id": "8f6YFVgyCcA",
+              "title": "Kimi no Hitomi o Meguru Boken (Solo Ver.)"
+            },
+            {
+              "id": "qQeuuN9KKJc",
+              "title": "MY Mai TONIGHT (Solo Ver.)"
+            },
+            {
+              "id": "fN7ZOoTTQ9s",
+              "title": "MIRACLE WAVE (Solo Ver.)"
+            },
+            {
+              "id": "Dxo3eFBYH8w",
+              "title": "WATER BLUE NEW WORLD (Solo Ver.)"
+            },
+            {
+              "id": "2iVM79tCtAk",
+              "title": "WONDERFUL STORIES (Solo Ver.)"
+            },
+            {
+              "id": "_QH7La0gwaM",
+              "title": "“MY LIST” to you! (Solo Ver.)"
+            },
+            {
+              "id": "KLq4twCOfgQ",
+              "title": "Yuki wa Doko ni? Kimi no Mune ni! (Solo Ver.)"
+            },
+            {
+              "id": "1uIUyBhrWdA",
+              "title": "RUN KAKERU RUN"
+            }
+          ],
+          "image_url": "Kanan_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#63C0AD",
-        "url": "KananSoloAlbum.jpg"
+        "url": "Kanan_Solo_Button.jpg"
       }
     },
     {
       "name": "Watanabe You",
       "name_jp": "渡辺 曜",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-04-17",
+          "title": "Watanabe You First Solo Concert Album ～Beginner's Sailing～",
+          "songs": [
+            {
+              "id": "rBnQNJbxa_Q",
+              "title": "Beginner's Sailing"
+            },
+            {
+              "id": "iatsr3CilAE",
+              "title": "君のこころは輝いてるかい? (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "y2lgU0KoY0I",
+              "title": "Step! ZERO to ONE (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "uMyej0twfV4",
+              "title": "Aqours☆HEROES (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "dTmH848gVgg",
+              "title": "恋になりたいAQUARIUM (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "UKGftXeueis",
+              "title": "待ってて愛のうた (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "SfaTauAFpIw",
+              "title": "届かない星だとしても (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "nSizR_EJnVw",
+              "title": "HAPPY PARTY TRAIN (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "RCg2ZPKve6s",
+              "title": "SKY JOURNEY (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "CLfmYMTaFi4",
+              "title": "少女以上の恋がしたい (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "OFE2IDE-lBc",
+              "title": "未体験HORIZON (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "tOl71vLYdLM",
+              "title": "Deep Resonance (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "3-o_johSmr0",
+              "title": "Dance with Minotaurus (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "crKCyyyR_oE",
+              "title": "KOKORO Magic “A to Z” (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "GHWoo42sXFg",
+              "title": "Wake up, Challenger!! (渡辺 曜 Solo Ver.)"
+            },
+            {
+              "id": "_qiUkzWeAPM",
+              "title": "突然GIRL"
+            }
+          ],
+          "image_url": "You_Solo.jpg"
+        },
+        {
+          "release_date": "2022-04-17",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Watanabe You",
+          "songs": [
+            {
+              "id": "jjSbRAC9aAI",
+              "title": "Aozora Jumping Heart (Solo Ver.)"
+            },
+            {
+              "id": "SE-2wDewus4",
+              "title": "Humming Friend (Solo Ver.)"
+            },
+            {
+              "id": "-l3jUECASK0",
+              "title": "Kimetayo Hand in Hand (Solo Ver.)"
+            },
+            {
+              "id": "HlJhu6-JMYk",
+              "title": "Daisuki Dattara Daijoubu! (Solo Ver.)"
+            },
+            {
+              "id": "xgH4J0PipF4",
+              "title": "Yumede Yozorawo Terashitai (Solo Ver.)"
+            },
+            {
+              "id": "tVBEKGzSsQU",
+              "title": "Mijuku DREAMER (Solo Ver.)"
+            },
+            {
+              "id": "hBp8ie4Laj4",
+              "title": "Omoiyo Hitotsuninare (Solo Ver.)"
+            },
+            {
+              "id": "Vqr5FSE0f8w",
+              "title": "MIRAI TICKET (Solo Ver.)"
+            },
+            {
+              "id": "YgC2tc0ziO4",
+              "title": "Sunshine Pikkapika Ondo (Solo Ver.)"
+            },
+            {
+              "id": "DoeSzgTObmU",
+              "title": "Yume Kataruyori Yume Utaou (Solo Ver.)"
+            },
+            {
+              "id": "avYMep5SKdE",
+              "title": "Mirai no Bokura wa Shitteru yo (Solo Ver.)"
+            },
+            {
+              "id": "65qeNwrn36U",
+              "title": "Kimi no Hitomi o Meguru Boken (Solo Ver.)"
+            },
+            {
+              "id": "GcLsneD4kxI",
+              "title": "MY Mai TONIGHT (Solo Ver.)"
+            },
+            {
+              "id": "n-0pjpvZOz4",
+              "title": "MIRACLE WAVE (Solo Ver.)"
+            },
+            {
+              "id": "9R9ykShQVXc",
+              "title": "WATER BLUE NEW WORLD (Solo Ver.)"
+            },
+            {
+              "id": "LPgn2X4wAx0",
+              "title": "WONDERFUL STORIES (Solo Ver.)"
+            },
+            {
+              "id": "FyxdCKivoic",
+              "title": "“MY LIST” to you! (Solo Ver.)"
+            },
+            {
+              "id": "cHrT79AUWOk",
+              "title": "Yuki wa Doko ni? Kimi no Mune ni! (Solo Ver.)"
+            },
+            {
+              "id": "csB3o8RJxLU",
+              "title": "Paradise Chime"
+            }
+          ],
+          "image_url": "You_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#67AADF",
-        "url": "YouSoloAlbum.jpg"
+        "url": "You_Solo_Button.jpg"
       }
     },
     {
       "name": "Takami Chika",
       "name_jp": "高海 千歌",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2020-08-01",
+          "title": "Takami Chika First Solo Concert Album ~One More Sunshine Story~",
+          "songs": [
+            {
+              "id": "jwyBqK_rXYU",
+              "title": "One More Sunshine Story"
+            },
+            {
+              "id": "l53EmPFo0Ug",
+              "title": "君のこころは輝いてるかい? (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "-m7U5Mx6dP8",
+              "title": "Step! ZERO to ONE (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "Pga48GLX4RI",
+              "title": "Aqours☆HEROES (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "JlwXPpdRVus",
+              "title": "恋になりたいAQUARIUM (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "WjjnCYqUQKY",
+              "title": "待ってて愛のうた (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "icOE32TFjeM",
+              "title": "届かない星だとしても (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "OdmYpH_Z2r8",
+              "title": "HAPPY PARTY TRAIN (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "y2IeNGYFDlI",
+              "title": "SKY JOURNEY (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "TLGoWWw5Vvk",
+              "title": "少女以上の恋がしたい (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "24UfYf-aHek",
+              "title": "未体験HORIZON (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "dtiWYm-bjYM",
+              "title": "Deep Resonance (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "H5q_ZMpMegc",
+              "title": "Dance with Minotaurus (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "ikMy-P8BcwM",
+              "title": "KOKORO Magic A to Z (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "Qa1aVKS9LVw",
+              "title": "Wake up, Challenger!! (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "fj0RDiCZwIk",
+              "title": "Never giving up!"
+            }
+          ],
+          "image_url": "Chika_Solo.jpg"
+        },
+        {
+          "release_date": "2021-08-01",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Takami Chika",
+          "songs": [
+            {
+              "id": "lyHAw8jaVqE",
+              "title": "青空Jumping Heart (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "itxXW96OR44",
+              "title": "ハミングフレンド (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "rG1OCU1ivk0",
+              "title": "決めたよHand in Hand (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "HaXWXAriZTA",
+              "title": "ダイスキだったらダイジョウブ！ (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "jJx3YITsgus",
+              "title": "夢で夜空を照らしたい (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "9mbs0wzRu6I",
+              "title": "未熟DREAMER (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "uldwigh7cJQ",
+              "title": "想いよひとつになれ (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "NLbkv2RqBCI",
+              "title": "MIRAI TICKET (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "-vj3q0pBOQ0",
+              "title": "サンシャインぴっかぴか音頭 (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "AybKC1ZOfig",
+              "title": "ユメ語るよりユメ歌おう (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "wBeEASIgGds",
+              "title": "未来の僕らは知ってるよ (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "BERf-Li-KSk",
+              "title": "君の瞳を巡る冒険 (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "BHf12Ctvs9Q",
+              "title": "MY舞☆TONIGHT (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "3b2CfGk7njs",
+              "title": "MIRACLE WAVE (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "b4YKEWfNwhg",
+              "title": "WATER BLUE NEW WORLD (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "XubhYVPq_YU",
+              "title": "WONDERFUL STORIES (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "EcuDPugGcbs",
+              "title": "“MY LIST” to you! (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "1EC0S4frIxc",
+              "title": "勇気はどこに？君の胸に！ (高海千歌 Solo Ver.)"
+            },
+            {
+              "id": "_C9sxqK4B74",
+              "title": "OKAWARI Happy life!"
+            }
+          ],
+          "image_url": "Chika_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#F28100",
-        "url": "Chikasoloalbum.jpg"
+        "url": "Chika_Solo_Button.jpg"
       }
     },
     {
       "name": "Sakurauchi Riko",
       "name_jp": "桜内 梨子",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2020-09-19",
+          "title": "Sakurauchi Riko First Solo Concert Album ~Pianoforte Monologue~",
+          "songs": [
+            {
+              "id": "uHELX9ELRQQ",
+              "title": "Pianoforte Monologue"
+            },
+            {
+              "id": "mv1UExMc1_g",
+              "title": "君のこころは輝いてるかい? (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "mv2HKNzX1Uo",
+              "title": "Step! ZERO to ONE (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "lraF25-3tOs",
+              "title": "Aqours☆HEROES (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "WIbCsaRzQcs",
+              "title": "恋になりたいAQUARIUM (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "0EHPUstvAik",
+              "title": "待ってて愛のうた (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "RpEXfU-fXRc",
+              "title": "届かない星だとしても (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "z7H02ftODtw",
+              "title": "HAPPY PARTY TRAIN (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "ZUOKNqmBAfA",
+              "title": "SKY JOURNEY (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "o0O6i5RLrBw",
+              "title": "少女以上の恋がしたい (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "YepN7DfQ-Qo",
+              "title": "未体験HORIZON (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "NsAKNQPdHyQ",
+              "title": "Deep Resonance (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "E3GTMBQfWtY",
+              "title": "Dance with Minotaurus (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "9CjYtrIFmuo",
+              "title": "KOKORO Magic “A to Z” (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "SdfofZYjdjY",
+              "title": "Wake up, Challenger!! (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "eguOyIWfq1M",
+              "title": "PURE PHRASE"
+            }
+          ],
+          "image_url": "Riko_Solo.jpg"
+        },
+        {
+          "release_date": "2021-09-19",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Sakurauchi Riko",
+          "songs": [
+            {
+              "id": "l1wWcQJ7dkA",
+              "title": "青空Jumping Heart (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "lrfwOyNn6qY",
+              "title": "ハミングフレンド (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "N7TifOez7pQ",
+              "title": "決めたよHand in Hand (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "O8NYLGA7cKI",
+              "title": "ダイスキだったらダイジョウブ！ (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "Hsvbl_-zg4c",
+              "title": "夢で夜空を照らしたい (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "0atBg2pYGns",
+              "title": "未熟DREAMER (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "b3qe-7xOiYo",
+              "title": "想いよひとつになれ (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "3u7uNcuyBuo",
+              "title": "MIRAI TICKET (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "mETk-GkD-Sw",
+              "title": "サンシャインぴっかぴか音頭 (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "rywBFj5snZQ",
+              "title": "ユメ語るよりユメ歌おう (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "RyBlanjmUMo",
+              "title": "未来の僕らは知ってるよ (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "zuwrr5i9_eE",
+              "title": "君の瞳を巡る冒険 (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "mLclQRAMkfw",
+              "title": "MY舞☆TONIGHT (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "sMByt_L1_j8",
+              "title": "MIRACLE WAVE (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "nACjODi3Hdo",
+              "title": "WATER BLUE NEW WORLD (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "hhRiHbVZvEg",
+              "title": "WONDERFUL STORIES (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "ONqpKw23HAA",
+              "title": "“MY LIST” to you! (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "JX3v6NwAFmM",
+              "title": "勇気はどこに？君の胸に！ (桜内梨子 Solo Ver.)"
+            },
+            {
+              "id": "iyXhjyW3OFQ",
+              "title": "Love Spiral Tower"
+            }
+          ],
+          "image_url": "Riko_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#F39C95",
-        "url": "RikoSoloAlbum.jpg"
+        "url": "Riko_Solo_Button.jpg"
       }
     },
     {
       "name": "Tsushima Yoshiko",
       "name_jp": "津島 善子",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-07-13",
+          "title": "Tsushima Yoshiko First Solo Concert Album ~in this unstable world~",
+          "songs": [
+            {
+              "id": "bc0dF6XPeHY",
+              "title": "in this unstable world"
+            },
+            {
+              "id": "mkpdS02y9j0",
+              "title": "君のこころは輝いてるかい？ (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "rBd8qMob9tM",
+              "title": "Step! ZERO to ONE (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "DLpxtN9BAkE",
+              "title": "Aqours☆HEROES (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "TWNenjdOtg8",
+              "title": "恋になりたいAQUARIUM (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "PbQZgaleF9Q",
+              "title": "待ってて愛のうた (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "Ts6hPVytAho",
+              "title": "届かない星だとしても (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "GA-8sukRFck",
+              "title": "HAPPY PARTY TRAIN (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "ateNiOiBbqk ",
+              "title": "SKY JOURNEY (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "PnLSctxXtw0",
+              "title": "少女以上の恋がしたい (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "e9DjlsBTVLY",
+              "title": "未体験HORIZON (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "4ibtMFDKF4M",
+              "title": "Deep Resonance (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "SHFymBsNNUQ",
+              "title": "Dance with Minotaurus (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "PcvhGgQ6eCs",
+              "title": "KOKORO Magic “A to Z” (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "coYdV9axZx0",
+              "title": "Wake up, Challenger!! (津島善子 Solo Ver.)"
+            },
+            {
+              "id": "mMw0aUfexrg",
+              "title": "タテホコツバサ"
+            }
+          ],
+          "image_url": "Yoshiko_Solo.jpg"
+        },
+        {
+          "release_date": "2022-07-13",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Tsushima Yoshiko",
+          "songs": [
+            {
+              "id": "VoGsfhfjgEY",
+              "title": "Aozora Jumping Heart"
+            },
+            {
+              "id": "eHrSoEKO_-0",
+              "title": "Humming Friend"
+            },
+            {
+              "id": "jx0sIOR7wuw",
+              "title": "Yumede Yozorawo Terashitai"
+            },
+            {
+              "id": "xiQYNwc1rFw",
+              "title": "Mijuku DREAMER"
+            },
+            {
+              "id": "HpBz-poWEGc",
+              "title": "Omoiyo Hitotsuninare"
+            },
+            {
+              "id": "Uj0aWPZYR4E",
+              "title": "MIRAI TICKET"
+            },
+            {
+              "id": "8YXa6oQABW4",
+              "title": "Sunshine Pikkapika Ondo"
+            },
+            {
+              "id": "KfwXXnF8thc",
+              "title": "Yume Kataruyori Yume Utaou"
+            },
+            {
+              "id": "CfI8rtJ_XKA",
+              "title": "Mirai no Bokura wa Shitteru yo"
+            },
+            {
+              "id": "lfSVsNJ_11o",
+              "title": "Kimi no Hitomi o Meguru Boken"
+            },
+            {
+              "id": "P2mvoSL3d4E",
+              "title": "MY Mai TONIGHT"
+            },
+            {
+              "id": "agk3Ulf7jpU",
+              "title": "MIRACLE WAVE"
+            },
+            {
+              "id": "2fsgschX5JE",
+              "title": "WATER BLUE NEW WORLD"
+            },
+            {
+              "id": "zXZ_F3GTaJ4",
+              "title": "WONDERFUL STORIES"
+            },
+            {
+              "id": "3ioGEpIA6vk",
+              "title": "“MY LIST” to you!"
+            },
+            {
+              "id": "210vXMQYWB0",
+              "title": "Yuki wa Doko ni? Kimi no Mune ni!"
+            },
+            {
+              "id": "R7cAI-I6YQY",
+              "title": "Meimei Tantei Yohane"
+            }
+          ],
+          "image_url": "Yoshiko_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#9F9F9F",
-        "url": "Yoshiko_Solo_Album.jpg"
+        "url": "Yoshiko_Solo_Button.jpg"
       }
     },
     {
       "name": "Kurosawa Ruby",
       "name_jp": "黒澤 ルビィ",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2020-09-21",
+          "title": "Kurosawa Ruby First Solo Concert Album ~RED GEM WINK~",
+          "songs": [
+            {
+              "id": "qqMhdF3p4ew",
+              "title": "RED GEM WINK"
+            },
+            {
+              "id": "i1HHCg8DvmQ",
+              "title": "君のこころは輝いてるかい? (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "Bb_cKNly5-Y",
+              "title": "Step! ZERO to ONE (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "tV5P4SXTzGU",
+              "title": "Aqours☆HEROES (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "tjxfyaHEqjg",
+              "title": "恋になりたいAQUARIUM (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "yd1rjNg-RHk",
+              "title": "待ってて愛のうた (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "JeQM7rRp3qU",
+              "title": "届かない星だとしても (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "R3pRxEfl-dQ",
+              "title": "HAPPY PARTY TRAIN (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "QnOkqXaXBz4",
+              "title": "SKY JOURNEY (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "BO6LaG7n-N8",
+              "title": "少女以上の恋がしたい (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "UxiS4_EJa9Q",
+              "title": "未体験HORIZON (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "25dS72Xtd-k",
+              "title": "Deep Resonance (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "RYxugxfCpfQ",
+              "title": "Dance with Minotaurus (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "uoTQdQ6JNkI",
+              "title": "KOKORO Magic “A to Z” (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "HO2XJx7dILI",
+              "title": "Wake up, Challenger!! (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "wvA6_u808pk",
+              "title": "コットンキャンディえいえいおー!"
+            }
+          ],
+          "image_url": "Ruby_Solo.jpg"
+        },
+        {
+          "release_date": "2021-09-21",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Ruby",
+          "songs": [
+            {
+              "id": "-rqihNipgC0",
+              "title": "青空Jumping Heart (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "TB-QcXmal0w ",
+              "title": "ハミングフレンド (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "_WIlJlV1t70",
+              "title": "夢で夜空を照らしたい (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "eXm5dyESW7E",
+              "title": "未熟DREAMER (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "h-B9RYh85Dc",
+              "title": "想いよひとつになれ (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "F0mONq2bKJI",
+              "title": "MIRAI TICKET (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "HTqwKhVjCe4",
+              "title": "サンシャインぴっかぴか音頭 (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "UFmlNxnGnBM",
+              "title": "ユメ語るよりユメ歌おう (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "gNEE7zAEjdg",
+              "title": "未来の僕らは知ってるよ (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "N0PUT9ro-pg",
+              "title": "君の瞳を巡る冒険 (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "0D2uThi6bWo",
+              "title": "MY舞☆TONIGHT (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "OhPxMQ7_6X8",
+              "title": "MIRACLE WAVE (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "yGZ121lo3mI",
+              "title": "WATER BLUE NEW WORLD (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "t7ISM7M-sfo",
+              "title": "WONDERFUL STORIES (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "eT1n8YM3C1c",
+              "title": "“MY LIST” to you! (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "NeNBLBZOpGU",
+              "title": "勇気はどこに？君の胸に！ (黒澤ルビィ Solo Ver.)"
+            },
+            {
+              "id": "KHmzc_Tvtn0",
+              "title": "1STAR"
+            }
+          ],
+          "image_url": "Ruby_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#EE6DA6",
-        "url": "RubySoloAlbum.jpg"
+        "url": "Ruby_Solo_Button.jpg"
       }
     },
     {
       "name": "Kunikida Hanamaru",
       "name_jp": "国木田 花丸",
       "group": "Aqours",
-      "songs": [],
+      "albums": [
+        {
+          "release_date": "2021-03-04",
+          "title": "Kunikida Hanamaru First Solo Concert Album ～Oyasuminasan!～",
+          "songs": [
+            {
+              "id": "2fmZqdiTPG4",
+              "title": "おやすみなさん!"
+            },
+            {
+              "id": "ZvoSOWSmpWA",
+              "title": "君のこころは輝いてるかい? (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "pcH8It_mOe4",
+              "title": "Step! ZERO to ONE (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "h7jjsKOnI8I",
+              "title": "Aqours☆HEROES (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "eRa6BlcFwYU",
+              "title": "恋になりたいAQUARIUM (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "KzynZz8zrO0",
+              "title": "待ってて愛のうた (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "EdKUds4RFpM",
+              "title": "届かない星だとしても (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "gVzMUFJr5kM",
+              "title": "HAPPY PARTY TRAIN (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "UetvR3rVhg0",
+              "title": "SKY JOURNEY (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "K9srHRKl_0w",
+              "title": "少女以上の恋がしたい (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "xMY-7plD_To",
+              "title": "未体験HORIZON (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "MksQi4s1CmI",
+              "title": "Deep Resonance (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "b4IBMQuHwXo",
+              "title": "Dance with Minotaurus (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "hnrrkDrCH7o",
+              "title": "KOKORO Magic “A to Z” (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "WaxI1TE8bzg",
+              "title": "Wake up, Challenger!! (国木田花丸 Solo Ver.)"
+            },
+            {
+              "id": "xP54Jr0SFLA",
+              "title": "あこがれランララン"
+            }
+          ],
+          "image_url": "Hanamaru_Solo.jpg"
+        },
+        {
+          "release_date": "2022-03-04",
+          "title": "Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kunikida Hanamaru",
+          "songs": [
+            {
+              "id": "8lO-kSPmaKw",
+              "title": "Aozora Jumping Heart (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "sayAvFVPGNE",
+              "title": "Humming Friend (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "3pIPnsP5Lyg",
+              "title": "Yumede Yozorawo Terashitai (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "6HbpZ-Ei3r8",
+              "title": "Mijuku DREAMER (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "mQF1aK5y1y0",
+              "title": "Omoiyo Hitotsuninare (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "Goqb65O8Xk4",
+              "title": "MIRAI TICKET (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "O6DLgY81zaA",
+              "title": "Sunshine Pikkapika Ondo (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "R-vd3vjRuwM",
+              "title": "Yume Kataruyori Yume Utaou (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "ZQCNE4Yyq3k",
+              "title": "Mirai no Bokura wa Shitteru yo (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "NgIoON6rj2Y",
+              "title": "Kimi no Hitomi o Meguru Boken (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "_FQieedhyDo",
+              "title": "MY Mai TONIGHT (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "TFsW3j_kh9Y",
+              "title": "MIRACLE WAVE (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "1AgaCGvDr0k",
+              "title": "WATER BLUE NEW WORLD (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "Drfmhy30ZtQ",
+              "title": "WONDERFUL STORIES (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "KP4zGU4zQCg",
+              "title": "“MY LIST” to you! (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "c8NBV5eSBXA",
+              "title": "Yuki wa Doko ni? Kimi no Mune ni! (Hanamaru Kunikida Solo Ver.)"
+            },
+            {
+              "id": "1kD7IK49Gr4",
+              "title": "Yaa! Koun Ryusui!?"
+            }
+          ],
+          "image_url": "Hanamaru_Solo_2.jpg"
+        }
+      ],
       "button_image": {
         "background_color": "#FEE202",
-        "url": "HanamaruFirstSoloAlbum.jpg"
+        "url": "Hanamaru_Solo_Button.jpg"
       }
     }
   ]
