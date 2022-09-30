@@ -15,7 +15,7 @@ function IdolButton({
 }) {
   const idAttribute = `idol-button-${index}`;
   return (
-    <li>
+    <li className="idol">
       <button
         id={idAttribute}
         className="lovelive-button lovelive-text idol-button"

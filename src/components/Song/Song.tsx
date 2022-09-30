@@ -14,7 +14,7 @@ function Song({
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
   return (
-    <li>
+    <li className="song">
       <button
         className="lovelive-button lovelive-text song-button"
         name={`${song.id}`}

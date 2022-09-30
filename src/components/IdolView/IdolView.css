@@ -33,9 +33,6 @@
   overflow-y: scroll;
 }
 .albums {
-  display: flex;
-  /* flex */
-  flex-direction: column;
-  gap: calc(var(--gutter-size));
-  /* end of flex */
+  margin: 0 auto;
+  max-width: 360px;
 }

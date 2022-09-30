@@ -29,17 +29,19 @@ main {
 h1 {
   line-height: 0;
 }
-h2 {
+h2, p {
   font-size: 1.25rem;
 }
-li {
+/* li {
   display: contents;
-}
+} */
 button {
   border: 0;
   cursor: pointer;
   font-family: inherit;
   margin: 0;
+  min-height: 32px;
+  min-width: 32px;
   padding: 0;
 }
 .logo-container {
@@ -99,7 +101,6 @@ button {
   height: calc(100vh - var(--tap-size));
   margin: 0 auto;
   max-width: 360px;
-  min-width: min(100vw, 360px);
   padding: calc(var(--gutter-size) / 2);
 }
 footer {

@@ -20,6 +20,7 @@ function App() {
       setOverlay(false);
     }
   }, [activeIdolView]);
+  /* end of overlay effect */
   const handleOpenView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
     const index = e.currentTarget.id.substring(12);
     setActiveIdolView(`idol-view-${index}`);

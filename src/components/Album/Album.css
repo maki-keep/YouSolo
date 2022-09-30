@@ -1,3 +1,6 @@
+.album:not(:last-child) {
+  margin-bottom: var(--gutter-size);
+}
 .album-button {
   display: flex;
   /* flex */
@@ -6,7 +9,7 @@
   justify-content: flex-start;
   /* end of flex */
   max-width: 360px;
-  min-width: var(--album-width);
+  width: 100%;
 }
 .album-title, .release-date {
   margin-top: 0.45rem;
@@ -18,9 +21,6 @@
   font-size: 0.9rem;
 }
 .songs {
-  display: flex;
-  /* flex */
-  flex-direction: column;
-  gap: calc(var(--gutter-size) / 2);
-  /* end of flex */
+  margin-top: calc(var(--gutter-size) / 2);
+  max-width: 360px;
 }

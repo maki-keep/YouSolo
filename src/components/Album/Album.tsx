@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 import { Album as AlbumI } from "../../types/types";
@@ -14,12 +15,21 @@ function Album({
   image_color: string,
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
+  const [showSongs, setShowSongs] = useState(false);
+  const handleShowSongs: React.MouseEventHandler<HTMLButtonElement> = () => {
+    if (showSongs) {
+      setShowSongs(false);
+    } else {
+      setShowSongs(true);
+    }
+  };
   return (
-    <li>
+    <li className="album">
       <button
         className="lovelive-button lovelive-text album-button"
         name={`${album.title}`}
         aria-label={`view ${album.title}`}
+        onClick={handleShowSongs}
         css={css`
           &:hover {
             background-color: ${image_color}40;
@@ -37,7 +47,12 @@ function Album({
         <span className="album-title">{album.title}</span>
         <span className="release-date">{album.release_date}</span>
       </button>
-      <ol className="songs">
+      <ol
+        className="songs"
+        style={{
+          display: showSongs ? "block" : "none"
+        }}
+      >
       {album.songs.map((song, index) => (
         <Song
           key={index}

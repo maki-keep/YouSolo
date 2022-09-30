@@ -15,7 +15,7 @@ function IdolView({
   index: number,
   activeIdolView: HTMLDivElement["id"],
   idol: IdolI,
-  handleCloseView: React.MouseEventHandler<HTMLButtonElement>
+  handleCloseView: React.MouseEventHandler<HTMLButtonElement>,
   handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
 }) {
   const idAttribute = `idol-view-${index}`;

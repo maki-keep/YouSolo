@@ -1,3 +1,6 @@
+.idol {
+  display: inline-block;
+}
 .idol-button {
   display: flex;
   /* flex */
@@ -5,6 +8,7 @@
   flex-direction: column;
   justify-content: flex-start;
   /* end of flex */
+  height: calc(var(--button-image-size) + 68px);
   width: var(--button-width);
 }
 .idol-button img {
