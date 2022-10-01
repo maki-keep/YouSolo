@@ -1,12 +1,11 @@
-import React from "react";
-import { Song as SongI } from "../../types/types";
+import { useAppSelector } from '../../app/hooks';
+import {
+  selectCurrentSongId
+} from "../../appSlice";
 import "./Embed.css";
 
-function Embed({
-  currentSongId
-}: {
-  currentSongId: SongI["id"]
-}) {
+function Embed() {
+  const currentSongId = useAppSelector(selectCurrentSongId);
   return (
     <div className="embed-container">
       <div

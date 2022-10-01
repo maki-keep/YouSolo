@@ -1,4 +1,8 @@
 import React from "react";
+import { useAppDispatch } from "../../app/hooks";
+import {
+  openView
+} from "../../appSlice";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 import { Idol as IdolI } from "../../types/types";
@@ -6,14 +10,17 @@ import "./IdolButton.css";
 
 function IdolButton({
   index,
-  idol,
-  handleOpenView
+  idol
 }: {
   index: number,
-  idol: IdolI,
-  handleOpenView: React.MouseEventHandler<HTMLButtonElement>
+  idol: IdolI
 }) {
   const idAttribute = `idol-button-${index}`;
+  const dispatch = useAppDispatch();
+  const handleOpenView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
+    const index = e.currentTarget.id.substring(12);
+    dispatch(openView(index));
+  };
   return (
     <li className="idol">
       <button

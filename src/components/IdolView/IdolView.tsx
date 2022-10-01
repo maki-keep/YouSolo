@@ -1,4 +1,9 @@
 import React from "react";
+import { useAppSelector, useAppDispatch } from "../../app/hooks";
+import {
+  closeView,
+  selectActiveIdolView
+} from "../../appSlice";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 import { Idol as IdolI } from "../../types/types";
@@ -7,18 +12,17 @@ import Album from "../Album/Album";
 
 function IdolView({
   index,
-  activeIdolView,
-  idol,
-  handleCloseView,
-  handleSelectSong
+  idol
 }: {
   index: number,
-  activeIdolView: HTMLDivElement["id"],
-  idol: IdolI,
-  handleCloseView: React.MouseEventHandler<HTMLButtonElement>,
-  handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
+  idol: IdolI
 }) {
   const idAttribute = `idol-view-${index}`;
+  const activeIdolView = useAppSelector(selectActiveIdolView);
+  const dispatch = useAppDispatch();
+  const handleCloseView: React.MouseEventHandler<HTMLButtonElement> = () => {
+    dispatch(closeView());
+  };
   return (
     <div
       id={idAttribute}
@@ -58,7 +62,6 @@ function IdolView({
             key={index}
             album={album}
             image_color={idol.button_image.background_color}
-            handleSelectSong={handleSelectSong}
           />
         ))}
         </ol>

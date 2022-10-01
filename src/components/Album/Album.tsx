@@ -1,19 +1,16 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
-import { Album as AlbumI } from "../../types/types";
+import { Album as AlbumI, Idol as IdolI } from "../../types/types";
 import "./Album.css";
 import Song from "../Song/Song";
 
 function Album({
   album,
-  image_color,
-  handleSelectSong
+  image_color
 }: {
   album: AlbumI,
-  image_color: string,
-  handleSelectSong: React.MouseEventHandler<HTMLButtonElement>
+  image_color: IdolI["button_image"]["background_color"]
 }) {
   const [showSongs, setShowSongs] = useState(false);
   const handleShowSongs: React.MouseEventHandler<HTMLButtonElement> = () => {
@@ -58,7 +55,6 @@ function Album({
           key={index}
           song={song}
           image_color={image_color}
-          handleSelectSong={handleSelectSong}
         />
       ))}
       </ol>
