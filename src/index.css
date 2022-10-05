@@ -9,16 +9,15 @@
   --button-image-size: 72px;
   --tap-size: 48px;
   --gutter-size: 32px;
-  --video-height: 222px;
-  --video-width: 296px;
+  --video-height: 240px;
+  --video-width: 360px;
   --yousolo-logo-height: 59px;
   --yousolo-logo-width: 204px;
 
   /* derivative variables */
   --album-width: calc(var(--album-image-size) + 16px);
   --button-width: calc(var(--button-image-size) + 16px);
-  --embed-container-height: calc(var(--video-height) + var(--gutter-size) * 2);
-  --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--embed-container-height));
+  --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--video-height));
   --about-container-height: calc(100% - var(--gutter-size) - var(--tap-size));
   --songs-container-height: calc(100% - var(--gutter-size) - var(--button-image-size));
 }

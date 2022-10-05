@@ -17,16 +17,18 @@ function Song({
   image_color: IdolI["button_image"]["background_color"]
 }) {
   const dispatch = useAppDispatch();
-  const handleClickSong: React.MouseEventHandler<HTMLButtonElement> = (e) => {
-    const { name } = e.currentTarget;
-    dispatch(clickSong(name));
+  const handleClickSong: React.MouseEventHandler<HTMLButtonElement> = () => {
+    dispatch(clickSong({
+      id: song.id,
+      title: song.title
+    }));
     dispatch(closeOverlayWindow());
   };
   return (
     <li className="song">
       <button
         className="lovelive-button lovelive-text song-button"
-        name={`${song.id}`}
+        name={`${song.title}`}
         aria-label={`play ${song.title}`}
         onClick={handleClickSong}
         css={css`

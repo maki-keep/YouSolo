@@ -1,17 +1,47 @@
 .embed-container {
   margin: inherit;
   max-width: 360px;
-  min-height: var(--embed-container-height);
+  min-height: var(--video-height);
   overflow: auto;
   position: relative;
 }
-.embed-placeholder {
-  margin-top: var(--gutter-size);
-}
+.embed-placeholder,
 .embed-container iframe {
   position: absolute;
   /* absolute */
   left: 0;
-  bottom: var(--gutter-size);
+  top: 0;
   /* end of absolute */
+}
+.embed-placeholder {
+  margin: var(--gutter-size) auto 0;
+}
+.embed-container iframe {
+  width: 100vw;
+}
+
+/* media queries */
+@media screen and (min-width: 360px) {
+  .embed-container iframe {
+    width: 360px;
+  }
+}
+
+/* supports */
+@supports (display: grid) {
+  @media screen and (min-width: 768px) {
+    .embed-container {
+      max-width: 100%;
+      padding-top: 67%; /* aspect ratio */
+      width: 100%;
+    }
+    .embed-placeholder {
+      width: 100%;
+    }
+    .embed-container iframe {
+      height: 100%;
+      max-height: calc(100vh - var(--tap-size) - var(--yousolo-logo-height) - var(--gutter-size));
+      width: 100%;
+    }
+  }
 }

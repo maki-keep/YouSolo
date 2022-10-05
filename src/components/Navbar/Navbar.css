@@ -28,12 +28,12 @@ nav > ul > li > button {
 }
 .dropdown {
   max-width: 240px;
-  min-width: 180px;
   position: absolute;
   /* absolute */
   right: 0;
   top: var(--tap-size);
   /* end of absolute */
+  width: 100vw;
 }
 .dropdown-button {
   background-color: #FFFFFF;

@@ -17,8 +17,7 @@ function IdolButton({
 }) {
   const idAttribute = `idol-button-${index}`;
   const dispatch = useAppDispatch();
-  const handleOpenIdolView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
-    const index = e.currentTarget.id.substring(12);
+  const handleOpenIdolView: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(openIdolView(index));
   };
   return (
