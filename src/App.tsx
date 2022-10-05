@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useAppSelector } from "./app/hooks";
 import {
-  selectActiveIdolView
+  selectActiveOverlayWindow
 } from "./appSlice";
 import "./App.css";
 import logo from "./media/yousolo-logo.png";
@@ -9,19 +9,20 @@ import idols from "./data/idols.json";
 import Navbar from "./components/Navbar/Navbar";
 import Embed from "./components/Embed/Embed";
 import IdolButton from "./components/IdolButton/IdolButton";
+import About from "./components/About/About";
 import IdolView from "./components/IdolView/IdolView";
 
 function App() {
-  const activeIdolView = useAppSelector(selectActiveIdolView);
+  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
   /* overlay */
   const [overlay, setOverlay] = useState(false);
   useEffect(() => {
-    if (activeIdolView !== "") {
+    if (activeOverlayWindow !== "") {
       setOverlay(true);
     } else {
       setOverlay(false);
     }
-  }, [activeIdolView]);
+  }, [activeOverlayWindow]);
   /* end of overlay */
   return (
     <div className="App">
@@ -42,7 +43,7 @@ function App() {
             </h1>
           </div>
           <Embed />
-          <div className="idol-buttons-box">
+          <div className="idol-buttons-box lovelive-box">
             <div className="idol-buttons-container">
               <ol className="idol-buttons">
               {idols.items.map((item, index) => (
@@ -63,11 +64,12 @@ function App() {
           }}
         >
           <div
-            className="idol-views"
+            className="overlay-window lovelive-box"
             style={{
-              display: activeIdolView !== "" ? "block" : "none"
+              display: activeOverlayWindow !== "" ? "block" : "none"
             }}
           >
+            <About />
           {idols.items.map((item, index) => (
             <IdolView
               key={index}

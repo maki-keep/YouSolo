@@ -28,8 +28,9 @@ function Album({
         aria-label={`view ${album.title}`}
         onClick={handleShowSongs}
         css={css`
+          border-color: ${image_color};
           &:hover {
-            background-color: ${image_color}40;
+            border-color: ${image_color}44;
           }
         `}
       >
@@ -37,12 +38,9 @@ function Album({
           src={album.image_url ? require(`../../media/${album.image_url}`) : ""}
           alt={album.title}
           height="128"
-          css={css`
-            background-color: ${image_color};
-          `}
         />
-        <span className="album-title">{album.title}</span>
-        <span className="release-date">{album.release_date}</span>
+        <p className="album-title">{album.title}</p>
+        <p className="release-date">{album.release_date}</p>
       </button>
       <ol
         className="songs"

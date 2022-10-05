@@ -1,6 +1,7 @@
 import React from "react";
 import { useAppDispatch } from '../../app/hooks';
 import {
+  closeOverlayWindow,
   clickSong
 } from "../../appSlice";
 /** @jsxImportSource @emotion/react */
@@ -19,6 +20,7 @@ function Song({
   const handleClickSong: React.MouseEventHandler<HTMLButtonElement> = (e) => {
     const { name } = e.currentTarget;
     dispatch(clickSong(name));
+    dispatch(closeOverlayWindow());
   };
   return (
     <li className="song">
@@ -28,12 +30,13 @@ function Song({
         aria-label={`play ${song.title}`}
         onClick={handleClickSong}
         css={css`
+          border-color: ${image_color};
           &:hover {
-            background-color: ${image_color}40;
+            border-color: ${image_color}44;
           }
         `}
       >
-        <span className="song-title">{song.title}</span>
+        <p className="song-title">{song.title}</p>
       </button>
     </li>
   );

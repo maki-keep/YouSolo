@@ -1,12 +1,13 @@
 import React from "react";
 import { useAppSelector, useAppDispatch } from "../../app/hooks";
 import {
-  closeView,
-  selectActiveIdolView
+  closeOverlayWindow,
+  selectActiveOverlayWindow
 } from "../../appSlice";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 import { Idol as IdolI } from "../../types/types";
+import { Icon } from "@iconify/react";
 import "./IdolView.css";
 import Album from "../Album/Album";
 
@@ -18,30 +19,24 @@ function IdolView({
   idol: IdolI
 }) {
   const idAttribute = `idol-view-${index}`;
-  const activeIdolView = useAppSelector(selectActiveIdolView);
+  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
   const dispatch = useAppDispatch();
-  const handleCloseView: React.MouseEventHandler<HTMLButtonElement> = () => {
-    dispatch(closeView());
+  const handleCloseOverlayWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
+    dispatch(closeOverlayWindow());
   };
   return (
     <div
       id={idAttribute}
-      className="idol-view"
       style={{
-        display: activeIdolView === idAttribute ? "block" : "none"
+        display: activeOverlayWindow === idAttribute ? "block" : "none"
       }}
     >
-      <div
-        className="idol-details"
-      >
+      <div className="idol-details">
         <img
           src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
           alt={idol.name}
           width="72"
           height="72"
-          css={css`
-            background-color: ${idol.button_image.background_color};
-          `}
         />
         <h2>
           {idol.name}
@@ -50,10 +45,21 @@ function IdolView({
         </h2>
       </div>
       <button
-        className="close-view"
-        onClick={handleCloseView}
+        className="lovelive-button close-overlay"
+        onClick={handleCloseOverlayWindow}
+        css={css`
+          background-color: ${idol.button_image.background_color};
+          &:hover {
+            background-color: ${idol.button_image.background_color}44;
+          }
+        `}
       >
-        Close view
+        <Icon
+          icon="ci:close-big"
+          color="white"
+          width="32"
+          height="32"
+        />
       </button>
       <div className="albums-container">
         <ol className="albums">

@@ -3,13 +3,15 @@
   max-width: 360px;
   min-height: var(--embed-container-height);
   overflow: auto;
-  padding: var(--gutter-size);
   position: relative;
+}
+.embed-placeholder {
+  margin-top: var(--gutter-size);
 }
 .embed-container iframe {
   position: absolute;
   /* absolute */
-  left: var(--gutter-size);
-  top: var(--gutter-size);
+  left: 0;
+  bottom: var(--gutter-size);
   /* end of absolute */
 }

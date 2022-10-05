@@ -44,6 +44,9 @@ button {
   min-width: 32px;
   padding: 0;
 }
+a {
+  color: var(--yousolo-color);
+}
 .logo-container {
   margin: inherit;
   max-width: fit-content;
@@ -58,6 +61,11 @@ button {
   margin: inherit;
   max-width: 360px;
   padding: calc(var(--gutter-size) / 2);
+}
+.lovelive-box {
+  background-color: #FFFFFF;
+  border: 2px solid #CCCCCC;
+  border-radius: 8px;
 }
 .idol-buttons-container {
   height: 100%;
@@ -75,14 +83,22 @@ button {
   /* end of grid */
 }
 .lovelive-button {
-  background-color: #FFFFFF40;
+  background-color: var(--lovelive-color);
   border: 2px solid #FFFFFF;
-  border-radius: 2px;
+  border-radius: 8px;
   line-height: 1.25;
-  transition: background-color .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.lovelive-button:hover {
+  background-color: var(--lovelive-color-hover);
+  border-color: #FFFFFF44;
 }
 .lovelive-text {
+  background-color: #FFFFFF;
   text-shadow: 0 0 4px #FFFFFF;
+}
+.lovelive-text:hover {
+  background-color: #FFFFFF44;
 }
 .overlay {
   background-color: #00000080;
@@ -96,16 +112,29 @@ button {
   width: 100vw;
   z-index: 9;
 }
-.idol-views {
-  background-color: #FFFFFFCC;
+.overlay-window {
+  background-color: #FFFFFF;
   height: calc(100vh - var(--tap-size));
   margin: 0 auto;
   max-width: 360px;
   padding: calc(var(--gutter-size) / 2);
 }
-footer {
-  padding: 1.8rem 0;
+.overlay-window > * {
+  height: 100%;
+  position: relative;
 }
-footer .copyright {
-  font-size: 0.9rem;
+.close-overlay {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  /* end of flex */
+  height: var(--tap-size);
+  position: absolute;
+  /* absolute */
+  right: 0;
+  top: 0;
+  /* end of absolute */
+  width: var(--tap-size);
 }

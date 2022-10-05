@@ -1,3 +1,45 @@
-#more {
+nav {
+  height: 100%;
+}
+nav > ul {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* end of flex */
   float: right;
+  height: 100%;
+}
+nav > ul > li {
+  display: inline-block;
+  margin: calc(var(--gutter-size) / 4);
+}
+nav > ul > li:not(:last-child) {
+  margin-right: calc(var(--gutter-size) / 2);
+}
+nav > ul > li > button {
+  display: flex;
+  /* flex */
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  /* end of flex */
+}
+.dropdown {
+  max-width: 240px;
+  min-width: 180px;
+  position: absolute;
+  /* absolute */
+  right: 0;
+  top: var(--tap-size);
+  /* end of absolute */
+}
+.dropdown-button {
+  background-color: #FFFFFF;
+  transition: all .2s ease-in-out;
+  width: 100%;
+}
+.dropdown-button:hover {
+  background-color: #FFFFFF88;
 }

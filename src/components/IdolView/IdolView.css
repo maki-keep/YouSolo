@@ -1,7 +1,3 @@
-.idol-view {
-  height: inherit;
-  position: relative;
-}
 .idol-details {
   display: flex;
   /* flex */
@@ -12,21 +8,12 @@
   height: var(--button-image-size);
   margin-bottom: var(--gutter-size);
 }
-.idol-details img {
+.idol-details > img {
   border-radius: calc(var(--button-image-size) / 2);
 }
-.idol-details h2 {
+.idol-details > h2 {
   display: inline-block;
   margin-left: 1rem;
-}
-.close-view {
-  height: var(--tap-size);
-  position: absolute;
-  /* absolute */
-  right: 0;
-  top: 0;
-  /* end of absolute */
-  width: var(--tap-size);
 }
 .albums-container {
   height: var(--songs-container-height);

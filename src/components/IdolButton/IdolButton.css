@@ -2,6 +2,7 @@
   display: inline-block;
 }
 .idol-button {
+  border-color: var(--lovelive-color);
   display: flex;
   /* flex */
   align-items: center;
@@ -9,8 +10,15 @@
   justify-content: flex-start;
   /* end of flex */
   height: calc(var(--button-image-size) + 68px);
+  overflow: hidden;
   width: var(--button-width);
 }
-.idol-button img {
+.idol-button > div:nth-of-type(1) {
+  background-color: var(--lovelive-color);
+  height: fit-content;
+  transition: inherit;
+  width: calc(var(--button-width) - 4px);
+}
+.idol-button > div > img {
   border-radius: calc(var(--button-image-size) / 2);
 }

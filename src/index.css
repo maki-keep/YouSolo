@@ -1,4 +1,10 @@
 :root {
+  /* color */
+  --lovelive-color: #E4007F;
+  --lovelive-color-hover: #E4007F44;
+  --yousolo-color: #0085C0;
+
+  /* size */
   --album-image-size: 128px;
   --button-image-size: 72px;
   --tap-size: 48px;
@@ -13,7 +19,8 @@
   --button-width: calc(var(--button-image-size) + 16px);
   --embed-container-height: calc(var(--video-height) + var(--gutter-size) * 2);
   --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--embed-container-height));
-  --songs-container-height: calc(100% - var(--gutter-size) * 2 - var(--button-image-size));
+  --about-container-height: calc(100% - var(--gutter-size) - var(--tap-size));
+  --songs-container-height: calc(100% - var(--gutter-size) - var(--button-image-size));
 }
 *, *::before, *::after {
   -webkit-box-sizing: border-box; 

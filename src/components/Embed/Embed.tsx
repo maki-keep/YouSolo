@@ -18,8 +18,8 @@ function Embed() {
       </div>
       {currentSongId !== "" && (
         <iframe
-          width="296"
-          height="222"
+          width="360"
+          height="240"
           src={`https://www.youtube.com/embed/${currentSongId}`}>
         </iframe>
       )}

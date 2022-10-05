@@ -1,7 +1,7 @@
 import React from "react";
 import { useAppDispatch } from "../../app/hooks";
 import {
-  openView
+  openIdolView
 } from "../../appSlice";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
@@ -17,9 +17,9 @@ function IdolButton({
 }) {
   const idAttribute = `idol-button-${index}`;
   const dispatch = useAppDispatch();
-  const handleOpenView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
+  const handleOpenIdolView: React.MouseEventHandler<HTMLButtonElement> = (e) => {
     const index = e.currentTarget.id.substring(12);
-    dispatch(openView(index));
+    dispatch(openIdolView(index));
   };
   return (
     <li className="idol">
@@ -27,22 +27,28 @@ function IdolButton({
         id={idAttribute}
         className="lovelive-button lovelive-text idol-button"
         aria-label={`open ${idol.name} view`}
-        onClick={handleOpenView}
+        onClick={handleOpenIdolView}
         css={css`
+          border-color: ${idol.button_image.background_color};
+          & > div:nth-of-type(1) {
+            background-color: ${idol.button_image.background_color};
+          }
           &:hover {
-            background-color: ${idol.button_image.background_color}40;
+            border-color: ${idol.button_image.background_color}44;
+            & > div:nth-of-type(1) {
+              background-color: ${idol.button_image.background_color}44;
+            }
           }
         `}
       >
-        <img
-          src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
-          alt={idol.name}
-          width="72"
-          height="72"
-          css={css`
-            background-color: ${idol.button_image.background_color};
-          `}
-        />
+        <div>
+          <img
+            src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
+            alt={idol.name}
+            width="72"
+            height="72"
+          />
+        </div>
         <h2>
           {idol.name}
           <br />
