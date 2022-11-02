@@ -2,7 +2,9 @@
   /* color */
   --lovelive-color: #E4007F;
   --lovelive-color-hover: #E4007F44;
+  --text-color-primary: #0F0008;
   --yousolo-color: #0085C0;
+  --yousolo-color-link: #0077AC;
 
   /* size */
   --album-image-size: 128px;
@@ -27,6 +29,7 @@
   box-sizing: border-box;
 }
 html, body {
+  color: var(--text-color-primary);
   font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Century Gothic", "YuGothic", "Meiryo", "Helvetica Neue", "Arial", sans-serif;
   font-size: 12px;
   line-height: 1.5;

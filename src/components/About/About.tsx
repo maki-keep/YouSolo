@@ -10,6 +10,7 @@ import "./About.css";
 function About() {
   const idAttribute = `about-window`;
   const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
+  const matchIdAttribute = activeOverlayWindow === idAttribute;
   const dispatch = useAppDispatch();
   const handleCloseOverlayWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(closeOverlayWindow());
@@ -18,7 +19,7 @@ function About() {
     <div
       id={idAttribute}
       style={{
-        display: activeOverlayWindow === idAttribute ? "block" : "none"
+        display: matchIdAttribute ? "block" : "none"
       }}
     >
       <button

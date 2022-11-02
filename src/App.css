@@ -37,6 +37,7 @@ h2, p {
 } */
 button {
   border: 0;
+  color: inherit;
   cursor: pointer;
   font-family: inherit;
   margin: 0;
@@ -45,7 +46,7 @@ button {
   padding: 0;
 }
 a {
-  color: var(--yousolo-color);
+  color: var(--yousolo-color-link);
 }
 .wrapper {
   height: calc(100vh - var(--tap-size));

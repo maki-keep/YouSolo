@@ -19,10 +19,13 @@ function Embed() {
       </div>
       {isValidSong && (
         <iframe
-          title={currentSong.title}
+          src={`https://www.youtube-nocookie.com/embed/${currentSong.id}`}
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           width="360"
           height="240"
-          src={`https://www.youtube.com/embed/${currentSong.id}`}>
+          title="YouTube video player"
+          allowFullScreen
+        >
         </iframe>
       )}
     </div>

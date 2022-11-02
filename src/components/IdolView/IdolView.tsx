@@ -20,6 +20,7 @@ function IdolView({
 }) {
   const idAttribute = `idol-view-${index}`;
   const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
+  const matchIdAttribute = activeOverlayWindow === idAttribute;
   const dispatch = useAppDispatch();
   const handleCloseOverlayWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(closeOverlayWindow());
@@ -28,7 +29,7 @@ function IdolView({
     <div
       id={idAttribute}
       style={{
-        display: activeOverlayWindow === idAttribute ? "block" : "none"
+        display: matchIdAttribute ? "block" : "none"
       }}
     >
       <div className="idol-details">
