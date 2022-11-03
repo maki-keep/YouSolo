@@ -1,6 +1,12 @@
 # ![YouSolo School idol solos](./src/media/yousolo-logo.png "YouSolo logo")
 
+  [YouSolo School idol solos](https://yousolo.netlify.app/)
+
   The Love Live songs sung by one idol collected in one single page. Select an idol, one of her albums, and one of its songs to start listening to its YouTube video. The idols are ordered by age, the albums by release date, the songs as their album released them.
+
+## Issues
+
+   Missing songs or idols? Bugs in the app? Post an [Issue](https://github.com/maki-keep/YouSolo/issues).
 
 ## Packages
 

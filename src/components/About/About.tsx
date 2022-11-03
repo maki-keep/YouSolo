@@ -36,7 +36,7 @@ function About() {
       <div className="about-container">
         <section>
           <h2>About</h2>
-          <p>Web application made by Queen Maki. You may contribute to the development in <a href="https://github.com/maki-keep/YouSolo">this GitHub repository</a>.</p>
+          <p>Web application made by Queen Maki. Missing songs or idols? Bugs in the app? Post an <a href="https://github.com/maki-keep/YouSolo/issues">Issue</a>.</p>
         </section>
       </div>
     </div>
