@@ -2,9 +2,7 @@
   height: var(--about-container-height);
   overflow-y: auto;
   position: relative;
-  /* relative */
   top: calc(var(--tap-size) + var(--gutter-size));
-  /* end of relative */
 }
 .about-container > section {
   text-align: start;

@@ -1,7 +1,7 @@
+/* variables */
 :root {
   /* color */
   --lovelive-color: #E4007F;
-  --lovelive-color-hover: #E4007F44;
   --text-color-primary: #0F0008;
   --yousolo-color: #0085C0;
   --yousolo-color-link: #0077AC;
@@ -17,12 +17,14 @@
   --yousolo-logo-width: 204px;
 
   /* derivative variables */
+  --about-container-height: calc(100% - var(--gutter-size) - var(--tap-size));
   --album-width: calc(var(--album-image-size) + 16px);
   --button-width: calc(var(--button-image-size) + 16px);
   --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--video-height));
-  --about-container-height: calc(100% - var(--gutter-size) - var(--tap-size));
   --songs-container-height: calc(100% - var(--gutter-size) - var(--button-image-size));
 }
+
+/* selectors */
 *, *::before, *::after {
   -webkit-box-sizing: border-box; 
   -moz-box-sizing: border-box; 
@@ -32,7 +34,7 @@ html, body {
   color: var(--text-color-primary);
   font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Century Gothic", "YuGothic", "Meiryo", "Helvetica Neue", "Arial", sans-serif;
   font-size: 12px;
-  line-height: 1.5;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
 }

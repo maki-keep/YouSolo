@@ -1,7 +1,8 @@
-import React, { useState } from "react";
-import { useAppDispatch } from "../../app/hooks";
+import React, { useEffect, useState } from "react";
+import { useAppDispatch, useAppSelector } from "../../app/hooks";
 import {
-  openAboutWindow
+  openAboutWindow,
+  selectActiveOverlayWindow
 } from "../../appSlice";
 import { Icon } from "@iconify/react";
 import "./Navbar.css";
@@ -19,6 +20,12 @@ function Navbar() {
   const handleOpenAboutWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(openAboutWindow());
   };
+  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
+  useEffect(() => {
+    if (activeOverlayWindow !== "") {
+      setShowDropdown(false);
+    }
+  }, [activeOverlayWindow]);
   return (
     <nav>
       <ul>

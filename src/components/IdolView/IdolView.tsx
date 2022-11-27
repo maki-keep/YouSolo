@@ -50,9 +50,6 @@ function IdolView({
         onClick={handleCloseOverlayWindow}
         css={css`
           background-color: ${idol.button_image.background_color};
-          &:hover {
-            background-color: ${idol.button_image.background_color}44;
-          }
         `}
       >
         <Icon

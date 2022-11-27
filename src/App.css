@@ -5,25 +5,22 @@
   text-align: center;
   width: 100vw;
 }
+header,
+main,
+.overlay {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
 header {
   height: var(--tap-size);
   padding: 0 calc(var(--gutter-size) / 4);
-  position: absolute;
-  /* absolute */
-  left: 0;
-  top: 0;
-  /* end of absolute */
   width: 100%;
   z-index: 10;
 }
 main {
   background-color: #FFCBDE;
   padding-top: var(--tap-size);
-  position: absolute;
-  /* absolute */
-  left: 0;
-  top: 0;
-  /* end of absolute */
   width: inherit;
 }
 h1 {
@@ -46,7 +43,13 @@ button {
   padding: 0;
 }
 a {
+  text-decoration: none;
+}
+a[href] {
   color: var(--yousolo-color-link);
+}
+a[href]:hover {
+  opacity: .75;
 }
 .wrapper {
   height: calc(100vh - var(--tap-size));
@@ -77,28 +80,18 @@ a {
   border: 2px solid #FFFFFF;
   border-radius: 8px;
   line-height: 1.25;
-  transition: all .2s ease-in-out;
 }
 .lovelive-button:hover {
-  background-color: var(--lovelive-color-hover);
-  border-color: #FFFFFF44;
+  opacity: .75;
 }
 .lovelive-text {
   background-color: #FFFFFF;
   text-shadow: 0 0 4px #FFFFFF;
 }
-.lovelive-text:hover {
-  background-color: #FFFFFF44;
-}
 .overlay {
   background-color: #00000080;
   height: 100vh;
   padding-top: var(--tap-size);
-  position: absolute;
-  /* absolute */
-  left: 0;
-  top: 0;
-  /* end of absolute */
   width: 100vw;
   z-index: 9;
 }
@@ -114,22 +107,18 @@ a {
   position: relative;
 }
 .close-overlay {
-  display: flex;
-  /* flex */
   align-items: center;
+  display: flex;
   flex-direction: row;
-  justify-content: center;
-  /* end of flex */
   height: var(--tap-size);
+  justify-content: center;
   position: absolute;
-  /* absolute */
   right: 0;
   top: 0;
-  /* end of absolute */
   width: var(--tap-size);
 }
 
-/* media queries */
+/* media */
 @media screen and (min-width: 360px) {
   .idol-buttons-box {
     padding: calc(var(--gutter-size) / 2);
@@ -138,29 +127,26 @@ a {
 
 /* supports */
 @supports (display: grid) {
+  /* grid media */
   @media screen and (min-width: 300px) {
     .idol-buttons {
-      display: grid;
-      /* grid */
       align-items: start;
+      display: grid;
       gap: calc(var(--gutter-size) / 2);
       grid-auto-flow: row;
       grid-auto-rows: calc(var(--button-image-size) + 68px);
       grid-template-columns: repeat(3, calc(var(--button-width)));
       justify-items: stretch;
-      /* end of grid */
     }
   }
   @media screen and (min-width: 768px) {
     .wrapper {
-      display: grid;
-      /* grid */
       align-items: start;
+      display: grid;
       gap: calc(var(--gutter-size) / 2);
       grid-template-columns: 1fr 360px;
       grid-template-rows: var(--yousolo-logo-height) calc(100vh - var(--tap-size) - var(--yousolo-logo-height) - var(--gutter-size) / 2);
       justify-items: stretch;
-      /* end of grid */
       max-width: calc(100vw - var(--gutter-size));
     }
     .logo-container {

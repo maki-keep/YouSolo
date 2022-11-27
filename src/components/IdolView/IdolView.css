@@ -1,11 +1,9 @@
 .idol-details {
-  display: flex;
-  /* flex */
   align-items: center;
+  display: flex;
   flex-direction: row;
-  justify-content: flex-start;
-  /* end of flex */
   height: var(--button-image-size);
+  justify-content: flex-start;
   margin-bottom: var(--gutter-size);
 }
 .idol-details > img {

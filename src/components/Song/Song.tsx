@@ -33,9 +33,6 @@ function Song({
         onClick={handleClickSong}
         css={css`
           border-color: ${image_color};
-          &:hover {
-            border-color: ${image_color}44;
-          }
         `}
       >
         <p className="song-title">{song.title}</p>

@@ -14,7 +14,6 @@ import IdolView from "./components/IdolView/IdolView";
 
 function App() {
   const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
-  /* overlay */
   const [overlay, setOverlay] = useState(false);
   useEffect(() => {
     if (activeOverlayWindow !== "") {
@@ -23,7 +22,6 @@ function App() {
       setOverlay(false);
     }
   }, [activeOverlayWindow]);
-  /* end of overlay */
   return (
     <div className="App">
       <header>

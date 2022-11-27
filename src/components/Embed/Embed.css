@@ -7,11 +7,9 @@
 }
 .embed-placeholder,
 .embed-container iframe {
-  position: absolute;
-  /* absolute */
   left: 0;
+  position: absolute;
   top: 0;
-  /* end of absolute */
 }
 .embed-placeholder {
   margin: var(--gutter-size) auto 0;
@@ -20,7 +18,7 @@
   width: 100vw;
 }
 
-/* media queries */
+/* media */
 @media screen and (min-width: 360px) {
   .embed-container iframe {
     width: 360px;
@@ -29,6 +27,7 @@
 
 /* supports */
 @supports (display: grid) {
+  /* grid media */
   @media screen and (min-width: 768px) {
     .embed-container {
       max-width: 100%;

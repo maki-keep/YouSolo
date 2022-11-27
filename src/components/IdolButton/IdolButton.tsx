@@ -32,12 +32,6 @@ function IdolButton({
           & > div:nth-of-type(1) {
             background-color: ${idol.button_image.background_color};
           }
-          &:hover {
-            border-color: ${idol.button_image.background_color}44;
-            & > div:nth-of-type(1) {
-              background-color: ${idol.button_image.background_color}44;
-            }
-          }
         `}
       >
         <div>

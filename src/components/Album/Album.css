@@ -2,12 +2,10 @@
   margin-bottom: var(--gutter-size);
 }
 .album-button {
-  display: flex;
-  /* flex */
   align-items: center;
+  display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  /* end of flex */
   max-width: 360px;
   width: 100%;
 }
