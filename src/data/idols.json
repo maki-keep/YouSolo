@@ -1535,7 +1535,7 @@
     },
     {
       "name": "Sonoda Umi",
-      "name_jp": "園田海未",
+      "name_jp": "園田 海未",
       "group": "µ's",
       "albums": [
         {
@@ -4178,6 +4178,765 @@
       "button_image": {
         "background_color": "#FEE202",
         "url": "Hanamaru_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Asaka Karin",
+      "name_jp": "朝香 果林",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "1SpOixerr44",
+              "title": "Starlight"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "Ifp-5U4VGok",
+              "title": "Wish"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "8bjQg-RUiRc",
+              "title": "Fire Bird"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-16",
+          "title": "Butterfly / Solitude Rain / VIVID WORLD",
+          "songs": [
+            {
+              "id": "8XNh57Vzq-g",
+              "title": "VIVID WORLD"
+            }
+          ],
+          "image_url": "VIVID_WORLD.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "KDnrlBN9DNM",
+              "title": "Turn it Up!"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#034099",
+        "url": "Karin_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Mia Taylor",
+      "name_jp": "ﾐｱ ﾃｲﾗｰ",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2021-10-06",
+          "title": "MONSTER GIRLS",
+          "songs": [
+            {
+              "id": "1ToW01yQ2bs",
+              "title": "I'm Still..."
+            }
+          ],
+          "image_url": "R3BIRTH_MONSTER_GIRLS.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "7IlcjWYUUkE",
+              "title": "Toy Doll"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        },
+        {
+          "release_date": "2022-06-22",
+          "title": "Eutopia / EMOTION / stars we chase",
+          "songs": [
+            {
+              "id": "COwb7jyRxQM",
+              "title": "Stars we chase"
+            }
+          ],
+          "image_url": "Stars_we_chase.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#AAA798",
+        "url": "Mia_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Konoe Kanata",
+      "name_jp": "近江 彼方",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "wc2QLrW7Gqg",
+              "title": "眠れる森に行きたいな"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "a-WarIBtd3w",
+              "title": "My Own Fairy-Tale"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "4PhvNBMo9iY",
+              "title": "Märchen Star"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-16",
+          "title": "Butterfly / Solitude Rain / VIVID WORLD",
+          "songs": [
+            {
+              "id": "aoRBp5C_ZyI",
+              "title": "Butterfly"
+            }
+          ],
+          "image_url": "Butterfly.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "0e38ymSmWks",
+              "title": "Silent Blaze"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#BA8EC1",
+        "url": "Kanata_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Emma Verde",
+      "name_jp": "ｴﾏ ｳﾞｪﾙﾃﾞ",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "AQAYnluAxd8",
+              "title": "Evergreen"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "gIBdVbN5QKs",
+              "title": "声繋ごうよ"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "cbmJLrkdv3c",
+              "title": "哀温ノ詩"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-02",
+          "title": "Saikou Heart / La Bella Patria / Tsunagaru Connect",
+          "songs": [
+            {
+              "id": "i-NzrXpwJoA",
+              "title": "La Bella Patria"
+            }
+          ],
+          "image_url": "La_Bella_Patria.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "XrUcDvCJq-0",
+              "title": "いつだってfor you!"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#6CBD61",
+        "url": "Emma_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Miyashita Ai",
+      "name_jp": "宮下 愛",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "zweAj9PDuo4",
+              "title": "めっちゃGoing!!"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "lo3OB-a7TCg",
+              "title": "友 & 愛"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "ZnyCUODvfKQ",
+              "title": "楽しいの天才"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-02",
+          "title": "Saikou Heart / La Bella Patria / Tsunagaru Connect",
+          "songs": [
+            {
+              "id": "gYgjBEjjIvI",
+              "title": "サイコーハート"
+            }
+          ],
+          "image_url": "Saikou_Heart.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "Ji1bBREZ1jg",
+              "title": "Diabolic mulier"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#EB6001",
+        "url": "Ai_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Yuuki Setsuna",
+      "name_jp": "優木 せつ菜",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "5R1l0xrtVOc",
+              "title": "CHASE!"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "PvVgqYSsQ2Y",
+              "title": "MELODY"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "RINkOGcXJKQ",
+              "title": "LIKE IT!LOVE IT!"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-11-18",
+          "title": "Dream with You / Poppin' Up! / DIVE!",
+          "songs": [
+            {
+              "id": "HXXxW8hEF3o",
+              "title": "DIVE!"
+            }
+          ],
+          "image_url": "DIVE.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "1lPESUmrbZY",
+              "title": "ヤダ！"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#DA363F",
+        "url": "Setsuna_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Zhong Lanzhu",
+      "name_jp": "鐘 嵐珠",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2021-10-06",
+          "title": "MONSTER GIRLS",
+          "songs": [
+            {
+              "id": "1_3Ypl6_e9A",
+              "title": "Queendom"
+            }
+          ],
+          "image_url": "R3BIRTH_MONSTER_GIRLS.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "SRvmtD4RpLk",
+              "title": "夜明珠"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        },
+        {
+          "release_date": "2022-06-22",
+          "title": "Eutopia / EMOTION / stars we chase",
+          "songs": [
+            {
+              "id": "Hk8lDW8JB5c",
+              "title": "Eutopia"
+            }
+          ],
+          "image_url": "Eutopia.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#EFC3C0",
+        "url": "Lanzhu_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Uehara Ayumu",
+      "name_jp": "上原 歩夢",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "suWk33wqGrs",
+              "title": "夢への一歩"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "EBnpWRCONnM",
+              "title": "開花宣言"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "vkQ3UdLk3hw",
+              "title": "Say Good-Bye 涙"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-11-18",
+          "title": "Dream with You / Poppin' Up! / DIVE!",
+          "songs": [
+            {
+              "id": "0cGBTbjvwuo",
+              "title": "Dream with You"
+            }
+          ],
+          "image_url": "Dream_with_You.jpg"
+        },
+        {
+          "release_date": "2021-01-13",
+          "title": "Awakening Promise / Yume ga Koko Kara Hajimaru yo",
+          "songs": [
+            {
+              "id": "YSYg3LKAMgA",
+              "title": "Awakening Promise"
+            }
+          ],
+          "image_url": "Awakening_Promise.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "PFibzMXHjqA",
+              "title": "Break The System"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#F0939E",
+        "url": "Ayumu_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Ousaka Shizuku",
+      "name_jp": "桜坂 しずく",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "WIqYLm9EH6I",
+              "title": "あなたの理想のヒロイン"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "_D8EIlJi7wE",
+              "title": "オードリー"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "JvURKZQdCDs",
+              "title": "やがてひとつの物語"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-16",
+          "title": "Butterfly / Solitude Rain / VIVID WORLD",
+          "songs": [
+            {
+              "id": "8yyMnAK2Ki4",
+              "title": "Solitude Rain"
+            }
+          ],
+          "image_url": "Solitude_Rain.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "L7OXv_BXN5Y",
+              "title": "エイエ戦サー"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#81C6EF",
+        "url": "Shizuku_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Mifune Shioriko",
+      "name_jp": "三船 栞子",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "I8JYMvUpTI4",
+              "title": "決意の光"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2021-10-06",
+          "title": "MONSTER GIRLS",
+          "songs": [
+            {
+              "id": "FWfjdgdLcco",
+              "title": "翠いカナリア"
+            }
+          ],
+          "image_url": "R3BIRTH_MONSTER_GIRLS.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "HQaGC6SUK04",
+              "title": "コンセントレイト！"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        },
+        {
+          "release_date": "2022-06-22",
+          "title": "Eutopia / EMOTION / stars we chase",
+          "songs": [
+            {
+              "id": "BctS652B2-g",
+              "title": "EMOTION"
+            }
+          ],
+          "image_url": "EMOTION.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#2C9E7E",
+        "url": "Shioriko_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Tennnouji Rina",
+      "name_jp": "天王寺 璃奈",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "Otar-6a710Y",
+              "title": "ドキピポ☆エモーション"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "KZ0Wr3UIvMw",
+              "title": "テレテレパシー"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "5LSOw13RGKs",
+              "title": "アナログハート"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-12-02",
+          "title": "Saikou Heart / La Bella Patria / Tsunagaru Connect",
+          "songs": [
+            {
+              "id": "Kzr_xuqqh-M",
+              "title": "ツナガルコネクト"
+            }
+          ],
+          "image_url": "Tsunagaru_Connect.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "GZCIdi1DI5k",
+              "title": "First Love Again"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#A8AAA9",
+        "url": "Rina_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Nakasu Kasumi",
+      "name_jp": "中須 かすみ",
+      "group": "Nijigaku",
+      "albums": [
+        {
+          "release_date": "2018-11-21",
+          "title": "TOKIMEKI Runners",
+          "songs": [
+            {
+              "id": "dNYPwvpqAuw",
+              "title": "ダイアモンド"
+            }
+          ],
+          "image_url": "TOKIMEKIRunners.jpg"
+        },
+        {
+          "release_date": "2019-10-02",
+          "title": "Love U my friends",
+          "songs": [
+            {
+              "id": "01kjQV-7fQQ",
+              "title": "☆ワンダーランド☆"
+            }
+          ],
+          "image_url": "LoveUmyfriends.jpg"
+        },
+        {
+          "release_date": "2020-07-29",
+          "title": "Muteki-kyuu*Believer",
+          "songs": [
+            {
+              "id": "-Li6HT1mv0U",
+              "title": "無敵級*ビリーバー"
+            }
+          ],
+          "image_url": "Muteki-kyu_Believer.jpg"
+        },
+        {
+          "release_date": "2020-09-02",
+          "title": "Just Believe!!!",
+          "songs": [
+            {
+              "id": "wejUZYmLkqc",
+              "title": "Margaret"
+            }
+          ],
+          "image_url": "Just_Believe.jpg"
+        },
+        {
+          "release_date": "2020-11-18",
+          "title": "Dream with You / Poppin' Up! / DIVE!",
+          "songs": [
+            {
+              "id": "rO1SX_9buJ0",
+              "title": "Poppin' Up!"
+            }
+          ],
+          "image_url": "Poppin'_Up.jpg"
+        },
+        {
+          "release_date": "2021-10-13",
+          "title": "L! L! L! (Love the Life We Live)",
+          "songs": [
+            {
+              "id": "ZSLH00pSniQ",
+              "title": "TO BE YOURSELF"
+            }
+          ],
+          "image_url": "L_L_L_Love_the_Life_We_Live.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#F7F064",
+        "url": "Kasumi_Solo_Button.jpg"
       }
     }
   ]
