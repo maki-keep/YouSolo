@@ -4938,6 +4938,116 @@
         "background_color": "#F7F064",
         "url": "Kasumi_Solo_Button.jpg"
       }
+    },
+    {
+      "name": "Shibuya Kanon",
+      "name_jp": "澁谷 かのん",
+      "group": "Liella",
+      "albums": [
+        {
+          "release_date": "2021-09-28",
+          "title": "Liella Original Song CD 1",
+          "songs": [
+            {
+              "id": "AOuOQ6Kmw80",
+              "title": "Kokoro Kirarara"
+            }
+          ],
+          "image_url": "Superstar_S1_BD_Vol_1.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#FF7F27",
+        "url": "Kanon_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Tang Keke",
+      "name_jp": "唐 可可",
+      "group": "Liella",
+      "albums": [
+        {
+          "release_date": "2021-10-27",
+          "title": "Liella Original Song CD 2",
+          "songs": [
+            {
+              "id": "aqsRFws9vAc",
+              "title": "Oh! Ready Steady Positive"
+            }
+          ],
+          "image_url": "Superstar_S1_BD_Vol_2.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#A0FFF9",
+        "url": "Keke_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Heanna Sumire",
+      "name_jp": "平安名 すみれ",
+      "group": "Liella",
+      "albums": [
+        {
+          "release_date": "2021-12-24",
+          "title": "Liella Original Song CD 4",
+          "songs": [
+            {
+              "id": "i_uHSOmK1uc",
+              "title": "Heroine's☆Runway"
+            }
+          ],
+          "image_url": "Superstar_S1_BD_Vol_4.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#74F466",
+        "url": "Sumire_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Hazuki Ren",
+      "name_jp": "葉月 恋",
+      "group": "Liella",
+      "albums": [
+        {
+          "release_date": "2022-01-26",
+          "title": "Liella Original Song CD 5",
+          "songs": [
+            {
+              "id": "6SebzjMb-sw",
+              "title": "Reverb"
+            }
+          ],
+          "image_url": "Superstar_S1_BD_Vol_5.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#0000A0",
+        "url": "Ren_Solo_Button.jpg"
+      }
+    },
+    {
+      "name": "Arashi Chisato",
+      "name_jp": "嵐 千砂都",
+      "group": "Liella",
+      "albums": [
+        {
+          "release_date": "2021-11-26",
+          "title": "Liella Original Song CD 3",
+          "songs": [
+            {
+              "id": "1vdyxn4X-50",
+              "title": "Yuuki No Kakera"
+            }
+          ],
+          "image_url": "Superstar_S1_BD_Vol_3.jpg"
+        }
+      ],
+      "button_image": {
+        "background_color": "#FF6E90",
+        "url": "Chisato_Solo_Button.jpg"
+      }
     }
   ]
 }
