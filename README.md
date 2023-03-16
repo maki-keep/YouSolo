@@ -4,7 +4,7 @@ The Love Live songs sung by one idol collected in one single page. Select an ido
 
 ## Changes
 
-Now with Nijigaku idols.  
+Now with Nijigaku and Liella idols.  
 
 ## Issues
 
