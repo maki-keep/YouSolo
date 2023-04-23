@@ -1,8 +1,10 @@
 {
   "items": [
     {
-      "name": "Toujou Nozomi",
-      "name_jp": "東條 希",
+      "name": {
+        "en-US": "Toujou Nozomi",
+        "jp-JP": "東條 希"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -301,8 +303,10 @@
       }
     },
     {
-      "name": "Yazawa Nico",
-      "name_jp": "矢澤 にこ",
+      "name": {
+        "en-US": "Yazawa Nico",
+        "jp-JP": "矢澤 にこ"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -613,8 +617,10 @@
       }
     },
     {
-      "name": "Ayase Eli",
-      "name_jp": "絢瀬 絵里",
+      "name": {
+        "en-US": "Ayase Eli",
+        "jp-JP": "絢瀬 絵里"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -906,8 +912,10 @@
       }
     },
     {
-      "name": "Kousaka Honoka",
-      "name_jp": "高坂 穂乃果",
+      "name": {
+        "en-US": "Kousaka Honoka",
+        "jp-JP": "高坂 穂乃果"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -1229,8 +1237,10 @@
       }
     },
     {
-      "name": "Minami Kotori",
-      "name_jp": "南 ことり",
+      "name": {
+        "en-US": "Minami Kotori",
+        "jp-JP": "南 ことり"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -1534,8 +1544,10 @@
       }
     },
     {
-      "name": "Sonoda Umi",
-      "name_jp": "園田 海未",
+      "name": {
+        "en-US": "Sonoda Umi",
+        "jp-JP": "園田 海未"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -1835,8 +1847,10 @@
       }
     },
     {
-      "name": "Nishikino Maki",
-      "name_jp": "西木野 真姫",
+      "name": {
+        "en-US": "Nishikino Maki",
+        "jp-JP": "西木野 真姫"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -2132,8 +2146,10 @@
       }
     },
     {
-      "name": "Hoshizora Rin",
-      "name_jp": "星空 凛",
+      "name": {
+        "en-US": "Hoshizora Rin",
+        "jp-JP": "星空 凛"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -2451,8 +2467,10 @@
       }
     },
     {
-      "name": "Koizumi Hanayo",
-      "name_jp": "小泉 花陽",
+      "name": {
+        "en-US": "Koizumi Hanayo",
+        "jp-JP": "小泉 花陽"
+      },
       "group": "µ's",
       "albums": [
         {
@@ -2756,8 +2774,10 @@
       }
     },
     {
-      "name": "Ohara Mari",
-      "name_jp": "小原 鞠莉",
+      "name": {
+        "en-US": "Ohara Mari",
+        "jp-JP": "小原 鞠莉"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -2909,8 +2929,10 @@
       }
     },
     {
-      "name": "Kurosawa Dia",
-      "name_jp": "黒澤 ダイヤ",
+      "name": {
+        "en-US": "Kurosawa Dia",
+        "jp-JP": "黒澤 ダイヤ"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3054,6 +3076,81 @@
             }
           ],
           "image_url": "Dia_Solo_2.jpg"
+        },
+        {
+          "release_date": "2023-01-01",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Kurosawa Dia",
+          "songs": [
+            {
+              "id": "CpX_2TZ5zqI",
+              "title": "Pops heart de Odorundamon!"
+            },
+            {
+              "id": "U3tkeseAqxg",
+              "title": "Soramo Kokoromo Harerukara (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "UBlUdISl4ig",
+              "title": "Daydream Warrior (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "erPjBNJm28k",
+              "title": "G Senjono Cinderella (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "-5Xr0dS4LS0",
+              "title": "thrilling one way (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "VSS4QAhjZVw",
+              "title": "Taiyo o Oikakero! (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "r0ZMa35IyYs",
+              "title": "Jingle Bells ga Tomaranai (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "N2szkah8_Vo",
+              "title": "Seinaru Hino Inori (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "9k6NQMJiBnU",
+              "title": "Yosoku Fukano Driving! (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "eFX6qpogTMc",
+              "title": "Bokura no Hashitte kita Michi wa... (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "6o1nHJZyjh0",
+              "title": "Toso Meiso Mobius Loop (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "0rhgd6gn0m0",
+              "title": "Hop? Stop? Nonstop! (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "gTrVTvPnlA4",
+              "title": "Brightest Melody"
+            },
+            {
+              "id": "wJULax0W8_w",
+              "title": "KISEKIHIKARU (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "8Rk1Iuqy2GA",
+              "title": "Next SPARKLING!! (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "rX-2NDrIm7k",
+              "title": "i-n-g, I TRY!! (Dia Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "gs24QGVcLCg",
+              "title": "Pure heart Pure wish"
+            }
+          ],
+          "image_url": "Dia_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -3062,8 +3159,10 @@
       }
     },
     {
-      "name": "Matsuura Kanan",
-      "name_jp": "松浦 果南",
+      "name": {
+        "en-US": "Matsuura Kanan",
+        "jp-JP": "松浦 果南"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3207,6 +3306,81 @@
             }
           ],
           "image_url": "Kanan_Solo_2.jpg"
+        },
+        {
+          "release_date": "2023-02-10",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Matsuura Kanan",
+          "songs": [
+            {
+              "id": "pcZfeRCzauI",
+              "title": "Pops heart de Odorundamon!"
+            },
+            {
+              "id": "X-wCoWY5srM",
+              "title": "Soramo Kokoromo Harerukara"
+            },
+            {
+              "id": "AhEsHl61gSQ",
+              "title": "Daydream Warrior"
+            },
+            {
+              "id": "yZ3qXseKYHs",
+              "title": "G Senjono Cinderella"
+            },
+            {
+              "id": "ngF4vIKIAZY",
+              "title": "thrilling one way"
+            },
+            {
+              "id": "PbJxJTEKG9g",
+              "title": "Taiyo o Oikakero!"
+            },
+            {
+              "id": "Thz-t4Z17Rw",
+              "title": "Jingle Bells ga Tomaranai"
+            },
+            {
+              "id": "1syHwKo3MaE",
+              "title": "Seinaru Hino Inori"
+            },
+            {
+              "id": "rzpxykhJDpM",
+              "title": "Yosoku Fukano Driving!"
+            },
+            {
+              "id": "29RPvRAgvvY",
+              "title": "Bokura no Hashitte kita Michi wa..."
+            },
+            {
+              "id": "1_7prA6F23M",
+              "title": "Toso Meiso Mobius Loop"
+            },
+            {
+              "id": "Wz936iirYFo",
+              "title": "Hop? Stop? Nonstop!"
+            },
+            {
+              "id": "NkuxRgZ8EDk",
+              "title": "Brightest Melody"
+            },
+            {
+              "id": "EGfTNuxa2Zw",
+              "title": "KISEKIHIKARU"
+            },
+            {
+              "id": "TRtcTYtOjQA",
+              "title": "Next SPARKLING!!"
+            },
+            {
+              "id": "a9vKEG0jqgU",
+              "title": "i-n-g, I TRY!!"
+            },
+            {
+              "id": "tACG0xJfSNk",
+              "title": "Sentimental Lemonade"
+            }
+          ],
+          "image_url": "Kanan_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -3215,8 +3389,10 @@
       }
     },
     {
-      "name": "Watanabe You",
-      "name_jp": "渡辺 曜",
+      "name": {
+        "en-US": "Watanabe You",
+        "jp-JP": "渡辺 曜"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3372,6 +3548,73 @@
             }
           ],
           "image_url": "You_Solo_2.jpg"
+        },
+        {
+          "release_date": "2023-04-17",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Watanabe You",
+          "songs": [
+            {
+              "id": "vVEVp4hLy_A",
+              "title": "Pops heart de Odorun damon! (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "myZTI2lRnDs",
+              "title": "Sora mo Kokoro mo Hareru kara (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "hrDSK1fCId4",
+              "title": "Daydream Warrior (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "sOzGVe1j0K8",
+              "title": "thrilling one way (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "pmqihPaw-Ns",
+              "title": "Taiyo o Oikakero! (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "aixSGfp7guU",
+              "title": "Jingle Bells ga Tomaranai (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "JT9APFSnXLg",
+              "title": "Seinaru Hino Inori (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "SdCrXwK0Qn4",
+              "title": "Marine Border Parasol (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "Cyl1E5IsXgU",
+              "title": "Bokura no Hashittekita Michi wa… (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "Wk8L9sFj0q8",
+              "title": "Hop? Stop? Nonstop! (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "EVEciI1nZqM",
+              "title": "Brightest Melody (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "a7oxHD0xsIA",
+              "title": "KISEKIHIKARU (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "Y-FUgFbFH4Y",
+              "title": "Next SPARKLING!! (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "IdQDIv4j4oU",
+              "title": "i-n-g, I TRY!! (You Watanabe Solo Ver.)"
+            },
+            {
+              "id": "UzpZJxwFXNs",
+              "title": "Ao no Aurora"
+            }
+          ],
+          "image_url": "You_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -3380,8 +3623,10 @@
       }
     },
     {
-      "name": "Takami Chika",
-      "name_jp": "高海 千歌",
+      "name": {
+        "en-US": "Takami Chika",
+        "jp-JP": "高海 千歌"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3537,6 +3782,73 @@
             }
           ],
           "image_url": "Chika_Solo_2.jpg"
+        },
+        {
+          "release_date": "2022-08-01",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Takami Chika",
+          "songs": [
+            {
+              "id": "CNGfz2jEA_8",
+              "title": "Pops heart de Odorundamon! (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "8RwmIMJLAgQ",
+              "title": "Soramo Kokoromo Harerukara (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "zqA14u7frxU",
+              "title": "Daydream Warrior (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "hZ3oab9wARc",
+              "title": "thrilling one way (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "7RgMry0l37I",
+              "title": "Taiyo o Oikakero! (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "lST8Xm40tdY",
+              "title": "Jingle Bells ga Tomaranai (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "j5tOYxvcPnI",
+              "title": "Seinaru Hino Inori (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "TfBa8zp1QJk",
+              "title": "Marine Border Parasol (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "UEb4TPqpVuc",
+              "title": "Bokura no Hashitte kita Michi wa... (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "PQx0qsWKa8k",
+              "title": "Hop? Stop? Nonstop! (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "dHkqcfH5wek",
+              "title": "Brightest Melody (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "vLE1TVm8y_Y",
+              "title": "KISEKIHIKARU (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "ojl9gcPSnIg",
+              "title": "Next SPARKLING!! (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "zGXytANwT6Y",
+              "title": "i-n-g, I TRY!! (Chika Takami Solo Ver.)"
+            },
+            {
+              "id": "EhyMWEW1RxU",
+              "title": "Namioto Refrain"
+            }
+          ],
+          "image_url": "Chika_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -3545,8 +3857,10 @@
       }
     },
     {
-      "name": "Sakurauchi Riko",
-      "name_jp": "桜内 梨子",
+      "name": {
+        "en-US": "Sakurauchi Riko",
+        "jp-JP": "桜内 梨子"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3702,6 +4016,73 @@
             }
           ],
           "image_url": "Riko_Solo_2.jpg"
+        },
+        {
+          "release_date": "2022-09-19",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Sakurauchi Riko",
+          "songs": [
+            {
+              "id": "PYd-adShQvM",
+              "title": "Pops heart de Odorundamon! (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "lVsXXL_WLmU",
+              "title": "Soramo Kokoromo Harerukara (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "NsquwSKdEnE",
+              "title": "Daydream Warrior (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "z0-DwiOdFY4",
+              "title": "thrilling one way (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "CBn6IDzjO_M",
+              "title": "Taiyo o Oikakero! (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "ujYBBr5DNE8",
+              "title": "Jingle Bells ga Tomaranai (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "3UEthVZCVRc",
+              "title": "Seinaru Hino Inori (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "aIKIPv_8GfE",
+              "title": "Marine Border Parasol (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "Mp5znXdXj5k",
+              "title": "Bokura no Hashitte kita Michi wa... (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "dXwLK1ddWOQ",
+              "title": "Hop? Stop? Nonstop! (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "GFYmu5vaczc",
+              "title": "Brightest Melody (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "clTXKUN-udE",
+              "title": "KISEKIHIKARU (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "tWJxqrrB-Ec",
+              "title": "Next SPARKLING!! (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "VDYZRggvszg",
+              "title": "i-n-g, I TRY!! (Riko Sakurauchi Solo Ver.)"
+            },
+            {
+              "id": "0aSUGXPeW7w",
+              "title": "Minamo ni Piano"
+            }
+          ],
+          "image_url": "Riko_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -3710,8 +4091,10 @@
       }
     },
     {
-      "name": "Tsushima Yoshiko",
-      "name_jp": "津島 善子",
+      "name": {
+        "en-US": "Tsushima Yoshiko",
+        "jp-JP": "津島 善子"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -3867,8 +4250,10 @@
       }
     },
     {
-      "name": "Kurosawa Ruby",
-      "name_jp": "黒澤 ルビィ",
+      "name": {
+        "en-US": "Kurosawa Ruby",
+        "jp-JP": "黒澤 ルビィ"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -4016,6 +4401,77 @@
             }
           ],
           "image_url": "Ruby_Solo_2.jpg"
+        },
+        {
+          "release_date": "2022-09-21",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Kurosawa Ruby",
+          "songs": [
+            {
+              "id": "-PnOOGFcMy4",
+              "title": "Pops heart de Odorundamon! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "-X5ADXvFPp4",
+              "title": "Soramo Kokoromo Harerukara (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "ZFUHz2cNmsU",
+              "title": "Waku-Waku-Week! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "SXCSBUnwIM8",
+              "title": "Daydream Warrior (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "G0kHSSWhg1s",
+              "title": "thrilling one way (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "pBpkCi1CV1A",
+              "title": "Taiyo o Oikakero! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "ozRMB7Y7xN4",
+              "title": "Jingle Bells ga Tomaranai (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "WHOWmZFI2VA",
+              "title": "Seinaru Hino Inori (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "iCpb7-rJIjA",
+              "title": "HAJIMARI ROAD (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "Kh7_nCSzPsQ",
+              "title": "Bokura no Hashitte kita Michi wa... (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "-GKdIRoJhSE",
+              "title": "Hop? Stop? Nonstop! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "SNX0TQ5eSFI",
+              "title": "Brightest Melody (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "7Gj_bYtojNY",
+              "title": "KISEKIHIKARU (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "QBh2KQGYmT8",
+              "title": "Next SPARKLING!! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "orGxBC1Gb6E",
+              "title": "i-n-g, I TRY!! (Ruby Kurosawa Solo Ver.)"
+            },
+            {
+              "id": "mGTymSZargU",
+              "title": "Aikotoba (Ruby Kurosawa Solo Ver.)"
+            }
+          ],
+          "image_url": "Ruby_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -4024,8 +4480,10 @@
       }
     },
     {
-      "name": "Kunikida Hanamaru",
-      "name_jp": "国木田 花丸",
+      "name": {
+        "en-US": "Kunikida Hanamaru",
+        "jp-JP": "国木田 花丸"
+      },
       "group": "Aqours",
       "albums": [
         {
@@ -4173,6 +4631,77 @@
             }
           ],
           "image_url": "Hanamaru_Solo_2.jpg"
+        },
+        {
+          "release_date": "2023-03-04",
+          "title": "Third Solo Concert Album ~THE STORY OF “OVER THE RAINBOW”~ starring Kunikida Hanamaru",
+          "songs": [
+            {
+              "id": "coMKvGmiReQ",
+              "title": "Pops heart de Odorundamon!"
+            },
+            {
+              "id": "GPrXNrtrEI8",
+              "title": "Soramo Kokoromo Harerukara"
+            },
+            {
+              "id": "xSuBxvWeq8c",
+              "title": "Waku-Waku-Week!"
+            },
+            {
+              "id": "l1-8BhwcvlY",
+              "title": "Daydream Warrior"
+            },
+            {
+              "id": "VNMgmInbY7k",
+              "title": "thrilling one way"
+            },
+            {
+              "id": "oDp2WQintDU",
+              "title": "Taiyo o Oikakero!"
+            },
+            {
+              "id": "Wx8ehQn8sBY",
+              "title": "Jingle Bells ga Tomaranai"
+            },
+            {
+              "id": "IT0sLAh8s0c",
+              "title": "Seinaru Hino Inori"
+            },
+            {
+              "id": "Aii9RsLdSG0",
+              "title": "HAJIMARI ROAD"
+            },
+            {
+              "id": "iP_9u8MQHHM",
+              "title": "Bokura no Hashitte kita Michi wa..."
+            },
+            {
+              "id": "XUwh_Loech4",
+              "title": "Hop? Stop? Nonstop!"
+            },
+            {
+              "id": "XrebxHYVFqk",
+              "title": "Brightest Melody"
+            },
+            {
+              "id": "gRoF0hGj0Us",
+              "title": "KISEKIHIKARU"
+            },
+            {
+              "id": "-3Pp4NGiybo",
+              "title": "Next SPARKLING!!"
+            },
+            {
+              "id": "AW9eN5t_G7U",
+              "title": "i-n-g, I TRY!!"
+            },
+            {
+              "id": "bvtTHeTH1Zs",
+              "title": "TSUBOMI SEASON"
+            }
+          ],
+          "image_url": "Hanamaru_Solo_3.jpg"
         }
       ],
       "button_image": {
@@ -4181,8 +4710,10 @@
       }
     },
     {
-      "name": "Asaka Karin",
-      "name_jp": "朝香 果林",
+      "name": {
+        "en-US": "Asaka Karin",
+        "jp-JP": "朝香 果林"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4247,8 +4778,10 @@
       }
     },
     {
-      "name": "Mia Taylor",
-      "name_jp": "ﾐｱ ﾃｲﾗｰ",
+      "name": {
+        "en-US": "Mia Taylor",
+        "jp-JP": "ミア テイラー"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4291,8 +4824,10 @@
       }
     },
     {
-      "name": "Konoe Kanata",
-      "name_jp": "近江 彼方",
+      "name": {
+        "en-US": "Konoe Kanata",
+        "jp-JP": "近江 彼方"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4357,8 +4892,10 @@
       }
     },
     {
-      "name": "Emma Verde",
-      "name_jp": "ｴﾏ ｳﾞｪﾙﾃﾞ",
+      "name": {
+        "en-US": "Emma Verde",
+        "jp-JP": "エマ ヴェルデ"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4423,8 +4960,10 @@
       }
     },
     {
-      "name": "Miyashita Ai",
-      "name_jp": "宮下 愛",
+      "name": {
+        "en-US": "Miyashita Ai",
+        "jp-JP": "宮下 愛"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4489,8 +5028,10 @@
       }
     },
     {
-      "name": "Yuuki Setsuna",
-      "name_jp": "優木 せつ菜",
+      "name": {
+        "en-US": "Yuuki Setsuna",
+        "jp-JP": "優木 せつ菜"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4555,8 +5096,10 @@
       }
     },
     {
-      "name": "Zhong Lanzhu",
-      "name_jp": "鐘 嵐珠",
+      "name": {
+        "en-US": "Zhong Lanzhu",
+        "jp-JP": "鐘 嵐珠"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4599,8 +5142,10 @@
       }
     },
     {
-      "name": "Uehara Ayumu",
-      "name_jp": "上原 歩夢",
+      "name": {
+        "en-US": "Uehara Ayumu",
+        "jp-JP": "上原 歩夢"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4676,8 +5221,10 @@
       }
     },
     {
-      "name": "Ousaka Shizuku",
-      "name_jp": "桜坂 しずく",
+      "name": {
+        "en-US": "Ousaka Shizuku",
+        "jp-JP": "桜坂 しずく"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4742,8 +5289,10 @@
       }
     },
     {
-      "name": "Mifune Shioriko",
-      "name_jp": "三船 栞子",
+      "name": {
+        "en-US": "Mifune Shioriko",
+        "jp-JP": "三船 栞子"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4797,8 +5346,10 @@
       }
     },
     {
-      "name": "Tennnouji Rina",
-      "name_jp": "天王寺 璃奈",
+      "name": {
+        "en-US": "Tennnouji Rina",
+        "jp-JP": "天王寺 璃奈"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4863,8 +5414,10 @@
       }
     },
     {
-      "name": "Nakasu Kasumi",
-      "name_jp": "中須 かすみ",
+      "name": {
+        "en-US": "Nakasu Kasumi",
+        "jp-JP": "中須 かすみ"
+      },
       "group": "Nijigaku",
       "albums": [
         {
@@ -4940,8 +5493,10 @@
       }
     },
     {
-      "name": "Shibuya Kanon",
-      "name_jp": "澁谷 かのん",
+      "name": {
+        "en-US": "Shibuya Kanon",
+        "jp-JP": "澁谷 かのん"
+      },
       "group": "Liella",
       "albums": [
         {
@@ -4962,8 +5517,10 @@
       }
     },
     {
-      "name": "Tang Keke",
-      "name_jp": "唐 可可",
+      "name": {
+        "en-US": "Tang Keke",
+        "jp-JP": "唐 可可"
+      },
       "group": "Liella",
       "albums": [
         {
@@ -4984,8 +5541,10 @@
       }
     },
     {
-      "name": "Heanna Sumire",
-      "name_jp": "平安名 すみれ",
+      "name": {
+        "en-US": "Heanna Sumire",
+        "jp-JP": "平安名 すみれ"
+      },
       "group": "Liella",
       "albums": [
         {
@@ -5006,8 +5565,10 @@
       }
     },
     {
-      "name": "Hazuki Ren",
-      "name_jp": "葉月 恋",
+      "name": {
+        "en-US": "Hazuki Ren",
+        "jp-JP": "葉月 恋"
+      },
       "group": "Liella",
       "albums": [
         {
@@ -5028,8 +5589,10 @@
       }
     },
     {
-      "name": "Arashi Chisato",
-      "name_jp": "嵐 千砂都",
+      "name": {
+        "en-US": "Arashi Chisato",
+        "jp-JP": "嵐 千砂都"
+      },
       "group": "Liella",
       "albums": [
         {

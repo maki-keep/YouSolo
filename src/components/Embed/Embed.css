@@ -6,7 +6,7 @@
   position: relative;
 }
 .embed-placeholder,
-.embed-container iframe {
+.embed-container > iframe {
   left: 0;
   position: absolute;
   top: 0;
@@ -14,13 +14,13 @@
 .embed-placeholder {
   margin: var(--gutter-size) auto 0;
 }
-.embed-container iframe {
+.embed-container > iframe {
   width: 100vw;
 }
 
 /* media */
 @media screen and (min-width: 360px) {
-  .embed-container iframe {
+  .embed-container > iframe {
     width: 360px;
   }
 }
@@ -37,7 +37,7 @@
     .embed-placeholder {
       width: 100%;
     }
-    .embed-container iframe {
+    .embed-container > iframe {
       height: 100%;
       max-height: calc(100vh - var(--tap-size) - var(--yousolo-logo-height) - var(--gutter-size));
       width: 100%;

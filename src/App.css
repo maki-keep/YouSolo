@@ -1,22 +1,9 @@
-.App {
-  height: 100vh;
-  overflow: hidden;
-  position: relative;
-  text-align: center;
-  width: 100vw;
-}
 header,
 main,
 .overlay {
   left: 0;
   position: absolute;
   top: 0;
-}
-header {
-  height: var(--tap-size);
-  padding: 0 calc(var(--gutter-size) / 4);
-  width: 100%;
-  z-index: 10;
 }
 main {
   background-color: #FFCBDE;
@@ -26,13 +13,17 @@ main {
 h1 {
   line-height: 0;
 }
-h2, p {
+h2,
+p,
+.title {
   font-size: 1.25rem;
+  word-break: keep-all;
 }
 /* li {
   display: contents;
 } */
 button {
+  background-color: transparent;
   border: 0;
   color: inherit;
   cursor: pointer;
@@ -59,21 +50,17 @@ a[href]:hover {
 .logo-container {
   margin: inherit;
   max-width: fit-content;
-  overflow: auto;
 }
-.idol-buttons-box {
-  height: var(--idol-buttons-box-height);
+.idol-buttons-container {
+  height: var(--idol-buttons-container-height);
   margin: inherit;
   max-width: 360px;
+  overflow-y: scroll;
 }
 .lovelive-box {
   background-color: #FFFFFF;
   border: 2px solid #CCCCCC;
   border-radius: 8px;
-}
-.idol-buttons-container {
-  height: 100%;
-  overflow-y: scroll;
 }
 .lovelive-button {
   background-color: var(--lovelive-color);
@@ -120,7 +107,7 @@ a[href]:hover {
 
 /* media */
 @media screen and (min-width: 360px) {
-  .idol-buttons-box {
+  .idol-buttons-container {
     padding: calc(var(--gutter-size) / 2);
   }
 }
@@ -134,7 +121,7 @@ a[href]:hover {
       display: grid;
       gap: calc(var(--gutter-size) / 2);
       grid-auto-flow: row;
-      grid-auto-rows: calc(var(--button-image-size) + 68px);
+      grid-auto-rows: calc(var(--button-image-size) + 48px);
       grid-template-columns: repeat(3, calc(var(--button-width)));
       justify-items: stretch;
     }
@@ -152,7 +139,7 @@ a[href]:hover {
     .logo-container {
       grid-column: 1 / 3;
     }
-    .idol-buttons-box {
+    .idol-buttons-container {
       height: 100%;
       margin: 0;
     }

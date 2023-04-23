@@ -2,13 +2,24 @@ import React, { useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../app/hooks";
 import {
   openAboutWindow,
-  selectActiveOverlayWindow
+  clickLanguage,
+  selectActiveOverlayWindow,
+  selectCurrentLanguage
 } from "../../appSlice";
 import { Icon } from "@iconify/react";
-import "./Navbar.css";
+import "./Header.css";
 
-function Navbar() {
+function Header() {
+  const dispatch = useAppDispatch();
+  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
+  const currentLanguage = useAppSelector(selectCurrentLanguage);
   const [showDropdown, setShowDropdown] = useState(false);
+  const handleClickEnglishUS: React.MouseEventHandler<HTMLButtonElement> = () => {
+    dispatch(clickLanguage("en-US"));
+  };
+  const handleClickJapaneseJP: React.MouseEventHandler<HTMLButtonElement> = () => {
+    dispatch(clickLanguage("jp-JP"));
+  };
   const handleShowDropdown: React.MouseEventHandler<HTMLButtonElement> = () => {
     if (showDropdown) {
       setShowDropdown(false);
@@ -16,19 +27,49 @@ function Navbar() {
       setShowDropdown(true);
     }
   };
-  const dispatch = useAppDispatch();
   const handleOpenAboutWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(openAboutWindow());
   };
-  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
   useEffect(() => {
     if (activeOverlayWindow !== "") {
       setShowDropdown(false);
     }
   }, [activeOverlayWindow]);
   return (
-    <nav>
+    <header>
       <ul>
+        <li>
+          <button
+            id="language-en-us"
+            aria-label="change language to English (United States)"
+            onClick={handleClickEnglishUS}
+            style={{
+              opacity: currentLanguage === "en-US" ? ".75" : "1"
+            }}
+          >
+            <Icon
+              icon="emojione:flag-for-united-states"
+              width="32"
+              height="32"
+            />
+          </button>
+        </li>
+        <li>
+          <button
+            id="language-jp-jp"
+            aria-label="change language to Japanese (Japan)"
+            onClick={handleClickJapaneseJP}
+            style={{
+              opacity: currentLanguage === "jp-JP" ? ".75" : "1"
+            }}
+          >
+            <Icon
+              icon="emojione:flag-for-japan"
+              width="32"
+              height="32"
+            />
+          </button>
+        </li>
         <li>
           <button
             id="more"
@@ -39,8 +80,8 @@ function Navbar() {
             <Icon
               icon="ci:more-horizontal"
               color="white"
-              width="24"
-              height="24"
+              width="32"
+              height="32"
             />
           </button>
           <div
@@ -64,8 +105,8 @@ function Navbar() {
           </div>
         </li>
       </ul>
-    </nav>
+    </header>
   );
 }
 
-export default Navbar;
+export default Header;

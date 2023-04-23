@@ -20,7 +20,7 @@
   --about-container-height: calc(100% - var(--gutter-size) - var(--tap-size));
   --album-width: calc(var(--album-image-size) + 16px);
   --button-width: calc(var(--button-image-size) + 16px);
-  --idol-buttons-box-height: calc(100% - var(--yousolo-logo-height) - var(--video-height));
+  --idol-buttons-container-height: calc(100% - var(--yousolo-logo-height) - var(--video-height));
   --songs-container-height: calc(100% - var(--gutter-size) - var(--button-image-size));
 }
 
@@ -37,4 +37,11 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   line-height: 1.5;
+}
+#root {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 100vw;
 }

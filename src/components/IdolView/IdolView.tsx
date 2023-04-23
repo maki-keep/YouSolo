@@ -2,7 +2,8 @@ import React from "react";
 import { useAppSelector, useAppDispatch } from "../../app/hooks";
 import {
   closeOverlayWindow,
-  selectActiveOverlayWindow
+  selectActiveOverlayWindow,
+  selectCurrentLanguage
 } from "../../appSlice";
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
@@ -18,10 +19,11 @@ function IdolView({
   index: number,
   idol: IdolI
 }) {
-  const idAttribute = `idol-view-${index}`;
-  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
-  const matchIdAttribute = activeOverlayWindow === idAttribute;
   const dispatch = useAppDispatch();
+  const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
+  const currentLanguage = useAppSelector(selectCurrentLanguage);
+  const idAttribute = `idol-view-${index}`;
+  const matchIdAttribute = activeOverlayWindow === idAttribute;
   const handleCloseOverlayWindow: React.MouseEventHandler<HTMLButtonElement> = () => {
     dispatch(closeOverlayWindow());
   };
@@ -32,19 +34,17 @@ function IdolView({
         display: matchIdAttribute ? "block" : "none"
       }}
     >
-      <div className="idol-details">
+      <section className="idol-details">
         <img
           src={idol.button_image.url ? require(`../../media/${idol.button_image.url}`) : ""}
-          alt={idol.name}
+          alt={idol.name[currentLanguage]}
           width="72"
           height="72"
         />
         <h2>
-          {idol.name}
-          <br />
-          {idol.name_jp}
+          {idol.name[currentLanguage]}
         </h2>
-      </div>
+      </section>
       <button
         className="lovelive-button close-overlay"
         onClick={handleCloseOverlayWindow}

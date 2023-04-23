@@ -6,7 +6,7 @@ import {
 import "./App.css";
 import logo from "./media/yousolo-logo.png";
 import idols from "./data/idols.json";
-import Navbar from "./components/Navbar/Navbar";
+import Header from "./components/Header/Header";
 import Embed from "./components/Embed/Embed";
 import IdolButton from "./components/IdolButton/IdolButton";
 import About from "./components/About/About";
@@ -23,13 +23,11 @@ function App() {
     }
   }, [activeOverlayWindow]);
   return (
-    <div className="App">
-      <header>
-        <Navbar />
-      </header>
+    <>
+      <Header />
       <main>
         <div className="wrapper">
-          <div className="logo-container">
+          <section className="logo-container">
             <h1>
               <img
                 src={logo}
@@ -39,20 +37,18 @@ function App() {
                 height="59"
               />
             </h1>
-          </div>
+          </section>
           <Embed />
-          <div className="idol-buttons-box lovelive-box">
-            <div className="idol-buttons-container">
-              <ol className="idol-buttons">
-              {idols.items.map((item, index) => (
-                <IdolButton
-                  key={item.name}
-                  index={index}
-                  idol={item}
-                />
-              ))}
-              </ol>
-            </div>
+          <div className="idol-buttons-container lovelive-box">
+            <ol className="idol-buttons">
+            {idols.items.map((item, index) => (
+              <IdolButton
+                key={index}
+                index={index}
+                idol={item}
+              />
+            ))}
+            </ol>
           </div>
         </div>
         <div
@@ -78,7 +74,7 @@ function App() {
           </div>
         </div>
       </main>
-    </div>
+    </>
   );
 }
 

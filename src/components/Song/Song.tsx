@@ -35,7 +35,7 @@ function Song({
           border-color: ${image_color};
         `}
       >
-        <p className="song-title">{song.title}</p>
+        <span className="song-title">{song.title}</span>
       </button>
     </li>
   );

@@ -1,7 +1,10 @@
-nav {
-  height: 100%;
+header {
+  height: var(--tap-size);
+  padding: 0 calc(var(--gutter-size) / 4);
+  width: 100%;
+  z-index: 10;
 }
-nav > ul {
+header > ul {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -9,14 +12,14 @@ nav > ul {
   justify-content: flex-start;
   height: 100%;
 }
-nav > ul > li {
+header > ul > li {
   display: inline-block;
   margin: calc(var(--gutter-size) / 4);
 }
-nav > ul > li:not(:last-child) {
+header > ul > li:not(:last-child) {
   margin-right: calc(var(--gutter-size) / 2);
 }
-nav > ul > li > button {
+header > ul > li > button {
   align-items: center;
   display: flex;
   flex-direction: row;

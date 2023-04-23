@@ -15,7 +15,7 @@ function Embed() {
           display: !isValidSong ? "block" : "none"
         }}
       >
-        <p>Select an idol and one of her songs to start listening.</p>
+        <span>Select an idol and one of her songs to start listening.</span>
       </div>
       {isValidSong && (
         <iframe

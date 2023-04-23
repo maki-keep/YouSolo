@@ -6,7 +6,7 @@
   border-color: var(--lovelive-color);
   display: flex;
   flex-direction: column;
-  height: calc(var(--button-image-size) + 68px);
+  height: calc(var(--button-image-size) + 48px);
   justify-content: flex-start;
   overflow: hidden;
   width: var(--button-width);

@@ -36,8 +36,8 @@ function Album({
           alt={album.title}
           height="128"
         />
-        <p className="album-title">{album.title}</p>
-        <p className="release-date">{album.release_date}</p>
+        <span className="album-title">{album.title}</span>
+        <span className="release-date">{album.release_date}</span>
       </button>
       <ol
         className="songs"
