@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
 import { useAppSelector } from "./app/hooks";
 import {
   selectActiveOverlayWindow
 } from "./appSlice";
+import { Idol as IdolI } from "./types/types";
 import "./App.css";
 import logo from "./media/yousolo-logo.png";
 import idols from "./data/idols.json";
@@ -14,14 +14,13 @@ import IdolView from "./components/IdolView/IdolView";
 
 function App() {
   const activeOverlayWindow = useAppSelector(selectActiveOverlayWindow);
-  const [overlay, setOverlay] = useState(false);
-  useEffect(() => {
-    if (activeOverlayWindow !== "") {
-      setOverlay(true);
-    } else {
-      setOverlay(false);
-    }
-  }, [activeOverlayWindow]);
+  const findIdolCallback = (item: IdolI, index: number) => {
+    // whether idol window at index is open
+    return activeOverlayWindow === `idol-view-${index}`;
+  };
+  const foundIdol = idols.items.find(findIdolCallback);
+  const foundIdolIndex = idols.items.findIndex(findIdolCallback);
+  /* console.log(`Found ${foundIdol?.name["en-US"]} at ${foundIdolIndex}.`); */
   return (
     <>
       <Header />
@@ -54,23 +53,21 @@ function App() {
         <div
           className="overlay"
           style={{
-            display: overlay ? "block" : "none"
+            display: activeOverlayWindow !== "" ? "block" : "none"
           }}
         >
           <div
             className="overlay-window lovelive-box"
-            style={{
-              display: activeOverlayWindow !== "" ? "block" : "none"
-            }}
           >
+          {activeOverlayWindow === "about-window" && (
             <About />
-          {idols.items.map((item, index) => (
+          )}
+          {(foundIdol !== undefined && foundIdolIndex !== -1) && (
             <IdolView
-              key={index}
-              index={index}
-              idol={item}
+              index={foundIdolIndex}
+              idol={foundIdol}
             />
-          ))}
+          )}
           </div>
         </div>
       </main>

@@ -24,6 +24,7 @@ export const appSlice = createSlice({
       state.activeOverlayWindow = `about-window`;
     },
     openIdolView: (state, action: PayloadAction<number>) => {
+      // payload is index of idol item
       state.activeOverlayWindow = `idol-view-${action.payload}`;
     },
     closeOverlayWindow: (state) => {
